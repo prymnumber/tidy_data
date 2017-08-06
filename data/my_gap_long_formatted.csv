@@ -1,0 +1,5113 @@
+continent,country,obs_type,obs_vlues
+Africa,Algeria,gdpPercap_1952,2449.008185
+Africa,Angola,gdpPercap_1952,3520.610273
+Africa,Benin,gdpPercap_1952,1062.7522
+Africa,Botswana,gdpPercap_1952,851.2411407
+Africa,Burkina Faso,gdpPercap_1952,543.2552413
+Africa,Burundi,gdpPercap_1952,339.2964587
+Africa,Cameroon,gdpPercap_1952,1172.667655
+Africa,Central African Republic,gdpPercap_1952,1071.310713
+Africa,Chad,gdpPercap_1952,1178.665927
+Africa,Comoros,gdpPercap_1952,1102.990936
+Africa,Congo Dem. Rep.,gdpPercap_1952,780.5423257
+Africa,Congo Rep.,gdpPercap_1952,2125.621418
+Africa,Cote d'Ivoire,gdpPercap_1952,1388.594732
+Africa,Djibouti,gdpPercap_1952,2669.529475
+Africa,Egypt,gdpPercap_1952,1418.822445
+Africa,Equatorial Guinea,gdpPercap_1952,375.6431231
+Africa,Eritrea,gdpPercap_1952,328.9405571
+Africa,Ethiopia,gdpPercap_1952,362.1462796
+Africa,Gabon,gdpPercap_1952,4293.476475
+Africa,Gambia,gdpPercap_1952,485.2306591
+Africa,Ghana,gdpPercap_1952,911.2989371
+Africa,Guinea,gdpPercap_1952,510.1964923
+Africa,Guinea-Bissau,gdpPercap_1952,299.850319
+Africa,Kenya,gdpPercap_1952,853.540919
+Africa,Lesotho,gdpPercap_1952,298.8462121
+Africa,Liberia,gdpPercap_1952,575.5729961
+Africa,Libya,gdpPercap_1952,2387.54806
+Africa,Madagascar,gdpPercap_1952,1443.011715
+Africa,Malawi,gdpPercap_1952,369.1650802
+Africa,Mali,gdpPercap_1952,452.3369807
+Africa,Mauritania,gdpPercap_1952,743.1159097
+Africa,Mauritius,gdpPercap_1952,1967.955707
+Africa,Morocco,gdpPercap_1952,1688.20357
+Africa,Mozambique,gdpPercap_1952,468.5260381
+Africa,Namibia,gdpPercap_1952,2423.780443
+Africa,Niger,gdpPercap_1952,761.879376
+Africa,Nigeria,gdpPercap_1952,1077.281856
+Africa,Reunion,gdpPercap_1952,2718.885295
+Africa,Rwanda,gdpPercap_1952,493.3238752
+Africa,Sao Tome and Principe,gdpPercap_1952,879.5835855
+Africa,Senegal,gdpPercap_1952,1450.356983
+Africa,Sierra Leone,gdpPercap_1952,879.7877358
+Africa,Somalia,gdpPercap_1952,1135.749842
+Africa,South Africa,gdpPercap_1952,4725.295531
+Africa,Sudan,gdpPercap_1952,1615.991129
+Africa,Swaziland,gdpPercap_1952,1148.376626
+Africa,Tanzania,gdpPercap_1952,716.6500721
+Africa,Togo,gdpPercap_1952,859.8086567
+Africa,Tunisia,gdpPercap_1952,1468.475631
+Africa,Uganda,gdpPercap_1952,734.753484
+Africa,Zambia,gdpPercap_1952,1147.388831
+Africa,Zimbabwe,gdpPercap_1952,406.8841148
+Americas,Argentina,gdpPercap_1952,5911.315053
+Americas,Bolivia,gdpPercap_1952,2677.326347
+Americas,Brazil,gdpPercap_1952,2108.944355
+Americas,Canada,gdpPercap_1952,11367.16112
+Americas,Chile,gdpPercap_1952,3939.978789
+Americas,Colombia,gdpPercap_1952,2144.115096
+Americas,Costa Rica,gdpPercap_1952,2627.009471
+Americas,Cuba,gdpPercap_1952,5586.53878
+Americas,Dominican Republic,gdpPercap_1952,1397.717137
+Americas,Ecuador,gdpPercap_1952,3522.110717
+Americas,El Salvador,gdpPercap_1952,3048.3029
+Americas,Guatemala,gdpPercap_1952,2428.237769
+Americas,Haiti,gdpPercap_1952,1840.366939
+Americas,Honduras,gdpPercap_1952,2194.926204
+Americas,Jamaica,gdpPercap_1952,2898.530881
+Americas,Mexico,gdpPercap_1952,3478.125529
+Americas,Nicaragua,gdpPercap_1952,3112.363948
+Americas,Panama,gdpPercap_1952,2480.380334
+Americas,Paraguay,gdpPercap_1952,1952.308701
+Americas,Peru,gdpPercap_1952,3758.523437
+Americas,Puerto Rico,gdpPercap_1952,3081.959785
+Americas,Trinidad and Tobago,gdpPercap_1952,3023.271928
+Americas,United States,gdpPercap_1952,13990.48208
+Americas,Uruguay,gdpPercap_1952,5716.766744
+Americas,Venezuela,gdpPercap_1952,7689.799761
+Asia,Afghanistan,gdpPercap_1952,779.4453145
+Asia,Bahrain,gdpPercap_1952,9867.084765
+Asia,Bangladesh,gdpPercap_1952,684.2441716
+Asia,Cambodia,gdpPercap_1952,368.4692856
+Asia,China,gdpPercap_1952,400.448610699994
+Asia,Hong Kong China,gdpPercap_1952,3054.421209
+Asia,India,gdpPercap_1952,546.5657493
+Asia,Indonesia,gdpPercap_1952,749.6816546
+Asia,Iran,gdpPercap_1952,3035.326002
+Asia,Iraq,gdpPercap_1952,4129.766056
+Asia,Israel,gdpPercap_1952,4086.522128
+Asia,Japan,gdpPercap_1952,3216.956347
+Asia,Jordan,gdpPercap_1952,1546.907807
+Asia,Korea Dem. Rep.,gdpPercap_1952,1088.277758
+Asia,Korea Rep.,gdpPercap_1952,1030.592226
+Asia,Kuwait,gdpPercap_1952,108382.3529
+Asia,Lebanon,gdpPercap_1952,4834.804067
+Asia,Malaysia,gdpPercap_1952,1831.132894
+Asia,Mongolia,gdpPercap_1952,786.5668575
+Asia,Myanmar,gdpPercap_1952,331
+Asia,Nepal,gdpPercap_1952,545.8657229
+Asia,Oman,gdpPercap_1952,1828.230307
+Asia,Pakistan,gdpPercap_1952,684.5971438
+Asia,Philippines,gdpPercap_1952,1272.880995
+Asia,Saudi Arabia,gdpPercap_1952,6459.554823
+Asia,Singapore,gdpPercap_1952,2315.138227
+Asia,Sri Lanka,gdpPercap_1952,1083.53203
+Asia,Syria,gdpPercap_1952,1643.485354
+Asia,Taiwan,gdpPercap_1952,1206.947913
+Asia,Thailand,gdpPercap_1952,757.7974177
+Asia,Vietnam,gdpPercap_1952,605.0664917
+Asia,West Bank and Gaza,gdpPercap_1952,1515.592329
+Asia,Yemen Rep.,gdpPercap_1952,781.7175761
+Europe,Albania,gdpPercap_1952,1601.056136
+Europe,Austria,gdpPercap_1952,6137.076492
+Europe,Belgium,gdpPercap_1952,8343.105127
+Europe,Bosnia and Herzegovina,gdpPercap_1952,973.5331948
+Europe,Bulgaria,gdpPercap_1952,2444.286648
+Europe,Croatia,gdpPercap_1952,3119.23652
+Europe,Czech Republic,gdpPercap_1952,6876.14025
+Europe,Denmark,gdpPercap_1952,9692.385245
+Europe,Finland,gdpPercap_1952,6424.519071
+Europe,France,gdpPercap_1952,7029.809327
+Europe,Germany,gdpPercap_1952,7144.114393
+Europe,Greece,gdpPercap_1952,3530.690067
+Europe,Hungary,gdpPercap_1952,5263.673816
+Europe,Iceland,gdpPercap_1952,7267.688428
+Europe,Ireland,gdpPercap_1952,5210.280328
+Europe,Italy,gdpPercap_1952,4931.404155
+Europe,Montenegro,gdpPercap_1952,2647.585601
+Europe,Netherlands,gdpPercap_1952,8941.571858
+Europe,Norway,gdpPercap_1952,10095.42172
+Europe,Poland,gdpPercap_1952,4029.329699
+Europe,Portugal,gdpPercap_1952,3068.319867
+Europe,Romania,gdpPercap_1952,3144.613186
+Europe,Serbia,gdpPercap_1952,3581.459448
+Europe,Slovak Republic,gdpPercap_1952,5074.659104
+Europe,Slovenia,gdpPercap_1952,4215.041741
+Europe,Spain,gdpPercap_1952,3834.034742
+Europe,Sweden,gdpPercap_1952,8527.844662
+Europe,Switzerland,gdpPercap_1952,14734.23275
+Europe,Turkey,gdpPercap_1952,1969.10098
+Europe,United Kingdom,gdpPercap_1952,9979.508487
+Oceania,Australia,gdpPercap_1952,10039.59564
+Oceania,New Zealand,gdpPercap_1952,10556.57566
+Africa,Algeria,gdpPercap_1957,3013.976023
+Africa,Angola,gdpPercap_1957,3827.940465
+Africa,Benin,gdpPercap_1957,959.6010805
+Africa,Botswana,gdpPercap_1957,918.2325349
+Africa,Burkina Faso,gdpPercap_1957,617.1834648
+Africa,Burundi,gdpPercap_1957,379.5646281
+Africa,Cameroon,gdpPercap_1957,1313.048099
+Africa,Central African Republic,gdpPercap_1957,1190.844328
+Africa,Chad,gdpPercap_1957,1308.495577
+Africa,Comoros,gdpPercap_1957,1211.148548
+Africa,Congo Dem. Rep.,gdpPercap_1957,905.8602303
+Africa,Congo Rep.,gdpPercap_1957,2315.056572
+Africa,Cote d'Ivoire,gdpPercap_1957,1500.895925
+Africa,Djibouti,gdpPercap_1957,2864.969076
+Africa,Egypt,gdpPercap_1957,1458.915272
+Africa,Equatorial Guinea,gdpPercap_1957,426.0964081
+Africa,Eritrea,gdpPercap_1957,344.1618859
+Africa,Ethiopia,gdpPercap_1957,378.9041632
+Africa,Gabon,gdpPercap_1957,4976.198099
+Africa,Gambia,gdpPercap_1957,520.9267111
+Africa,Ghana,gdpPercap_1957,1043.561537
+Africa,Guinea,gdpPercap_1957,576.2670245
+Africa,Guinea-Bissau,gdpPercap_1957,431.7904566
+Africa,Kenya,gdpPercap_1957,944.4383152
+Africa,Lesotho,gdpPercap_1957,335.9971151
+Africa,Liberia,gdpPercap_1957,620.9699901
+Africa,Libya,gdpPercap_1957,3448.284395
+Africa,Madagascar,gdpPercap_1957,1589.20275
+Africa,Malawi,gdpPercap_1957,416.3698064
+Africa,Mali,gdpPercap_1957,490.3821867
+Africa,Mauritania,gdpPercap_1957,846.1202613
+Africa,Mauritius,gdpPercap_1957,2034.037981
+Africa,Morocco,gdpPercap_1957,1642.002314
+Africa,Mozambique,gdpPercap_1957,495.5868333
+Africa,Namibia,gdpPercap_1957,2621.448058
+Africa,Niger,gdpPercap_1957,835.5234025
+Africa,Nigeria,gdpPercap_1957,1100.592563
+Africa,Reunion,gdpPercap_1957,2769.451844
+Africa,Rwanda,gdpPercap_1957,540.2893983
+Africa,Sao Tome and Principe,gdpPercap_1957,860.7369026
+Africa,Senegal,gdpPercap_1957,1567.653006
+Africa,Sierra Leone,gdpPercap_1957,1004.484437
+Africa,Somalia,gdpPercap_1957,1258.147413
+Africa,South Africa,gdpPercap_1957,5487.104219
+Africa,Sudan,gdpPercap_1957,1770.337074
+Africa,Swaziland,gdpPercap_1957,1244.708364
+Africa,Tanzania,gdpPercap_1957,698.5356073
+Africa,Togo,gdpPercap_1957,925.9083202
+Africa,Tunisia,gdpPercap_1957,1395.232468
+Africa,Uganda,gdpPercap_1957,774.3710692
+Africa,Zambia,gdpPercap_1957,1311.956766
+Africa,Zimbabwe,gdpPercap_1957,518.7642681
+Americas,Argentina,gdpPercap_1957,6856.856212
+Americas,Bolivia,gdpPercap_1957,2127.686326
+Americas,Brazil,gdpPercap_1957,2487.365989
+Americas,Canada,gdpPercap_1957,12489.95006
+Americas,Chile,gdpPercap_1957,4315.622723
+Americas,Colombia,gdpPercap_1957,2323.805581
+Americas,Costa Rica,gdpPercap_1957,2990.010802
+Americas,Cuba,gdpPercap_1957,6092.174359
+Americas,Dominican Republic,gdpPercap_1957,1544.402995
+Americas,Ecuador,gdpPercap_1957,3780.546651
+Americas,El Salvador,gdpPercap_1957,3421.523218
+Americas,Guatemala,gdpPercap_1957,2617.155967
+Americas,Haiti,gdpPercap_1957,1726.887882
+Americas,Honduras,gdpPercap_1957,2220.487682
+Americas,Jamaica,gdpPercap_1957,4756.525781
+Americas,Mexico,gdpPercap_1957,4131.546641
+Americas,Nicaragua,gdpPercap_1957,3457.415947
+Americas,Panama,gdpPercap_1957,2961.800905
+Americas,Paraguay,gdpPercap_1957,2046.154706
+Americas,Peru,gdpPercap_1957,4245.256698
+Americas,Puerto Rico,gdpPercap_1957,3907.156189
+Americas,Trinidad and Tobago,gdpPercap_1957,4100.3934
+Americas,United States,gdpPercap_1957,14847.12712
+Americas,Uruguay,gdpPercap_1957,6150.772969
+Americas,Venezuela,gdpPercap_1957,9802.466526
+Asia,Afghanistan,gdpPercap_1957,820.8530296
+Asia,Bahrain,gdpPercap_1957,11635.79945
+Asia,Bangladesh,gdpPercap_1957,661.6374577
+Asia,Cambodia,gdpPercap_1957,434.0383364
+Asia,China,gdpPercap_1957,575.9870009
+Asia,Hong Kong China,gdpPercap_1957,3629.076457
+Asia,India,gdpPercap_1957,590.061996
+Asia,Indonesia,gdpPercap_1957,858.9002707
+Asia,Iran,gdpPercap_1957,3290.257643
+Asia,Iraq,gdpPercap_1957,6229.333562
+Asia,Israel,gdpPercap_1957,5385.278451
+Asia,Japan,gdpPercap_1957,4317.694365
+Asia,Jordan,gdpPercap_1957,1886.080591
+Asia,Korea Dem. Rep.,gdpPercap_1957,1571.134655
+Asia,Korea Rep.,gdpPercap_1957,1487.593537
+Asia,Kuwait,gdpPercap_1957,113523.1329
+Asia,Lebanon,gdpPercap_1957,6089.786934
+Asia,Malaysia,gdpPercap_1957,1810.066992
+Asia,Mongolia,gdpPercap_1957,912.6626085
+Asia,Myanmar,gdpPercap_1957,350
+Asia,Nepal,gdpPercap_1957,597.9363558
+Asia,Oman,gdpPercap_1957,2242.746551
+Asia,Pakistan,gdpPercap_1957,747.0835292
+Asia,Philippines,gdpPercap_1957,1547.944844
+Asia,Saudi Arabia,gdpPercap_1957,8157.591248
+Asia,Singapore,gdpPercap_1957,2843.104409
+Asia,Sri Lanka,gdpPercap_1957,1072.546602
+Asia,Syria,gdpPercap_1957,2117.234893
+Asia,Taiwan,gdpPercap_1957,1507.86129
+Asia,Thailand,gdpPercap_1957,793.5774148
+Asia,Vietnam,gdpPercap_1957,676.2854478
+Asia,West Bank and Gaza,gdpPercap_1957,1827.067742
+Asia,Yemen Rep.,gdpPercap_1957,804.8304547
+Europe,Albania,gdpPercap_1957,1942.284244
+Europe,Austria,gdpPercap_1957,8842.59803
+Europe,Belgium,gdpPercap_1957,9714.960623
+Europe,Bosnia and Herzegovina,gdpPercap_1957,1353.989176
+Europe,Bulgaria,gdpPercap_1957,3008.670727
+Europe,Croatia,gdpPercap_1957,4338.231617
+Europe,Czech Republic,gdpPercap_1957,8256.343918
+Europe,Denmark,gdpPercap_1957,11099.65935
+Europe,Finland,gdpPercap_1957,7545.415386
+Europe,France,gdpPercap_1957,8662.834898
+Europe,Germany,gdpPercap_1957,10187.82665
+Europe,Greece,gdpPercap_1957,4916.299889
+Europe,Hungary,gdpPercap_1957,6040.180011
+Europe,Iceland,gdpPercap_1957,9244.001412
+Europe,Ireland,gdpPercap_1957,5599.077872
+Europe,Italy,gdpPercap_1957,6248.656232
+Europe,Montenegro,gdpPercap_1957,3682.259903
+Europe,Netherlands,gdpPercap_1957,11276.19344
+Europe,Norway,gdpPercap_1957,11653.97304
+Europe,Poland,gdpPercap_1957,4734.253019
+Europe,Portugal,gdpPercap_1957,3774.571743
+Europe,Romania,gdpPercap_1957,3943.370225
+Europe,Serbia,gdpPercap_1957,4981.090891
+Europe,Slovak Republic,gdpPercap_1957,6093.26298
+Europe,Slovenia,gdpPercap_1957,5862.276629
+Europe,Spain,gdpPercap_1957,4564.80241
+Europe,Sweden,gdpPercap_1957,9911.878226
+Europe,Switzerland,gdpPercap_1957,17909.48973
+Europe,Turkey,gdpPercap_1957,2218.754257
+Europe,United Kingdom,gdpPercap_1957,11283.17795
+Oceania,Australia,gdpPercap_1957,10949.64959
+Oceania,New Zealand,gdpPercap_1957,12247.39532
+Africa,Algeria,gdpPercap_1962,2550.81688
+Africa,Angola,gdpPercap_1962,4269.276742
+Africa,Benin,gdpPercap_1962,949.4990641
+Africa,Botswana,gdpPercap_1962,983.6539764
+Africa,Burkina Faso,gdpPercap_1962,722.5120206
+Africa,Burundi,gdpPercap_1962,355.2032273
+Africa,Cameroon,gdpPercap_1962,1399.607441
+Africa,Central African Republic,gdpPercap_1962,1193.068753
+Africa,Chad,gdpPercap_1962,1389.817618
+Africa,Comoros,gdpPercap_1962,1406.648278
+Africa,Congo Dem. Rep.,gdpPercap_1962,896.3146335
+Africa,Congo Rep.,gdpPercap_1962,2464.783157
+Africa,Cote d'Ivoire,gdpPercap_1962,1728.869428
+Africa,Djibouti,gdpPercap_1962,3020.989263
+Africa,Egypt,gdpPercap_1962,1693.335853
+Africa,Equatorial Guinea,gdpPercap_1962,582.8419714
+Africa,Eritrea,gdpPercap_1962,380.9958433
+Africa,Ethiopia,gdpPercap_1962,419.4564161
+Africa,Gabon,gdpPercap_1962,6631.459222
+Africa,Gambia,gdpPercap_1962,599.650276
+Africa,Ghana,gdpPercap_1962,1190.041118
+Africa,Guinea,gdpPercap_1962,686.3736739
+Africa,Guinea-Bissau,gdpPercap_1962,522.0343725
+Africa,Kenya,gdpPercap_1962,896.9663732
+Africa,Lesotho,gdpPercap_1962,411.8006266
+Africa,Liberia,gdpPercap_1962,634.1951625
+Africa,Libya,gdpPercap_1962,6757.030816
+Africa,Madagascar,gdpPercap_1962,1643.38711
+Africa,Malawi,gdpPercap_1962,427.9010856
+Africa,Mali,gdpPercap_1962,496.1743428
+Africa,Mauritania,gdpPercap_1962,1055.896036
+Africa,Mauritius,gdpPercap_1962,2529.067487
+Africa,Morocco,gdpPercap_1962,1566.353493
+Africa,Mozambique,gdpPercap_1962,556.6863539
+Africa,Namibia,gdpPercap_1962,3173.215595
+Africa,Niger,gdpPercap_1962,997.7661127
+Africa,Nigeria,gdpPercap_1962,1150.927478
+Africa,Reunion,gdpPercap_1962,3173.72334
+Africa,Rwanda,gdpPercap_1962,597.4730727
+Africa,Sao Tome and Principe,gdpPercap_1962,1071.551119
+Africa,Senegal,gdpPercap_1962,1654.988723
+Africa,Sierra Leone,gdpPercap_1962,1116.639877
+Africa,Somalia,gdpPercap_1962,1369.488336
+Africa,South Africa,gdpPercap_1962,5768.729717
+Africa,Sudan,gdpPercap_1962,1959.593767
+Africa,Swaziland,gdpPercap_1962,1856.182125
+Africa,Tanzania,gdpPercap_1962,722.0038073
+Africa,Togo,gdpPercap_1962,1067.53481
+Africa,Tunisia,gdpPercap_1962,1660.30321
+Africa,Uganda,gdpPercap_1962,767.2717398
+Africa,Zambia,gdpPercap_1962,1452.725766
+Africa,Zimbabwe,gdpPercap_1962,527.2721818
+Americas,Argentina,gdpPercap_1962,7133.166023
+Americas,Bolivia,gdpPercap_1962,2180.972546
+Americas,Brazil,gdpPercap_1962,3336.585802
+Americas,Canada,gdpPercap_1962,13462.48555
+Americas,Chile,gdpPercap_1962,4519.094331
+Americas,Colombia,gdpPercap_1962,2492.351109
+Americas,Costa Rica,gdpPercap_1962,3460.937025
+Americas,Cuba,gdpPercap_1962,5180.75591
+Americas,Dominican Republic,gdpPercap_1962,1662.137359
+Americas,Ecuador,gdpPercap_1962,4086.114078
+Americas,El Salvador,gdpPercap_1962,3776.803627
+Americas,Guatemala,gdpPercap_1962,2750.364446
+Americas,Haiti,gdpPercap_1962,1796.589032
+Americas,Honduras,gdpPercap_1962,2291.156835
+Americas,Jamaica,gdpPercap_1962,5246.107524
+Americas,Mexico,gdpPercap_1962,4581.609385
+Americas,Nicaragua,gdpPercap_1962,3634.364406
+Americas,Panama,gdpPercap_1962,3536.540301
+Americas,Paraguay,gdpPercap_1962,2148.027146
+Americas,Peru,gdpPercap_1962,4957.037982
+Americas,Puerto Rico,gdpPercap_1962,5108.34463
+Americas,Trinidad and Tobago,gdpPercap_1962,4997.523971
+Americas,United States,gdpPercap_1962,16173.14586
+Americas,Uruguay,gdpPercap_1962,5603.357717
+Americas,Venezuela,gdpPercap_1962,8422.974165
+Asia,Afghanistan,gdpPercap_1962,853.10071
+Asia,Bahrain,gdpPercap_1962,12753.27514
+Asia,Bangladesh,gdpPercap_1962,686.3415538
+Asia,Cambodia,gdpPercap_1962,496.9136476
+Asia,China,gdpPercap_1962,487.6740183
+Asia,Hong Kong China,gdpPercap_1962,4692.648272
+Asia,India,gdpPercap_1962,658.3471509
+Asia,Indonesia,gdpPercap_1962,849.2897701
+Asia,Iran,gdpPercap_1962,4187.329802
+Asia,Iraq,gdpPercap_1962,8341.737815
+Asia,Israel,gdpPercap_1962,7105.630706
+Asia,Japan,gdpPercap_1962,6576.649461
+Asia,Jordan,gdpPercap_1962,2348.009158
+Asia,Korea Dem. Rep.,gdpPercap_1962,1621.693598
+Asia,Korea Rep.,gdpPercap_1962,1536.344387
+Asia,Kuwait,gdpPercap_1962,95458.11176
+Asia,Lebanon,gdpPercap_1962,5714.560611
+Asia,Malaysia,gdpPercap_1962,2036.884944
+Asia,Mongolia,gdpPercap_1962,1056.353958
+Asia,Myanmar,gdpPercap_1962,388
+Asia,Nepal,gdpPercap_1962,652.3968593
+Asia,Oman,gdpPercap_1962,2924.638113
+Asia,Pakistan,gdpPercap_1962,803.3427418
+Asia,Philippines,gdpPercap_1962,1649.552153
+Asia,Saudi Arabia,gdpPercap_1962,11626.41975
+Asia,Singapore,gdpPercap_1962,3674.735572
+Asia,Sri Lanka,gdpPercap_1962,1074.47196
+Asia,Syria,gdpPercap_1962,2193.037133
+Asia,Taiwan,gdpPercap_1962,1822.879028
+Asia,Thailand,gdpPercap_1962,1002.199172
+Asia,Vietnam,gdpPercap_1962,772.0491602
+Asia,West Bank and Gaza,gdpPercap_1962,2198.956312
+Asia,Yemen Rep.,gdpPercap_1962,825.6232006
+Europe,Albania,gdpPercap_1962,2312.888958
+Europe,Austria,gdpPercap_1962,10750.72111
+Europe,Belgium,gdpPercap_1962,10991.20676
+Europe,Bosnia and Herzegovina,gdpPercap_1962,1709.683679
+Europe,Bulgaria,gdpPercap_1962,4254.337839
+Europe,Croatia,gdpPercap_1962,5477.890018
+Europe,Czech Republic,gdpPercap_1962,10136.86713
+Europe,Denmark,gdpPercap_1962,13583.31351
+Europe,Finland,gdpPercap_1962,9371.842561
+Europe,France,gdpPercap_1962,10560.48553
+Europe,Germany,gdpPercap_1962,12902.46291
+Europe,Greece,gdpPercap_1962,6017.190733
+Europe,Hungary,gdpPercap_1962,7550.359877
+Europe,Iceland,gdpPercap_1962,10350.15906
+Europe,Ireland,gdpPercap_1962,6631.597314
+Europe,Italy,gdpPercap_1962,8243.58234
+Europe,Montenegro,gdpPercap_1962,4649.593785
+Europe,Netherlands,gdpPercap_1962,12790.84956
+Europe,Norway,gdpPercap_1962,13450.40151
+Europe,Poland,gdpPercap_1962,5338.752143
+Europe,Portugal,gdpPercap_1962,4727.954889
+Europe,Romania,gdpPercap_1962,4734.997586
+Europe,Serbia,gdpPercap_1962,6289.629157
+Europe,Slovak Republic,gdpPercap_1962,7481.107598
+Europe,Slovenia,gdpPercap_1962,7402.303395
+Europe,Spain,gdpPercap_1962,5693.843879
+Europe,Sweden,gdpPercap_1962,12329.44192
+Europe,Switzerland,gdpPercap_1962,20431.0927
+Europe,Turkey,gdpPercap_1962,2322.869908
+Europe,United Kingdom,gdpPercap_1962,12477.17707
+Oceania,Australia,gdpPercap_1962,12217.22686
+Oceania,New Zealand,gdpPercap_1962,13175.678
+Africa,Algeria,gdpPercap_1967,3246.991771
+Africa,Angola,gdpPercap_1967,5522.776375
+Africa,Benin,gdpPercap_1967,1035.831411
+Africa,Botswana,gdpPercap_1967,1214.709294
+Africa,Burkina Faso,gdpPercap_1967,794.8265597
+Africa,Burundi,gdpPercap_1967,412.9775136
+Africa,Cameroon,gdpPercap_1967,1508.453148
+Africa,Central African Republic,gdpPercap_1967,1136.056615
+Africa,Chad,gdpPercap_1967,1196.810565
+Africa,Comoros,gdpPercap_1967,1876.029643
+Africa,Congo Dem. Rep.,gdpPercap_1967,861.5932424
+Africa,Congo Rep.,gdpPercap_1967,2677.939642
+Africa,Cote d'Ivoire,gdpPercap_1967,2052.050473
+Africa,Djibouti,gdpPercap_1967,3020.050513
+Africa,Egypt,gdpPercap_1967,1814.880728
+Africa,Equatorial Guinea,gdpPercap_1967,915.5960025
+Africa,Eritrea,gdpPercap_1967,468.7949699
+Africa,Ethiopia,gdpPercap_1967,516.1186438
+Africa,Gabon,gdpPercap_1967,8358.761987
+Africa,Gambia,gdpPercap_1967,734.7829124
+Africa,Ghana,gdpPercap_1967,1125.69716
+Africa,Guinea,gdpPercap_1967,708.7595409
+Africa,Guinea-Bissau,gdpPercap_1967,715.5806402
+Africa,Kenya,gdpPercap_1967,1056.736457
+Africa,Lesotho,gdpPercap_1967,498.6390265
+Africa,Liberia,gdpPercap_1967,713.6036483
+Africa,Libya,gdpPercap_1967,18772.75169
+Africa,Madagascar,gdpPercap_1967,1634.047282
+Africa,Malawi,gdpPercap_1967,495.5147806
+Africa,Mali,gdpPercap_1967,545.0098873
+Africa,Mauritania,gdpPercap_1967,1421.145193
+Africa,Mauritius,gdpPercap_1967,2475.387562
+Africa,Morocco,gdpPercap_1967,1711.04477
+Africa,Mozambique,gdpPercap_1967,566.6691539
+Africa,Namibia,gdpPercap_1967,3793.694753
+Africa,Niger,gdpPercap_1967,1054.384891
+Africa,Nigeria,gdpPercap_1967,1014.514104
+Africa,Reunion,gdpPercap_1967,4021.175739
+Africa,Rwanda,gdpPercap_1967,510.9637142
+Africa,Sao Tome and Principe,gdpPercap_1967,1384.840593
+Africa,Senegal,gdpPercap_1967,1612.404632
+Africa,Sierra Leone,gdpPercap_1967,1206.043465
+Africa,Somalia,gdpPercap_1967,1284.73318
+Africa,South Africa,gdpPercap_1967,7114.477971
+Africa,Sudan,gdpPercap_1967,1687.997641
+Africa,Swaziland,gdpPercap_1967,2613.101665
+Africa,Tanzania,gdpPercap_1967,848.2186575
+Africa,Togo,gdpPercap_1967,1477.59676
+Africa,Tunisia,gdpPercap_1967,1932.360167
+Africa,Uganda,gdpPercap_1967,908.9185217
+Africa,Zambia,gdpPercap_1967,1777.077318
+Africa,Zimbabwe,gdpPercap_1967,569.7950712
+Americas,Argentina,gdpPercap_1967,8052.953021
+Americas,Bolivia,gdpPercap_1967,2586.886053
+Americas,Brazil,gdpPercap_1967,3429.864357
+Americas,Canada,gdpPercap_1967,16076.58803
+Americas,Chile,gdpPercap_1967,5106.654313
+Americas,Colombia,gdpPercap_1967,2678.729839
+Americas,Costa Rica,gdpPercap_1967,4161.727834
+Americas,Cuba,gdpPercap_1967,5690.268015
+Americas,Dominican Republic,gdpPercap_1967,1653.723003
+Americas,Ecuador,gdpPercap_1967,4579.074215
+Americas,El Salvador,gdpPercap_1967,4358.595393
+Americas,Guatemala,gdpPercap_1967,3242.531147
+Americas,Haiti,gdpPercap_1967,1452.057666
+Americas,Honduras,gdpPercap_1967,2538.269358
+Americas,Jamaica,gdpPercap_1967,6124.703451
+Americas,Mexico,gdpPercap_1967,5754.733883
+Americas,Nicaragua,gdpPercap_1967,4643.393534
+Americas,Panama,gdpPercap_1967,4421.009084
+Americas,Paraguay,gdpPercap_1967,2299.376311
+Americas,Peru,gdpPercap_1967,5788.09333
+Americas,Puerto Rico,gdpPercap_1967,6929.277714
+Americas,Trinidad and Tobago,gdpPercap_1967,5621.368472
+Americas,United States,gdpPercap_1967,19530.36557
+Americas,Uruguay,gdpPercap_1967,5444.61962
+Americas,Venezuela,gdpPercap_1967,9541.474188
+Asia,Afghanistan,gdpPercap_1967,836.1971382
+Asia,Bahrain,gdpPercap_1967,14804.6727
+Asia,Bangladesh,gdpPercap_1967,721.1860862
+Asia,Cambodia,gdpPercap_1967,523.4323142
+Asia,China,gdpPercap_1967,612.7056934
+Asia,Hong Kong China,gdpPercap_1967,6197.962814
+Asia,India,gdpPercap_1967,700.7706107
+Asia,Indonesia,gdpPercap_1967,762.4317721
+Asia,Iran,gdpPercap_1967,5906.731805
+Asia,Iraq,gdpPercap_1967,8931.459811
+Asia,Israel,gdpPercap_1967,8393.741404
+Asia,Japan,gdpPercap_1967,9847.788607
+Asia,Jordan,gdpPercap_1967,2741.796252
+Asia,Korea Dem. Rep.,gdpPercap_1967,2143.540609
+Asia,Korea Rep.,gdpPercap_1967,2029.228142
+Asia,Kuwait,gdpPercap_1967,80894.88326
+Asia,Lebanon,gdpPercap_1967,6006.983042
+Asia,Malaysia,gdpPercap_1967,2277.742396
+Asia,Mongolia,gdpPercap_1967,1226.04113
+Asia,Myanmar,gdpPercap_1967,349
+Asia,Nepal,gdpPercap_1967,676.4422254
+Asia,Oman,gdpPercap_1967,4720.942687
+Asia,Pakistan,gdpPercap_1967,942.4082588
+Asia,Philippines,gdpPercap_1967,1814.12743
+Asia,Saudi Arabia,gdpPercap_1967,16903.04886
+Asia,Singapore,gdpPercap_1967,4977.41854
+Asia,Sri Lanka,gdpPercap_1967,1135.514326
+Asia,Syria,gdpPercap_1967,1881.923632
+Asia,Taiwan,gdpPercap_1967,2643.858681
+Asia,Thailand,gdpPercap_1967,1295.46066
+Asia,Vietnam,gdpPercap_1967,637.1232887
+Asia,West Bank and Gaza,gdpPercap_1967,2649.715007
+Asia,Yemen Rep.,gdpPercap_1967,862.4421463
+Europe,Albania,gdpPercap_1967,2760.196931
+Europe,Austria,gdpPercap_1967,12834.6024
+Europe,Belgium,gdpPercap_1967,13149.04119
+Europe,Bosnia and Herzegovina,gdpPercap_1967,2172.352423
+Europe,Bulgaria,gdpPercap_1967,5577.0028
+Europe,Croatia,gdpPercap_1967,6960.297861
+Europe,Czech Republic,gdpPercap_1967,11399.44489
+Europe,Denmark,gdpPercap_1967,15937.21123
+Europe,Finland,gdpPercap_1967,10921.63626
+Europe,France,gdpPercap_1967,12999.91766
+Europe,Germany,gdpPercap_1967,14745.62561
+Europe,Greece,gdpPercap_1967,8513.097016
+Europe,Hungary,gdpPercap_1967,9326.64467
+Europe,Iceland,gdpPercap_1967,13319.89568
+Europe,Ireland,gdpPercap_1967,7655.568963
+Europe,Italy,gdpPercap_1967,10022.40131
+Europe,Montenegro,gdpPercap_1967,5907.850937
+Europe,Netherlands,gdpPercap_1967,15363.25136
+Europe,Norway,gdpPercap_1967,16361.87647
+Europe,Poland,gdpPercap_1967,6557.152776
+Europe,Portugal,gdpPercap_1967,6361.517993
+Europe,Romania,gdpPercap_1967,6470.866545
+Europe,Serbia,gdpPercap_1967,7991.707066
+Europe,Slovak Republic,gdpPercap_1967,8412.902397
+Europe,Slovenia,gdpPercap_1967,9405.489397
+Europe,Spain,gdpPercap_1967,7993.512294
+Europe,Sweden,gdpPercap_1967,15258.29697
+Europe,Switzerland,gdpPercap_1967,22966.14432
+Europe,Turkey,gdpPercap_1967,2826.356387
+Europe,United Kingdom,gdpPercap_1967,14142.85089
+Oceania,Australia,gdpPercap_1967,14526.12465
+Oceania,New Zealand,gdpPercap_1967,14463.91893
+Africa,Algeria,gdpPercap_1972,4182.663766
+Africa,Angola,gdpPercap_1972,5473.288005
+Africa,Benin,gdpPercap_1972,1085.796879
+Africa,Botswana,gdpPercap_1972,2263.611114
+Africa,Burkina Faso,gdpPercap_1972,854.7359763
+Africa,Burundi,gdpPercap_1972,464.0995039
+Africa,Cameroon,gdpPercap_1972,1684.146528
+Africa,Central African Republic,gdpPercap_1972,1070.013275
+Africa,Chad,gdpPercap_1972,1104.103987
+Africa,Comoros,gdpPercap_1972,1937.577675
+Africa,Congo Dem. Rep.,gdpPercap_1972,904.8960685
+Africa,Congo Rep.,gdpPercap_1972,3213.152683
+Africa,Cote d'Ivoire,gdpPercap_1972,2378.201111
+Africa,Djibouti,gdpPercap_1972,3694.212352
+Africa,Egypt,gdpPercap_1972,2024.008147
+Africa,Equatorial Guinea,gdpPercap_1972,672.4122571
+Africa,Eritrea,gdpPercap_1972,514.3242082
+Africa,Ethiopia,gdpPercap_1972,566.2439442
+Africa,Gabon,gdpPercap_1972,11401.94841
+Africa,Gambia,gdpPercap_1972,756.0868363
+Africa,Ghana,gdpPercap_1972,1178.223708
+Africa,Guinea,gdpPercap_1972,741.6662307
+Africa,Guinea-Bissau,gdpPercap_1972,820.2245876
+Africa,Kenya,gdpPercap_1972,1222.359968
+Africa,Lesotho,gdpPercap_1972,496.5815922
+Africa,Liberia,gdpPercap_1972,803.0054535
+Africa,Libya,gdpPercap_1972,21011.49721
+Africa,Madagascar,gdpPercap_1972,1748.562982
+Africa,Malawi,gdpPercap_1972,584.6219709
+Africa,Mali,gdpPercap_1972,581.3688761
+Africa,Mauritania,gdpPercap_1972,1586.851781
+Africa,Mauritius,gdpPercap_1972,2575.484158
+Africa,Morocco,gdpPercap_1972,1930.194975
+Africa,Mozambique,gdpPercap_1972,724.9178037
+Africa,Namibia,gdpPercap_1972,3746.080948
+Africa,Niger,gdpPercap_1972,954.2092363
+Africa,Nigeria,gdpPercap_1972,1698.388838
+Africa,Reunion,gdpPercap_1972,5047.658563
+Africa,Rwanda,gdpPercap_1972,590.5806638
+Africa,Sao Tome and Principe,gdpPercap_1972,1532.985254
+Africa,Senegal,gdpPercap_1972,1597.712056
+Africa,Sierra Leone,gdpPercap_1972,1353.759762
+Africa,Somalia,gdpPercap_1972,1254.576127
+Africa,South Africa,gdpPercap_1972,7765.962636
+Africa,Sudan,gdpPercap_1972,1659.652775
+Africa,Swaziland,gdpPercap_1972,3364.836625
+Africa,Tanzania,gdpPercap_1972,915.9850592
+Africa,Togo,gdpPercap_1972,1649.660188
+Africa,Tunisia,gdpPercap_1972,2753.285994
+Africa,Uganda,gdpPercap_1972,950.735869
+Africa,Zambia,gdpPercap_1972,1773.498265
+Africa,Zimbabwe,gdpPercap_1972,799.3621758
+Americas,Argentina,gdpPercap_1972,9443.038526
+Americas,Bolivia,gdpPercap_1972,2980.331339
+Americas,Brazil,gdpPercap_1972,4985.711467
+Americas,Canada,gdpPercap_1972,18970.57086
+Americas,Chile,gdpPercap_1972,5494.024437
+Americas,Colombia,gdpPercap_1972,3264.660041
+Americas,Costa Rica,gdpPercap_1972,5118.146939
+Americas,Cuba,gdpPercap_1972,5305.445256
+Americas,Dominican Republic,gdpPercap_1972,2189.874499
+Americas,Ecuador,gdpPercap_1972,5280.99471
+Americas,El Salvador,gdpPercap_1972,4520.246008
+Americas,Guatemala,gdpPercap_1972,4031.408271
+Americas,Haiti,gdpPercap_1972,1654.456946
+Americas,Honduras,gdpPercap_1972,2529.842345
+Americas,Jamaica,gdpPercap_1972,7433.889293
+Americas,Mexico,gdpPercap_1972,6809.40669
+Americas,Nicaragua,gdpPercap_1972,4688.593267
+Americas,Panama,gdpPercap_1972,5364.249663
+Americas,Paraguay,gdpPercap_1972,2523.337977
+Americas,Peru,gdpPercap_1972,5937.827283
+Americas,Puerto Rico,gdpPercap_1972,9123.041742
+Americas,Trinidad and Tobago,gdpPercap_1972,6619.551419
+Americas,United States,gdpPercap_1972,21806.03594
+Americas,Uruguay,gdpPercap_1972,5703.408898
+Americas,Venezuela,gdpPercap_1972,10505.25966
+Asia,Afghanistan,gdpPercap_1972,739.9811058
+Asia,Bahrain,gdpPercap_1972,18268.65839
+Asia,Bangladesh,gdpPercap_1972,630.2336265
+Asia,Cambodia,gdpPercap_1972,421.6240257
+Asia,China,gdpPercap_1972,676.9000921
+Asia,Hong Kong China,gdpPercap_1972,8315.928145
+Asia,India,gdpPercap_1972,724.032527
+Asia,Indonesia,gdpPercap_1972,1111.107907
+Asia,Iran,gdpPercap_1972,9613.818607
+Asia,Iraq,gdpPercap_1972,9576.037596
+Asia,Israel,gdpPercap_1972,12786.93223
+Asia,Japan,gdpPercap_1972,14778.78636
+Asia,Jordan,gdpPercap_1972,2110.856309
+Asia,Korea Dem. Rep.,gdpPercap_1972,3701.621503
+Asia,Korea Rep.,gdpPercap_1972,3030.87665
+Asia,Kuwait,gdpPercap_1972,109347.867
+Asia,Lebanon,gdpPercap_1972,7486.384341
+Asia,Malaysia,gdpPercap_1972,2849.09478
+Asia,Mongolia,gdpPercap_1972,1421.741975
+Asia,Myanmar,gdpPercap_1972,357
+Asia,Nepal,gdpPercap_1972,674.7881296
+Asia,Oman,gdpPercap_1972,10618.03855
+Asia,Pakistan,gdpPercap_1972,1049.938981
+Asia,Philippines,gdpPercap_1972,1989.37407
+Asia,Saudi Arabia,gdpPercap_1972,24837.42865
+Asia,Singapore,gdpPercap_1972,8597.756202
+Asia,Sri Lanka,gdpPercap_1972,1213.39553
+Asia,Syria,gdpPercap_1972,2571.423014
+Asia,Taiwan,gdpPercap_1972,4062.523897
+Asia,Thailand,gdpPercap_1972,1524.358936
+Asia,Vietnam,gdpPercap_1972,699.5016441
+Asia,West Bank and Gaza,gdpPercap_1972,3133.409277
+Asia,Yemen Rep.,gdpPercap_1972,1265.047031
+Europe,Albania,gdpPercap_1972,3313.422188
+Europe,Austria,gdpPercap_1972,16661.6256
+Europe,Belgium,gdpPercap_1972,16672.14356
+Europe,Bosnia and Herzegovina,gdpPercap_1972,2860.16975
+Europe,Bulgaria,gdpPercap_1972,6597.494398
+Europe,Croatia,gdpPercap_1972,9164.090127
+Europe,Czech Republic,gdpPercap_1972,13108.4536
+Europe,Denmark,gdpPercap_1972,18866.20721
+Europe,Finland,gdpPercap_1972,14358.8759
+Europe,France,gdpPercap_1972,16107.19171
+Europe,Germany,gdpPercap_1972,18016.18027
+Europe,Greece,gdpPercap_1972,12724.82957
+Europe,Hungary,gdpPercap_1972,10168.65611
+Europe,Iceland,gdpPercap_1972,15798.06362
+Europe,Ireland,gdpPercap_1972,9530.772896
+Europe,Italy,gdpPercap_1972,12269.27378
+Europe,Montenegro,gdpPercap_1972,7778.414017
+Europe,Netherlands,gdpPercap_1972,18794.74567
+Europe,Norway,gdpPercap_1972,18965.05551
+Europe,Poland,gdpPercap_1972,8006.506993
+Europe,Portugal,gdpPercap_1972,9022.247417
+Europe,Romania,gdpPercap_1972,8011.414402
+Europe,Serbia,gdpPercap_1972,10522.06749
+Europe,Slovak Republic,gdpPercap_1972,9674.167626
+Europe,Slovenia,gdpPercap_1972,12383.4862
+Europe,Spain,gdpPercap_1972,10638.75131
+Europe,Sweden,gdpPercap_1972,17832.02464
+Europe,Switzerland,gdpPercap_1972,27195.11304
+Europe,Turkey,gdpPercap_1972,3450.69638
+Europe,United Kingdom,gdpPercap_1972,15895.11641
+Oceania,Australia,gdpPercap_1972,16788.62948
+Oceania,New Zealand,gdpPercap_1972,16046.03728
+Africa,Algeria,gdpPercap_1977,4910.416756
+Africa,Angola,gdpPercap_1977,3008.647355
+Africa,Benin,gdpPercap_1977,1029.161251
+Africa,Botswana,gdpPercap_1977,3214.857818
+Africa,Burkina Faso,gdpPercap_1977,743.3870368
+Africa,Burundi,gdpPercap_1977,556.1032651
+Africa,Cameroon,gdpPercap_1977,1783.432873
+Africa,Central African Republic,gdpPercap_1977,1109.374338
+Africa,Chad,gdpPercap_1977,1133.98495
+Africa,Comoros,gdpPercap_1977,1172.603047
+Africa,Congo Dem. Rep.,gdpPercap_1977,795.757282
+Africa,Congo Rep.,gdpPercap_1977,3259.178978
+Africa,Cote d'Ivoire,gdpPercap_1977,2517.736547
+Africa,Djibouti,gdpPercap_1977,3081.761022
+Africa,Egypt,gdpPercap_1977,2785.493582
+Africa,Equatorial Guinea,gdpPercap_1977,958.5668124
+Africa,Eritrea,gdpPercap_1977,505.7538077
+Africa,Ethiopia,gdpPercap_1977,556.8083834
+Africa,Gabon,gdpPercap_1977,21745.57328
+Africa,Gambia,gdpPercap_1977,884.7552507
+Africa,Ghana,gdpPercap_1977,993.2239571
+Africa,Guinea,gdpPercap_1977,874.6858643
+Africa,Guinea-Bissau,gdpPercap_1977,764.7259628
+Africa,Kenya,gdpPercap_1977,1267.613204
+Africa,Lesotho,gdpPercap_1977,745.3695408
+Africa,Liberia,gdpPercap_1977,640.3224383
+Africa,Libya,gdpPercap_1977,21951.21176
+Africa,Madagascar,gdpPercap_1977,1544.228586
+Africa,Malawi,gdpPercap_1977,663.2236766
+Africa,Mali,gdpPercap_1977,686.3952693
+Africa,Mauritania,gdpPercap_1977,1497.492223
+Africa,Mauritius,gdpPercap_1977,3710.982963
+Africa,Morocco,gdpPercap_1977,2370.619976
+Africa,Mozambique,gdpPercap_1977,502.3197334
+Africa,Namibia,gdpPercap_1977,3876.485958
+Africa,Niger,gdpPercap_1977,808.8970728
+Africa,Nigeria,gdpPercap_1977,1981.951806
+Africa,Reunion,gdpPercap_1977,4319.804067
+Africa,Rwanda,gdpPercap_1977,670.0806011
+Africa,Sao Tome and Principe,gdpPercap_1977,1737.561657
+Africa,Senegal,gdpPercap_1977,1561.769116
+Africa,Sierra Leone,gdpPercap_1977,1348.285159
+Africa,Somalia,gdpPercap_1977,1450.992513
+Africa,South Africa,gdpPercap_1977,8028.651439
+Africa,Sudan,gdpPercap_1977,2202.988423
+Africa,Swaziland,gdpPercap_1977,3781.410618
+Africa,Tanzania,gdpPercap_1977,962.4922932
+Africa,Togo,gdpPercap_1977,1532.776998
+Africa,Tunisia,gdpPercap_1977,3120.876811
+Africa,Uganda,gdpPercap_1977,843.7331372
+Africa,Zambia,gdpPercap_1977,1588.688299
+Africa,Zimbabwe,gdpPercap_1977,685.5876821
+Americas,Argentina,gdpPercap_1977,10079.02674
+Americas,Bolivia,gdpPercap_1977,3548.097832
+Americas,Brazil,gdpPercap_1977,6660.118654
+Americas,Canada,gdpPercap_1977,22090.88306
+Americas,Chile,gdpPercap_1977,4756.763836
+Americas,Colombia,gdpPercap_1977,3815.80787
+Americas,Costa Rica,gdpPercap_1977,5926.876967
+Americas,Cuba,gdpPercap_1977,6380.494966
+Americas,Dominican Republic,gdpPercap_1977,2681.9889
+Americas,Ecuador,gdpPercap_1977,6679.62326
+Americas,El Salvador,gdpPercap_1977,5138.922374
+Americas,Guatemala,gdpPercap_1977,4879.992748
+Americas,Haiti,gdpPercap_1977,1874.298931
+Americas,Honduras,gdpPercap_1977,3203.208066
+Americas,Jamaica,gdpPercap_1977,6650.195573
+Americas,Mexico,gdpPercap_1977,7674.929108
+Americas,Nicaragua,gdpPercap_1977,5486.371089
+Americas,Panama,gdpPercap_1977,5351.912144
+Americas,Paraguay,gdpPercap_1977,3248.373311
+Americas,Peru,gdpPercap_1977,6281.290855
+Americas,Puerto Rico,gdpPercap_1977,9770.524921
+Americas,Trinidad and Tobago,gdpPercap_1977,7899.554209
+Americas,United States,gdpPercap_1977,24072.63213
+Americas,Uruguay,gdpPercap_1977,6504.339663
+Americas,Venezuela,gdpPercap_1977,13143.95095
+Asia,Afghanistan,gdpPercap_1977,786.11336
+Asia,Bahrain,gdpPercap_1977,19340.10196
+Asia,Bangladesh,gdpPercap_1977,659.8772322
+Asia,Cambodia,gdpPercap_1977,524.9721832
+Asia,China,gdpPercap_1977,741.2374699
+Asia,Hong Kong China,gdpPercap_1977,11186.14125
+Asia,India,gdpPercap_1977,813.337323
+Asia,Indonesia,gdpPercap_1977,1382.702056
+Asia,Iran,gdpPercap_1977,11888.59508
+Asia,Iraq,gdpPercap_1977,14688.23507
+Asia,Israel,gdpPercap_1977,13306.61921
+Asia,Japan,gdpPercap_1977,16610.37701
+Asia,Jordan,gdpPercap_1977,2852.351568
+Asia,Korea Dem. Rep.,gdpPercap_1977,4106.301249
+Asia,Korea Rep.,gdpPercap_1977,4657.22102
+Asia,Kuwait,gdpPercap_1977,59265.47714
+Asia,Lebanon,gdpPercap_1977,8659.696836
+Asia,Malaysia,gdpPercap_1977,3827.921571
+Asia,Mongolia,gdpPercap_1977,1647.511665
+Asia,Myanmar,gdpPercap_1977,371
+Asia,Nepal,gdpPercap_1977,694.1124398
+Asia,Oman,gdpPercap_1977,11848.34392
+Asia,Pakistan,gdpPercap_1977,1175.921193
+Asia,Philippines,gdpPercap_1977,2373.204287
+Asia,Saudi Arabia,gdpPercap_1977,34167.7626
+Asia,Singapore,gdpPercap_1977,11210.08948
+Asia,Sri Lanka,gdpPercap_1977,1348.775651
+Asia,Syria,gdpPercap_1977,3195.484582
+Asia,Taiwan,gdpPercap_1977,5596.519826
+Asia,Thailand,gdpPercap_1977,1961.224635
+Asia,Vietnam,gdpPercap_1977,713.5371196
+Asia,West Bank and Gaza,gdpPercap_1977,3682.831494
+Asia,Yemen Rep.,gdpPercap_1977,1829.765177
+Europe,Albania,gdpPercap_1977,3533.00391
+Europe,Austria,gdpPercap_1977,19749.4223
+Europe,Belgium,gdpPercap_1977,19117.97448
+Europe,Bosnia and Herzegovina,gdpPercap_1977,3528.481305
+Europe,Bulgaria,gdpPercap_1977,7612.240438
+Europe,Croatia,gdpPercap_1977,11305.38517
+Europe,Czech Republic,gdpPercap_1977,14800.16062
+Europe,Denmark,gdpPercap_1977,20422.9015
+Europe,Finland,gdpPercap_1977,15605.42283
+Europe,France,gdpPercap_1977,18292.63514
+Europe,Germany,gdpPercap_1977,20512.92123
+Europe,Greece,gdpPercap_1977,14195.52428
+Europe,Hungary,gdpPercap_1977,11674.83737
+Europe,Iceland,gdpPercap_1977,19654.96247
+Europe,Ireland,gdpPercap_1977,11150.98113
+Europe,Italy,gdpPercap_1977,14255.98475
+Europe,Montenegro,gdpPercap_1977,9595.929905
+Europe,Netherlands,gdpPercap_1977,21209.0592
+Europe,Norway,gdpPercap_1977,23311.34939
+Europe,Poland,gdpPercap_1977,9508.141454
+Europe,Portugal,gdpPercap_1977,10172.48572
+Europe,Romania,gdpPercap_1977,9356.39724
+Europe,Serbia,gdpPercap_1977,12980.66956
+Europe,Slovak Republic,gdpPercap_1977,10922.66404
+Europe,Slovenia,gdpPercap_1977,15277.03017
+Europe,Spain,gdpPercap_1977,13236.92117
+Europe,Sweden,gdpPercap_1977,18855.72521
+Europe,Switzerland,gdpPercap_1977,26982.29052
+Europe,Turkey,gdpPercap_1977,4269.122326
+Europe,United Kingdom,gdpPercap_1977,17428.74846
+Oceania,Australia,gdpPercap_1977,18334.19751
+Oceania,New Zealand,gdpPercap_1977,16233.7177
+Africa,Algeria,gdpPercap_1982,5745.160213
+Africa,Angola,gdpPercap_1982,2756.953672
+Africa,Benin,gdpPercap_1982,1277.897616
+Africa,Botswana,gdpPercap_1982,4551.14215
+Africa,Burkina Faso,gdpPercap_1982,807.1985855
+Africa,Burundi,gdpPercap_1982,559.603231
+Africa,Cameroon,gdpPercap_1982,2367.983282
+Africa,Central African Republic,gdpPercap_1982,956.7529907
+Africa,Chad,gdpPercap_1982,797.9081006
+Africa,Comoros,gdpPercap_1982,1267.100083
+Africa,Congo Dem. Rep.,gdpPercap_1982,673.7478181
+Africa,Congo Rep.,gdpPercap_1982,4879.507522
+Africa,Cote d'Ivoire,gdpPercap_1982,2602.710169
+Africa,Djibouti,gdpPercap_1982,2879.468067
+Africa,Egypt,gdpPercap_1982,3503.729636
+Africa,Equatorial Guinea,gdpPercap_1982,927.8253427
+Africa,Eritrea,gdpPercap_1982,524.8758493
+Africa,Ethiopia,gdpPercap_1982,577.8607471
+Africa,Gabon,gdpPercap_1982,15113.36194
+Africa,Gambia,gdpPercap_1982,835.8096108
+Africa,Ghana,gdpPercap_1982,876.032569
+Africa,Guinea,gdpPercap_1982,857.2503577
+Africa,Guinea-Bissau,gdpPercap_1982,838.1239671
+Africa,Kenya,gdpPercap_1982,1348.225791
+Africa,Lesotho,gdpPercap_1982,797.2631074
+Africa,Liberia,gdpPercap_1982,572.1995694
+Africa,Libya,gdpPercap_1982,17364.27538
+Africa,Madagascar,gdpPercap_1982,1302.878658
+Africa,Malawi,gdpPercap_1982,632.8039209
+Africa,Mali,gdpPercap_1982,618.0140641
+Africa,Mauritania,gdpPercap_1982,1481.150189
+Africa,Mauritius,gdpPercap_1982,3688.037739
+Africa,Morocco,gdpPercap_1982,2702.620356
+Africa,Mozambique,gdpPercap_1982,462.2114149
+Africa,Namibia,gdpPercap_1982,4191.100511
+Africa,Niger,gdpPercap_1982,909.7221354
+Africa,Nigeria,gdpPercap_1982,1576.97375
+Africa,Reunion,gdpPercap_1982,5267.219353
+Africa,Rwanda,gdpPercap_1982,881.5706467
+Africa,Sao Tome and Principe,gdpPercap_1982,1890.218117
+Africa,Senegal,gdpPercap_1982,1518.479984
+Africa,Sierra Leone,gdpPercap_1982,1465.010784
+Africa,Somalia,gdpPercap_1982,1176.807031
+Africa,South Africa,gdpPercap_1982,8568.266228
+Africa,Sudan,gdpPercap_1982,1895.544073
+Africa,Swaziland,gdpPercap_1982,3895.384018
+Africa,Tanzania,gdpPercap_1982,874.2426069
+Africa,Togo,gdpPercap_1982,1344.577953
+Africa,Tunisia,gdpPercap_1982,3560.233174
+Africa,Uganda,gdpPercap_1982,682.2662268
+Africa,Zambia,gdpPercap_1982,1408.678565
+Africa,Zimbabwe,gdpPercap_1982,788.8550411
+Americas,Argentina,gdpPercap_1982,8997.897412
+Americas,Bolivia,gdpPercap_1982,3156.510452
+Americas,Brazil,gdpPercap_1982,7030.835878
+Americas,Canada,gdpPercap_1982,22898.79214
+Americas,Chile,gdpPercap_1982,5095.665738
+Americas,Colombia,gdpPercap_1982,4397.575659
+Americas,Costa Rica,gdpPercap_1982,5262.734751
+Americas,Cuba,gdpPercap_1982,7316.918107
+Americas,Dominican Republic,gdpPercap_1982,2861.092386
+Americas,Ecuador,gdpPercap_1982,7213.791267
+Americas,El Salvador,gdpPercap_1982,4098.344175
+Americas,Guatemala,gdpPercap_1982,4820.49479
+Americas,Haiti,gdpPercap_1982,2011.159549
+Americas,Honduras,gdpPercap_1982,3121.760794
+Americas,Jamaica,gdpPercap_1982,6068.05135
+Americas,Mexico,gdpPercap_1982,9611.147541
+Americas,Nicaragua,gdpPercap_1982,3470.338156
+Americas,Panama,gdpPercap_1982,7009.601598
+Americas,Paraguay,gdpPercap_1982,4258.503604
+Americas,Peru,gdpPercap_1982,6434.501797
+Americas,Puerto Rico,gdpPercap_1982,10330.98915
+Americas,Trinidad and Tobago,gdpPercap_1982,9119.528607
+Americas,United States,gdpPercap_1982,25009.55914
+Americas,Uruguay,gdpPercap_1982,6920.223051
+Americas,Venezuela,gdpPercap_1982,11152.41011
+Asia,Afghanistan,gdpPercap_1982,978.0114388
+Asia,Bahrain,gdpPercap_1982,19211.14731
+Asia,Bangladesh,gdpPercap_1982,676.9818656
+Asia,Cambodia,gdpPercap_1982,624.4754784
+Asia,China,gdpPercap_1982,962.4213805
+Asia,Hong Kong China,gdpPercap_1982,14560.53051
+Asia,India,gdpPercap_1982,855.7235377
+Asia,Indonesia,gdpPercap_1982,1516.872988
+Asia,Iran,gdpPercap_1982,7608.334602
+Asia,Iraq,gdpPercap_1982,14517.90711
+Asia,Israel,gdpPercap_1982,15367.0292
+Asia,Japan,gdpPercap_1982,19384.10571
+Asia,Jordan,gdpPercap_1982,4161.415959
+Asia,Korea Dem. Rep.,gdpPercap_1982,4106.525293
+Asia,Korea Rep.,gdpPercap_1982,5622.942464
+Asia,Kuwait,gdpPercap_1982,31354.03573
+Asia,Lebanon,gdpPercap_1982,7640.519521
+Asia,Malaysia,gdpPercap_1982,4920.355951
+Asia,Mongolia,gdpPercap_1982,2000.603139
+Asia,Myanmar,gdpPercap_1982,424
+Asia,Nepal,gdpPercap_1982,718.3730947
+Asia,Oman,gdpPercap_1982,12954.79101
+Asia,Pakistan,gdpPercap_1982,1443.429832
+Asia,Philippines,gdpPercap_1982,2603.273765
+Asia,Saudi Arabia,gdpPercap_1982,33693.17525
+Asia,Singapore,gdpPercap_1982,15169.16112
+Asia,Sri Lanka,gdpPercap_1982,1648.079789
+Asia,Syria,gdpPercap_1982,3761.837715
+Asia,Taiwan,gdpPercap_1982,7426.354774
+Asia,Thailand,gdpPercap_1982,2393.219781
+Asia,Vietnam,gdpPercap_1982,707.2357863
+Asia,West Bank and Gaza,gdpPercap_1982,4336.032082
+Asia,Yemen Rep.,gdpPercap_1982,1977.55701
+Europe,Albania,gdpPercap_1982,3630.880722
+Europe,Austria,gdpPercap_1982,21597.08362
+Europe,Belgium,gdpPercap_1982,20979.84589
+Europe,Bosnia and Herzegovina,gdpPercap_1982,4126.613157
+Europe,Bulgaria,gdpPercap_1982,8224.191647
+Europe,Croatia,gdpPercap_1982,13221.82184
+Europe,Czech Republic,gdpPercap_1982,15377.22855
+Europe,Denmark,gdpPercap_1982,21688.04048
+Europe,Finland,gdpPercap_1982,18533.15761
+Europe,France,gdpPercap_1982,20293.89746
+Europe,Germany,gdpPercap_1982,22031.53274
+Europe,Greece,gdpPercap_1982,15268.42089
+Europe,Hungary,gdpPercap_1982,12545.99066
+Europe,Iceland,gdpPercap_1982,23269.6075
+Europe,Ireland,gdpPercap_1982,12618.32141
+Europe,Italy,gdpPercap_1982,16537.4835
+Europe,Montenegro,gdpPercap_1982,11222.58762
+Europe,Netherlands,gdpPercap_1982,21399.46046
+Europe,Norway,gdpPercap_1982,26298.63531
+Europe,Poland,gdpPercap_1982,8451.531004
+Europe,Portugal,gdpPercap_1982,11753.84291
+Europe,Romania,gdpPercap_1982,9605.314053
+Europe,Serbia,gdpPercap_1982,15181.0927
+Europe,Slovak Republic,gdpPercap_1982,11348.54585
+Europe,Slovenia,gdpPercap_1982,17866.72175
+Europe,Spain,gdpPercap_1982,13926.16997
+Europe,Sweden,gdpPercap_1982,20667.38125
+Europe,Switzerland,gdpPercap_1982,28397.71512
+Europe,Turkey,gdpPercap_1982,4241.356344
+Europe,United Kingdom,gdpPercap_1982,18232.42452
+Oceania,Australia,gdpPercap_1982,19477.00928
+Oceania,New Zealand,gdpPercap_1982,17632.4104
+Africa,Algeria,gdpPercap_1987,5681.358539
+Africa,Angola,gdpPercap_1987,2430.208311
+Africa,Benin,gdpPercap_1987,1225.85601
+Africa,Botswana,gdpPercap_1987,6205.88385
+Africa,Burkina Faso,gdpPercap_1987,912.0631417
+Africa,Burundi,gdpPercap_1987,621.8188189
+Africa,Cameroon,gdpPercap_1987,2602.664206
+Africa,Central African Republic,gdpPercap_1987,844.8763504
+Africa,Chad,gdpPercap_1987,952.386129
+Africa,Comoros,gdpPercap_1987,1315.980812
+Africa,Congo Dem. Rep.,gdpPercap_1987,672.774812
+Africa,Congo Rep.,gdpPercap_1987,4201.194937
+Africa,Cote d'Ivoire,gdpPercap_1987,2156.956069
+Africa,Djibouti,gdpPercap_1987,2880.102568
+Africa,Egypt,gdpPercap_1987,3885.46071
+Africa,Equatorial Guinea,gdpPercap_1987,966.8968149
+Africa,Eritrea,gdpPercap_1987,521.1341333
+Africa,Ethiopia,gdpPercap_1987,573.7413142
+Africa,Gabon,gdpPercap_1987,11864.40844
+Africa,Gambia,gdpPercap_1987,611.6588611
+Africa,Ghana,gdpPercap_1987,847.0061135
+Africa,Guinea,gdpPercap_1987,805.5724718
+Africa,Guinea-Bissau,gdpPercap_1987,736.4153921
+Africa,Kenya,gdpPercap_1987,1361.936856
+Africa,Lesotho,gdpPercap_1987,773.9932141
+Africa,Liberia,gdpPercap_1987,506.1138573
+Africa,Libya,gdpPercap_1987,11770.5898
+Africa,Madagascar,gdpPercap_1987,1155.441948
+Africa,Malawi,gdpPercap_1987,635.5173634
+Africa,Mali,gdpPercap_1987,684.1715576
+Africa,Mauritania,gdpPercap_1987,1421.603576
+Africa,Mauritius,gdpPercap_1987,4783.586903
+Africa,Morocco,gdpPercap_1987,2755.046991
+Africa,Mozambique,gdpPercap_1987,389.8761846
+Africa,Namibia,gdpPercap_1987,3693.731337
+Africa,Niger,gdpPercap_1987,668.3000228
+Africa,Nigeria,gdpPercap_1987,1385.029563
+Africa,Reunion,gdpPercap_1987,5303.377488
+Africa,Rwanda,gdpPercap_1987,847.991217
+Africa,Sao Tome and Principe,gdpPercap_1987,1516.525457
+Africa,Senegal,gdpPercap_1987,1441.72072
+Africa,Sierra Leone,gdpPercap_1987,1294.447788
+Africa,Somalia,gdpPercap_1987,1093.244963
+Africa,South Africa,gdpPercap_1987,7825.823398
+Africa,Sudan,gdpPercap_1987,1507.819159
+Africa,Swaziland,gdpPercap_1987,3984.839812
+Africa,Tanzania,gdpPercap_1987,831.8220794
+Africa,Togo,gdpPercap_1987,1202.201361
+Africa,Tunisia,gdpPercap_1987,3810.419296
+Africa,Uganda,gdpPercap_1987,617.7244065
+Africa,Zambia,gdpPercap_1987,1213.315116
+Africa,Zimbabwe,gdpPercap_1987,706.1573059
+Americas,Argentina,gdpPercap_1987,9139.671389
+Americas,Bolivia,gdpPercap_1987,2753.69149
+Americas,Brazil,gdpPercap_1987,7807.095818
+Americas,Canada,gdpPercap_1987,26626.51503
+Americas,Chile,gdpPercap_1987,5547.063754
+Americas,Colombia,gdpPercap_1987,4903.2191
+Americas,Costa Rica,gdpPercap_1987,5629.915318
+Americas,Cuba,gdpPercap_1987,7532.924763
+Americas,Dominican Republic,gdpPercap_1987,2899.842175
+Americas,Ecuador,gdpPercap_1987,6481.776993
+Americas,El Salvador,gdpPercap_1987,4140.442097
+Americas,Guatemala,gdpPercap_1987,4246.485974
+Americas,Haiti,gdpPercap_1987,1823.015995
+Americas,Honduras,gdpPercap_1987,3023.096699
+Americas,Jamaica,gdpPercap_1987,6351.237495
+Americas,Mexico,gdpPercap_1987,8688.156003
+Americas,Nicaragua,gdpPercap_1987,2955.984375
+Americas,Panama,gdpPercap_1987,7034.779161
+Americas,Paraguay,gdpPercap_1987,3998.875695
+Americas,Peru,gdpPercap_1987,6360.943444
+Americas,Puerto Rico,gdpPercap_1987,12281.34191
+Americas,Trinidad and Tobago,gdpPercap_1987,7388.597823
+Americas,United States,gdpPercap_1987,29884.35041
+Americas,Uruguay,gdpPercap_1987,7452.398969
+Americas,Venezuela,gdpPercap_1987,9883.584648
+Asia,Afghanistan,gdpPercap_1987,852.3959448
+Asia,Bahrain,gdpPercap_1987,18524.02406
+Asia,Bangladesh,gdpPercap_1987,751.9794035
+Asia,Cambodia,gdpPercap_1987,683.8955732
+Asia,China,gdpPercap_1987,1378.904018
+Asia,Hong Kong China,gdpPercap_1987,20038.47269
+Asia,India,gdpPercap_1987,976.5126756
+Asia,Indonesia,gdpPercap_1987,1748.356961
+Asia,Iran,gdpPercap_1987,6642.881371
+Asia,Iraq,gdpPercap_1987,11643.57268
+Asia,Israel,gdpPercap_1987,17122.47986
+Asia,Japan,gdpPercap_1987,22375.94189
+Asia,Jordan,gdpPercap_1987,4448.679912
+Asia,Korea Dem. Rep.,gdpPercap_1987,4106.492315
+Asia,Korea Rep.,gdpPercap_1987,8533.088805
+Asia,Kuwait,gdpPercap_1987,28118.42998
+Asia,Lebanon,gdpPercap_1987,5377.091329
+Asia,Malaysia,gdpPercap_1987,5249.802653
+Asia,Mongolia,gdpPercap_1987,2338.008304
+Asia,Myanmar,gdpPercap_1987,385
+Asia,Nepal,gdpPercap_1987,775.6324501
+Asia,Oman,gdpPercap_1987,18115.22313
+Asia,Pakistan,gdpPercap_1987,1704.686583
+Asia,Philippines,gdpPercap_1987,2189.634995
+Asia,Saudi Arabia,gdpPercap_1987,21198.26136
+Asia,Singapore,gdpPercap_1987,18861.53081
+Asia,Sri Lanka,gdpPercap_1987,1876.766827
+Asia,Syria,gdpPercap_1987,3116.774285
+Asia,Taiwan,gdpPercap_1987,11054.56175
+Asia,Thailand,gdpPercap_1987,2982.653773
+Asia,Vietnam,gdpPercap_1987,820.7994449
+Asia,West Bank and Gaza,gdpPercap_1987,5107.197384
+Asia,Yemen Rep.,gdpPercap_1987,1971.741538
+Europe,Albania,gdpPercap_1987,3738.932735
+Europe,Austria,gdpPercap_1987,23687.82607
+Europe,Belgium,gdpPercap_1987,22525.56308
+Europe,Bosnia and Herzegovina,gdpPercap_1987,4314.114757
+Europe,Bulgaria,gdpPercap_1987,8239.854824
+Europe,Croatia,gdpPercap_1987,13822.58394
+Europe,Czech Republic,gdpPercap_1987,16310.4434
+Europe,Denmark,gdpPercap_1987,25116.17581
+Europe,Finland,gdpPercap_1987,21141.01223
+Europe,France,gdpPercap_1987,22066.44214
+Europe,Germany,gdpPercap_1987,24639.18566
+Europe,Greece,gdpPercap_1987,16120.52839
+Europe,Hungary,gdpPercap_1987,12986.47998
+Europe,Iceland,gdpPercap_1987,26923.20628
+Europe,Ireland,gdpPercap_1987,13872.86652
+Europe,Italy,gdpPercap_1987,19207.23482
+Europe,Montenegro,gdpPercap_1987,11732.51017
+Europe,Netherlands,gdpPercap_1987,23651.32361
+Europe,Norway,gdpPercap_1987,31540.9748
+Europe,Poland,gdpPercap_1987,9082.351172
+Europe,Portugal,gdpPercap_1987,13039.30876
+Europe,Romania,gdpPercap_1987,9696.273295
+Europe,Serbia,gdpPercap_1987,15870.87851
+Europe,Slovak Republic,gdpPercap_1987,12037.26758
+Europe,Slovenia,gdpPercap_1987,18678.53492
+Europe,Spain,gdpPercap_1987,15764.98313
+Europe,Sweden,gdpPercap_1987,23586.92927
+Europe,Switzerland,gdpPercap_1987,30281.70459
+Europe,Turkey,gdpPercap_1987,5089.043686
+Europe,United Kingdom,gdpPercap_1987,21664.78767
+Oceania,Australia,gdpPercap_1987,21888.88903
+Oceania,New Zealand,gdpPercap_1987,19007.19129
+Africa,Algeria,gdpPercap_1992,5023.216647
+Africa,Angola,gdpPercap_1992,2627.845685
+Africa,Benin,gdpPercap_1992,1191.207681
+Africa,Botswana,gdpPercap_1992,7954.111645
+Africa,Burkina Faso,gdpPercap_1992,931.7527731
+Africa,Burundi,gdpPercap_1992,631.6998778
+Africa,Cameroon,gdpPercap_1992,1793.163278
+Africa,Central African Republic,gdpPercap_1992,747.9055252
+Africa,Chad,gdpPercap_1992,1058.0643
+Africa,Comoros,gdpPercap_1992,1246.90737
+Africa,Congo Dem. Rep.,gdpPercap_1992,457.7191807
+Africa,Congo Rep.,gdpPercap_1992,4016.239529
+Africa,Cote d'Ivoire,gdpPercap_1992,1648.073791
+Africa,Djibouti,gdpPercap_1992,2377.156192
+Africa,Egypt,gdpPercap_1992,3794.755195
+Africa,Equatorial Guinea,gdpPercap_1992,1132.055034
+Africa,Eritrea,gdpPercap_1992,582.8585102
+Africa,Ethiopia,gdpPercap_1992,421.3534653
+Africa,Gabon,gdpPercap_1992,13522.15752
+Africa,Gambia,gdpPercap_1992,665.6244126
+Africa,Ghana,gdpPercap_1992,925.060154
+Africa,Guinea,gdpPercap_1992,794.3484384
+Africa,Guinea-Bissau,gdpPercap_1992,745.5398706
+Africa,Kenya,gdpPercap_1992,1341.921721
+Africa,Lesotho,gdpPercap_1992,977.4862725
+Africa,Liberia,gdpPercap_1992,636.6229191
+Africa,Libya,gdpPercap_1992,9640.138501
+Africa,Madagascar,gdpPercap_1992,1040.67619
+Africa,Malawi,gdpPercap_1992,563.2000145
+Africa,Mali,gdpPercap_1992,739.014375
+Africa,Mauritania,gdpPercap_1992,1361.369784
+Africa,Mauritius,gdpPercap_1992,6058.253846
+Africa,Morocco,gdpPercap_1992,2948.047252
+Africa,Mozambique,gdpPercap_1992,410.8968239
+Africa,Namibia,gdpPercap_1992,3804.537999
+Africa,Niger,gdpPercap_1992,581.182725
+Africa,Nigeria,gdpPercap_1992,1619.848217
+Africa,Reunion,gdpPercap_1992,6101.255823
+Africa,Rwanda,gdpPercap_1992,737.0685949
+Africa,Sao Tome and Principe,gdpPercap_1992,1428.777814
+Africa,Senegal,gdpPercap_1992,1367.899369
+Africa,Sierra Leone,gdpPercap_1992,1068.696278
+Africa,Somalia,gdpPercap_1992,926.9602964
+Africa,South Africa,gdpPercap_1992,7225.069258
+Africa,Sudan,gdpPercap_1992,1492.197043
+Africa,Swaziland,gdpPercap_1992,3553.0224
+Africa,Tanzania,gdpPercap_1992,825.682454
+Africa,Togo,gdpPercap_1992,1034.298904
+Africa,Tunisia,gdpPercap_1992,4332.720164
+Africa,Uganda,gdpPercap_1992,644.1707969
+Africa,Zambia,gdpPercap_1992,1210.884633
+Africa,Zimbabwe,gdpPercap_1992,693.4207856
+Americas,Argentina,gdpPercap_1992,9308.41871
+Americas,Bolivia,gdpPercap_1992,2961.699694
+Americas,Brazil,gdpPercap_1992,6950.283021
+Americas,Canada,gdpPercap_1992,26342.88426
+Americas,Chile,gdpPercap_1992,7596.125964
+Americas,Colombia,gdpPercap_1992,5444.648617
+Americas,Costa Rica,gdpPercap_1992,6160.416317
+Americas,Cuba,gdpPercap_1992,5592.843963
+Americas,Dominican Republic,gdpPercap_1992,3044.214214
+Americas,Ecuador,gdpPercap_1992,7103.702595
+Americas,El Salvador,gdpPercap_1992,4444.2317
+Americas,Guatemala,gdpPercap_1992,4439.45084
+Americas,Haiti,gdpPercap_1992,1456.309517
+Americas,Honduras,gdpPercap_1992,3081.694603
+Americas,Jamaica,gdpPercap_1992,7404.923685
+Americas,Mexico,gdpPercap_1992,9472.384295
+Americas,Nicaragua,gdpPercap_1992,2170.151724
+Americas,Panama,gdpPercap_1992,6618.74305
+Americas,Paraguay,gdpPercap_1992,4196.411078
+Americas,Peru,gdpPercap_1992,4446.380924
+Americas,Puerto Rico,gdpPercap_1992,14641.58711
+Americas,Trinidad and Tobago,gdpPercap_1992,7370.990932
+Americas,United States,gdpPercap_1992,32003.93224
+Americas,Uruguay,gdpPercap_1992,8137.004775
+Americas,Venezuela,gdpPercap_1992,10733.92631
+Asia,Afghanistan,gdpPercap_1992,649.3413952
+Asia,Bahrain,gdpPercap_1992,19035.57917
+Asia,Bangladesh,gdpPercap_1992,837.8101643
+Asia,Cambodia,gdpPercap_1992,682.3031755
+Asia,China,gdpPercap_1992,1655.784158
+Asia,Hong Kong China,gdpPercap_1992,24757.60301
+Asia,India,gdpPercap_1992,1164.406809
+Asia,Indonesia,gdpPercap_1992,2383.140898
+Asia,Iran,gdpPercap_1992,7235.653188
+Asia,Iraq,gdpPercap_1992,3745.640687
+Asia,Israel,gdpPercap_1992,18051.52254
+Asia,Japan,gdpPercap_1992,26824.89511
+Asia,Jordan,gdpPercap_1992,3431.593647
+Asia,Korea Dem. Rep.,gdpPercap_1992,3726.063507
+Asia,Korea Rep.,gdpPercap_1992,12104.27872
+Asia,Kuwait,gdpPercap_1992,34932.91959
+Asia,Lebanon,gdpPercap_1992,6890.806854
+Asia,Malaysia,gdpPercap_1992,7277.912802
+Asia,Mongolia,gdpPercap_1992,1785.402016
+Asia,Myanmar,gdpPercap_1992,347
+Asia,Nepal,gdpPercap_1992,897.7403604
+Asia,Oman,gdpPercap_1992,18616.70691
+Asia,Pakistan,gdpPercap_1992,1971.829464
+Asia,Philippines,gdpPercap_1992,2279.324017
+Asia,Saudi Arabia,gdpPercap_1992,24841.61777
+Asia,Singapore,gdpPercap_1992,24769.8912
+Asia,Sri Lanka,gdpPercap_1992,2153.739222
+Asia,Syria,gdpPercap_1992,3340.542768
+Asia,Taiwan,gdpPercap_1992,15215.6579
+Asia,Thailand,gdpPercap_1992,4616.896545
+Asia,Vietnam,gdpPercap_1992,989.0231487
+Asia,West Bank and Gaza,gdpPercap_1992,6017.654756
+Asia,Yemen Rep.,gdpPercap_1992,1879.496673
+Europe,Albania,gdpPercap_1992,2497.437901
+Europe,Austria,gdpPercap_1992,27042.01868
+Europe,Belgium,gdpPercap_1992,25575.57069
+Europe,Bosnia and Herzegovina,gdpPercap_1992,2546.781445
+Europe,Bulgaria,gdpPercap_1992,6302.623438
+Europe,Croatia,gdpPercap_1992,8447.794873
+Europe,Czech Republic,gdpPercap_1992,14297.02122
+Europe,Denmark,gdpPercap_1992,26406.73985
+Europe,Finland,gdpPercap_1992,20647.16499
+Europe,France,gdpPercap_1992,24703.79615
+Europe,Germany,gdpPercap_1992,26505.30317
+Europe,Greece,gdpPercap_1992,17541.49634
+Europe,Hungary,gdpPercap_1992,10535.62855
+Europe,Iceland,gdpPercap_1992,25144.39201
+Europe,Ireland,gdpPercap_1992,17558.81555
+Europe,Italy,gdpPercap_1992,22013.64486
+Europe,Montenegro,gdpPercap_1992,7003.339037
+Europe,Netherlands,gdpPercap_1992,26790.94961
+Europe,Norway,gdpPercap_1992,33965.66115
+Europe,Poland,gdpPercap_1992,7738.881247
+Europe,Portugal,gdpPercap_1992,16207.26663
+Europe,Romania,gdpPercap_1992,6598.409903
+Europe,Serbia,gdpPercap_1992,9325.068238
+Europe,Slovak Republic,gdpPercap_1992,9498.467723
+Europe,Slovenia,gdpPercap_1992,14214.71681
+Europe,Spain,gdpPercap_1992,18603.06452
+Europe,Sweden,gdpPercap_1992,23880.01683
+Europe,Switzerland,gdpPercap_1992,31871.5303
+Europe,Turkey,gdpPercap_1992,5678.348271
+Europe,United Kingdom,gdpPercap_1992,22705.09254
+Oceania,Australia,gdpPercap_1992,23424.76683
+Oceania,New Zealand,gdpPercap_1992,18363.32494
+Africa,Algeria,gdpPercap_1997,4797.295051
+Africa,Angola,gdpPercap_1997,2277.140884
+Africa,Benin,gdpPercap_1997,1232.975292
+Africa,Botswana,gdpPercap_1997,8647.142313
+Africa,Burkina Faso,gdpPercap_1997,946.2949618
+Africa,Burundi,gdpPercap_1997,463.1151478
+Africa,Cameroon,gdpPercap_1997,1694.337469
+Africa,Central African Republic,gdpPercap_1997,740.5063317
+Africa,Chad,gdpPercap_1997,1004.961353
+Africa,Comoros,gdpPercap_1997,1173.618235
+Africa,Congo Dem. Rep.,gdpPercap_1997,312.188423
+Africa,Congo Rep.,gdpPercap_1997,3484.164376
+Africa,Cote d'Ivoire,gdpPercap_1997,1786.265407
+Africa,Djibouti,gdpPercap_1997,1895.016984
+Africa,Egypt,gdpPercap_1997,4173.181797
+Africa,Equatorial Guinea,gdpPercap_1997,2814.480755
+Africa,Eritrea,gdpPercap_1997,913.47079
+Africa,Ethiopia,gdpPercap_1997,515.8894013
+Africa,Gabon,gdpPercap_1997,14722.84188
+Africa,Gambia,gdpPercap_1997,653.7301704
+Africa,Ghana,gdpPercap_1997,1005.245812
+Africa,Guinea,gdpPercap_1997,869.4497668
+Africa,Guinea-Bissau,gdpPercap_1997,796.6644681
+Africa,Kenya,gdpPercap_1997,1360.485021
+Africa,Lesotho,gdpPercap_1997,1186.147994
+Africa,Liberia,gdpPercap_1997,609.1739508
+Africa,Libya,gdpPercap_1997,9467.446056
+Africa,Madagascar,gdpPercap_1997,986.2958956
+Africa,Malawi,gdpPercap_1997,692.2758103
+Africa,Mali,gdpPercap_1997,790.2579846
+Africa,Mauritania,gdpPercap_1997,1483.136136
+Africa,Mauritius,gdpPercap_1997,7425.705295
+Africa,Morocco,gdpPercap_1997,2982.101858
+Africa,Mozambique,gdpPercap_1997,472.3460771
+Africa,Namibia,gdpPercap_1997,3899.52426
+Africa,Niger,gdpPercap_1997,580.3052092
+Africa,Nigeria,gdpPercap_1997,1624.941275
+Africa,Reunion,gdpPercap_1997,6071.941411
+Africa,Rwanda,gdpPercap_1997,589.9445051
+Africa,Sao Tome and Principe,gdpPercap_1997,1339.076036
+Africa,Senegal,gdpPercap_1997,1392.368347
+Africa,Sierra Leone,gdpPercap_1997,574.6481576
+Africa,Somalia,gdpPercap_1997,930.5964284
+Africa,South Africa,gdpPercap_1997,7479.188244
+Africa,Sudan,gdpPercap_1997,1632.210764
+Africa,Swaziland,gdpPercap_1997,3876.76846
+Africa,Tanzania,gdpPercap_1997,789.1862231
+Africa,Togo,gdpPercap_1997,982.2869243
+Africa,Tunisia,gdpPercap_1997,4876.798614
+Africa,Uganda,gdpPercap_1997,816.559081
+Africa,Zambia,gdpPercap_1997,1071.353818
+Africa,Zimbabwe,gdpPercap_1997,792.4499603
+Americas,Argentina,gdpPercap_1997,10967.28195
+Americas,Bolivia,gdpPercap_1997,3326.143191
+Americas,Brazil,gdpPercap_1997,7957.980824
+Americas,Canada,gdpPercap_1997,28954.92589
+Americas,Chile,gdpPercap_1997,10118.05318
+Americas,Colombia,gdpPercap_1997,6117.361746
+Americas,Costa Rica,gdpPercap_1997,6677.045314
+Americas,Cuba,gdpPercap_1997,5431.990415
+Americas,Dominican Republic,gdpPercap_1997,3614.101285
+Americas,Ecuador,gdpPercap_1997,7429.455877
+Americas,El Salvador,gdpPercap_1997,5154.825496
+Americas,Guatemala,gdpPercap_1997,4684.313807
+Americas,Haiti,gdpPercap_1997,1341.726931
+Americas,Honduras,gdpPercap_1997,3160.454906
+Americas,Jamaica,gdpPercap_1997,7121.924704
+Americas,Mexico,gdpPercap_1997,9767.29753
+Americas,Nicaragua,gdpPercap_1997,2253.023004
+Americas,Panama,gdpPercap_1997,7113.692252
+Americas,Paraguay,gdpPercap_1997,4247.400261
+Americas,Peru,gdpPercap_1997,5838.347657
+Americas,Puerto Rico,gdpPercap_1997,16999.4333
+Americas,Trinidad and Tobago,gdpPercap_1997,8792.573126
+Americas,United States,gdpPercap_1997,35767.43303
+Americas,Uruguay,gdpPercap_1997,9230.240708
+Americas,Venezuela,gdpPercap_1997,10165.49518
+Asia,Afghanistan,gdpPercap_1997,635.341351
+Asia,Bahrain,gdpPercap_1997,20292.01679
+Asia,Bangladesh,gdpPercap_1997,972.7700352
+Asia,Cambodia,gdpPercap_1997,734.28517
+Asia,China,gdpPercap_1997,2289.234136
+Asia,Hong Kong China,gdpPercap_1997,28377.63219
+Asia,India,gdpPercap_1997,1458.817442
+Asia,Indonesia,gdpPercap_1997,3119.335603
+Asia,Iran,gdpPercap_1997,8263.590301
+Asia,Iraq,gdpPercap_1997,3076.239795
+Asia,Israel,gdpPercap_1997,20896.60924
+Asia,Japan,gdpPercap_1997,28816.58499
+Asia,Jordan,gdpPercap_1997,3645.379572
+Asia,Korea Dem. Rep.,gdpPercap_1997,1690.756814
+Asia,Korea Rep.,gdpPercap_1997,15993.52796
+Asia,Kuwait,gdpPercap_1997,40300.61996
+Asia,Lebanon,gdpPercap_1997,8754.96385
+Asia,Malaysia,gdpPercap_1997,10132.90964
+Asia,Mongolia,gdpPercap_1997,1902.2521
+Asia,Myanmar,gdpPercap_1997,415
+Asia,Nepal,gdpPercap_1997,1010.892138
+Asia,Oman,gdpPercap_1997,19702.05581
+Asia,Pakistan,gdpPercap_1997,2049.350521
+Asia,Philippines,gdpPercap_1997,2536.534925
+Asia,Saudi Arabia,gdpPercap_1997,20586.69019
+Asia,Singapore,gdpPercap_1997,33519.4766
+Asia,Sri Lanka,gdpPercap_1997,2664.477257
+Asia,Syria,gdpPercap_1997,4014.238972
+Asia,Taiwan,gdpPercap_1997,20206.82098
+Asia,Thailand,gdpPercap_1997,5852.625497
+Asia,Vietnam,gdpPercap_1997,1385.896769
+Asia,West Bank and Gaza,gdpPercap_1997,7110.667619
+Asia,Yemen Rep.,gdpPercap_1997,2117.484526
+Europe,Albania,gdpPercap_1997,3193.054604
+Europe,Austria,gdpPercap_1997,29095.92066
+Europe,Belgium,gdpPercap_1997,27561.19663
+Europe,Bosnia and Herzegovina,gdpPercap_1997,4766.355904
+Europe,Bulgaria,gdpPercap_1997,5970.38876
+Europe,Croatia,gdpPercap_1997,9875.604515
+Europe,Czech Republic,gdpPercap_1997,16048.51424
+Europe,Denmark,gdpPercap_1997,29804.34567
+Europe,Finland,gdpPercap_1997,23723.9502
+Europe,France,gdpPercap_1997,25889.78487
+Europe,Germany,gdpPercap_1997,27788.88416
+Europe,Greece,gdpPercap_1997,18747.69814
+Europe,Hungary,gdpPercap_1997,11712.7768
+Europe,Iceland,gdpPercap_1997,28061.09966
+Europe,Ireland,gdpPercap_1997,24521.94713
+Europe,Italy,gdpPercap_1997,24675.02446
+Europe,Montenegro,gdpPercap_1997,6465.613349
+Europe,Netherlands,gdpPercap_1997,30246.13063
+Europe,Norway,gdpPercap_1997,41283.16433
+Europe,Poland,gdpPercap_1997,10159.58368
+Europe,Portugal,gdpPercap_1997,17641.03156
+Europe,Romania,gdpPercap_1997,7346.547557
+Europe,Serbia,gdpPercap_1997,7914.320304
+Europe,Slovak Republic,gdpPercap_1997,12126.23065
+Europe,Slovenia,gdpPercap_1997,17161.10735
+Europe,Spain,gdpPercap_1997,20445.29896
+Europe,Sweden,gdpPercap_1997,25266.59499
+Europe,Switzerland,gdpPercap_1997,32135.32301
+Europe,Turkey,gdpPercap_1997,6601.429915
+Europe,United Kingdom,gdpPercap_1997,26074.53136
+Oceania,Australia,gdpPercap_1997,26997.93657
+Oceania,New Zealand,gdpPercap_1997,21050.41377
+Africa,Algeria,gdpPercap_2002,5288.040382
+Africa,Angola,gdpPercap_2002,2773.287312
+Africa,Benin,gdpPercap_2002,1372.877931
+Africa,Botswana,gdpPercap_2002,11003.60508
+Africa,Burkina Faso,gdpPercap_2002,1037.645221
+Africa,Burundi,gdpPercap_2002,446.4035126
+Africa,Cameroon,gdpPercap_2002,1934.011449
+Africa,Central African Republic,gdpPercap_2002,738.6906068
+Africa,Chad,gdpPercap_2002,1156.18186
+Africa,Comoros,gdpPercap_2002,1075.811558
+Africa,Congo Dem. Rep.,gdpPercap_2002,241.1658765
+Africa,Congo Rep.,gdpPercap_2002,3484.06197
+Africa,Cote d'Ivoire,gdpPercap_2002,1648.800823
+Africa,Djibouti,gdpPercap_2002,1908.260867
+Africa,Egypt,gdpPercap_2002,4754.604414
+Africa,Equatorial Guinea,gdpPercap_2002,7703.4959
+Africa,Eritrea,gdpPercap_2002,765.3500015
+Africa,Ethiopia,gdpPercap_2002,530.0535319
+Africa,Gabon,gdpPercap_2002,12521.71392
+Africa,Gambia,gdpPercap_2002,660.5855997
+Africa,Ghana,gdpPercap_2002,1111.984578
+Africa,Guinea,gdpPercap_2002,945.5835837
+Africa,Guinea-Bissau,gdpPercap_2002,575.7047176
+Africa,Kenya,gdpPercap_2002,1287.514732
+Africa,Lesotho,gdpPercap_2002,1275.184575
+Africa,Liberia,gdpPercap_2002,531.4823679
+Africa,Libya,gdpPercap_2002,9534.677467
+Africa,Madagascar,gdpPercap_2002,894.6370822
+Africa,Malawi,gdpPercap_2002,665.4231186
+Africa,Mali,gdpPercap_2002,951.4097518
+Africa,Mauritania,gdpPercap_2002,1579.019543
+Africa,Mauritius,gdpPercap_2002,9021.815894
+Africa,Morocco,gdpPercap_2002,3258.495584
+Africa,Mozambique,gdpPercap_2002,633.6179466
+Africa,Namibia,gdpPercap_2002,4072.324751
+Africa,Niger,gdpPercap_2002,601.0745012
+Africa,Nigeria,gdpPercap_2002,1615.286395
+Africa,Reunion,gdpPercap_2002,6316.1652
+Africa,Rwanda,gdpPercap_2002,785.6537648
+Africa,Sao Tome and Principe,gdpPercap_2002,1353.09239
+Africa,Senegal,gdpPercap_2002,1519.635262
+Africa,Sierra Leone,gdpPercap_2002,699.489713
+Africa,Somalia,gdpPercap_2002,882.0818218
+Africa,South Africa,gdpPercap_2002,7710.946444
+Africa,Sudan,gdpPercap_2002,1993.398314
+Africa,Swaziland,gdpPercap_2002,4128.116943
+Africa,Tanzania,gdpPercap_2002,899.0742111
+Africa,Togo,gdpPercap_2002,886.2205765
+Africa,Tunisia,gdpPercap_2002,5722.895655
+Africa,Uganda,gdpPercap_2002,927.7210018
+Africa,Zambia,gdpPercap_2002,1071.613938
+Africa,Zimbabwe,gdpPercap_2002,672.0386227
+Americas,Argentina,gdpPercap_2002,8797.640716
+Americas,Bolivia,gdpPercap_2002,3413.26269
+Americas,Brazil,gdpPercap_2002,8131.212843
+Americas,Canada,gdpPercap_2002,33328.96507
+Americas,Chile,gdpPercap_2002,10778.78385
+Americas,Colombia,gdpPercap_2002,5755.259962
+Americas,Costa Rica,gdpPercap_2002,7723.447195
+Americas,Cuba,gdpPercap_2002,6340.646683
+Americas,Dominican Republic,gdpPercap_2002,4563.808154
+Americas,Ecuador,gdpPercap_2002,5773.044512
+Americas,El Salvador,gdpPercap_2002,5351.568666
+Americas,Guatemala,gdpPercap_2002,4858.347495
+Americas,Haiti,gdpPercap_2002,1270.364932
+Americas,Honduras,gdpPercap_2002,3099.72866
+Americas,Jamaica,gdpPercap_2002,6994.774861
+Americas,Mexico,gdpPercap_2002,10742.44053
+Americas,Nicaragua,gdpPercap_2002,2474.548819
+Americas,Panama,gdpPercap_2002,7356.031934
+Americas,Paraguay,gdpPercap_2002,3783.674243
+Americas,Peru,gdpPercap_2002,5909.020073
+Americas,Puerto Rico,gdpPercap_2002,18855.60618
+Americas,Trinidad and Tobago,gdpPercap_2002,11460.60023
+Americas,United States,gdpPercap_2002,39097.09955
+Americas,Uruguay,gdpPercap_2002,7727.002004
+Americas,Venezuela,gdpPercap_2002,8605.047831
+Asia,Afghanistan,gdpPercap_2002,726.7340548
+Asia,Bahrain,gdpPercap_2002,23403.55927
+Asia,Bangladesh,gdpPercap_2002,1136.39043
+Asia,Cambodia,gdpPercap_2002,896.2260153
+Asia,China,gdpPercap_2002,3119.280896
+Asia,Hong Kong China,gdpPercap_2002,30209.01516
+Asia,India,gdpPercap_2002,1746.769454
+Asia,Indonesia,gdpPercap_2002,2873.91287
+Asia,Iran,gdpPercap_2002,9240.761975
+Asia,Iraq,gdpPercap_2002,4390.717312
+Asia,Israel,gdpPercap_2002,21905.59514
+Asia,Japan,gdpPercap_2002,28604.5919
+Asia,Jordan,gdpPercap_2002,3844.917194
+Asia,Korea Dem. Rep.,gdpPercap_2002,1646.758151
+Asia,Korea Rep.,gdpPercap_2002,19233.98818
+Asia,Kuwait,gdpPercap_2002,35110.10566
+Asia,Lebanon,gdpPercap_2002,9313.93883
+Asia,Malaysia,gdpPercap_2002,10206.97794
+Asia,Mongolia,gdpPercap_2002,2140.739323
+Asia,Myanmar,gdpPercap_2002,611
+Asia,Nepal,gdpPercap_2002,1057.206311
+Asia,Oman,gdpPercap_2002,19774.83687
+Asia,Pakistan,gdpPercap_2002,2092.712441
+Asia,Philippines,gdpPercap_2002,2650.921068
+Asia,Saudi Arabia,gdpPercap_2002,19014.54118
+Asia,Singapore,gdpPercap_2002,36023.1054
+Asia,Sri Lanka,gdpPercap_2002,3015.378833
+Asia,Syria,gdpPercap_2002,4090.925331
+Asia,Taiwan,gdpPercap_2002,23235.42329
+Asia,Thailand,gdpPercap_2002,5913.187529
+Asia,Vietnam,gdpPercap_2002,1764.456677
+Asia,West Bank and Gaza,gdpPercap_2002,4515.487575
+Asia,Yemen Rep.,gdpPercap_2002,2234.820827
+Europe,Albania,gdpPercap_2002,4604.211737
+Europe,Austria,gdpPercap_2002,32417.60769
+Europe,Belgium,gdpPercap_2002,30485.88375
+Europe,Bosnia and Herzegovina,gdpPercap_2002,6018.975239
+Europe,Bulgaria,gdpPercap_2002,7696.777725
+Europe,Croatia,gdpPercap_2002,11628.38895
+Europe,Czech Republic,gdpPercap_2002,17596.21022
+Europe,Denmark,gdpPercap_2002,32166.50006
+Europe,Finland,gdpPercap_2002,28204.59057
+Europe,France,gdpPercap_2002,28926.03234
+Europe,Germany,gdpPercap_2002,30035.80198
+Europe,Greece,gdpPercap_2002,22514.2548
+Europe,Hungary,gdpPercap_2002,14843.93556
+Europe,Iceland,gdpPercap_2002,31163.20196
+Europe,Ireland,gdpPercap_2002,34077.04939
+Europe,Italy,gdpPercap_2002,27968.09817
+Europe,Montenegro,gdpPercap_2002,6557.194282
+Europe,Netherlands,gdpPercap_2002,33724.75778
+Europe,Norway,gdpPercap_2002,44683.97525
+Europe,Poland,gdpPercap_2002,12002.23908
+Europe,Portugal,gdpPercap_2002,19970.90787
+Europe,Romania,gdpPercap_2002,7885.360081
+Europe,Serbia,gdpPercap_2002,7236.075251
+Europe,Slovak Republic,gdpPercap_2002,13638.77837
+Europe,Slovenia,gdpPercap_2002,20660.01936
+Europe,Spain,gdpPercap_2002,24835.47166
+Europe,Sweden,gdpPercap_2002,29341.63093
+Europe,Switzerland,gdpPercap_2002,34480.95771
+Europe,Turkey,gdpPercap_2002,6508.085718
+Europe,United Kingdom,gdpPercap_2002,29478.99919
+Oceania,Australia,gdpPercap_2002,30687.75473
+Oceania,New Zealand,gdpPercap_2002,23189.80135
+Africa,Algeria,gdpPercap_2007,6223.367465
+Africa,Angola,gdpPercap_2007,4797.231267
+Africa,Benin,gdpPercap_2007,1441.284873
+Africa,Botswana,gdpPercap_2007,12569.85177
+Africa,Burkina Faso,gdpPercap_2007,1217.032994
+Africa,Burundi,gdpPercap_2007,430.0706916
+Africa,Cameroon,gdpPercap_2007,2042.09524
+Africa,Central African Republic,gdpPercap_2007,706.016537
+Africa,Chad,gdpPercap_2007,1704.063724
+Africa,Comoros,gdpPercap_2007,986.1478792
+Africa,Congo Dem. Rep.,gdpPercap_2007,277.5518587
+Africa,Congo Rep.,gdpPercap_2007,3632.557798
+Africa,Cote d'Ivoire,gdpPercap_2007,1544.750112
+Africa,Djibouti,gdpPercap_2007,2082.481567
+Africa,Egypt,gdpPercap_2007,5581.180998
+Africa,Equatorial Guinea,gdpPercap_2007,12154.08975
+Africa,Eritrea,gdpPercap_2007,641.3695236
+Africa,Ethiopia,gdpPercap_2007,690.8055759
+Africa,Gabon,gdpPercap_2007,13206.48452
+Africa,Gambia,gdpPercap_2007,752.7497265
+Africa,Ghana,gdpPercap_2007,1327.60891
+Africa,Guinea,gdpPercap_2007,942.6542111
+Africa,Guinea-Bissau,gdpPercap_2007,579.231743
+Africa,Kenya,gdpPercap_2007,1463.249282
+Africa,Lesotho,gdpPercap_2007,1569.331442
+Africa,Liberia,gdpPercap_2007,414.5073415
+Africa,Libya,gdpPercap_2007,12057.49928
+Africa,Madagascar,gdpPercap_2007,1044.770126
+Africa,Malawi,gdpPercap_2007,759.3499101
+Africa,Mali,gdpPercap_2007,1042.581557
+Africa,Mauritania,gdpPercap_2007,1803.151496
+Africa,Mauritius,gdpPercap_2007,10956.99112
+Africa,Morocco,gdpPercap_2007,3820.17523
+Africa,Mozambique,gdpPercap_2007,823.6856205
+Africa,Namibia,gdpPercap_2007,4811.060429
+Africa,Niger,gdpPercap_2007,619.6768924
+Africa,Nigeria,gdpPercap_2007,2013.977305
+Africa,Reunion,gdpPercap_2007,7670.122558
+Africa,Rwanda,gdpPercap_2007,863.0884639
+Africa,Sao Tome and Principe,gdpPercap_2007,1598.435089
+Africa,Senegal,gdpPercap_2007,1712.472136
+Africa,Sierra Leone,gdpPercap_2007,862.5407561
+Africa,Somalia,gdpPercap_2007,926.1410683
+Africa,South Africa,gdpPercap_2007,9269.657808
+Africa,Sudan,gdpPercap_2007,2602.394995
+Africa,Swaziland,gdpPercap_2007,4513.480643
+Africa,Tanzania,gdpPercap_2007,1107.482182
+Africa,Togo,gdpPercap_2007,882.9699438
+Africa,Tunisia,gdpPercap_2007,7092.923025
+Africa,Uganda,gdpPercap_2007,1056.380121
+Africa,Zambia,gdpPercap_2007,1271.211593
+Africa,Zimbabwe,gdpPercap_2007,469.7092981
+Americas,Argentina,gdpPercap_2007,12779.37964
+Americas,Bolivia,gdpPercap_2007,3822.137084
+Americas,Brazil,gdpPercap_2007,9065.800825
+Americas,Canada,gdpPercap_2007,36319.23501
+Americas,Chile,gdpPercap_2007,13171.63885
+Americas,Colombia,gdpPercap_2007,7006.580419
+Americas,Costa Rica,gdpPercap_2007,9645.06142
+Americas,Cuba,gdpPercap_2007,8948.102923
+Americas,Dominican Republic,gdpPercap_2007,6025.374752
+Americas,Ecuador,gdpPercap_2007,6873.262326
+Americas,El Salvador,gdpPercap_2007,5728.353514
+Americas,Guatemala,gdpPercap_2007,5186.050003
+Americas,Haiti,gdpPercap_2007,1201.637154
+Americas,Honduras,gdpPercap_2007,3548.330846
+Americas,Jamaica,gdpPercap_2007,7320.880262
+Americas,Mexico,gdpPercap_2007,11977.57496
+Americas,Nicaragua,gdpPercap_2007,2749.320965
+Americas,Panama,gdpPercap_2007,9809.185636
+Americas,Paraguay,gdpPercap_2007,4172.838464
+Americas,Peru,gdpPercap_2007,7408.905561
+Americas,Puerto Rico,gdpPercap_2007,19328.70901
+Americas,Trinidad and Tobago,gdpPercap_2007,18008.50924
+Americas,United States,gdpPercap_2007,42951.65309
+Americas,Uruguay,gdpPercap_2007,10611.46299
+Americas,Venezuela,gdpPercap_2007,11415.80569
+Asia,Afghanistan,gdpPercap_2007,974.5803384
+Asia,Bahrain,gdpPercap_2007,29796.04834
+Asia,Bangladesh,gdpPercap_2007,1391.253792
+Asia,Cambodia,gdpPercap_2007,1713.778686
+Asia,China,gdpPercap_2007,4959.114854
+Asia,Hong Kong China,gdpPercap_2007,39724.97867
+Asia,India,gdpPercap_2007,2452.210407
+Asia,Indonesia,gdpPercap_2007,3540.651564
+Asia,Iran,gdpPercap_2007,11605.71449
+Asia,Iraq,gdpPercap_2007,4471.061906
+Asia,Israel,gdpPercap_2007,25523.2771
+Asia,Japan,gdpPercap_2007,31656.06806
+Asia,Jordan,gdpPercap_2007,4519.461171
+Asia,Korea Dem. Rep.,gdpPercap_2007,1593.06548
+Asia,Korea Rep.,gdpPercap_2007,23348.13973
+Asia,Kuwait,gdpPercap_2007,47306.98978
+Asia,Lebanon,gdpPercap_2007,10461.05868
+Asia,Malaysia,gdpPercap_2007,12451.6558
+Asia,Mongolia,gdpPercap_2007,3095.772271
+Asia,Myanmar,gdpPercap_2007,944
+Asia,Nepal,gdpPercap_2007,1091.359778
+Asia,Oman,gdpPercap_2007,22316.19287
+Asia,Pakistan,gdpPercap_2007,2605.94758
+Asia,Philippines,gdpPercap_2007,3190.481016
+Asia,Saudi Arabia,gdpPercap_2007,21654.83194
+Asia,Singapore,gdpPercap_2007,47143.17964
+Asia,Sri Lanka,gdpPercap_2007,3970.095407
+Asia,Syria,gdpPercap_2007,4184.548089
+Asia,Taiwan,gdpPercap_2007,28718.27684
+Asia,Thailand,gdpPercap_2007,7458.396327
+Asia,Vietnam,gdpPercap_2007,2441.576404
+Asia,West Bank and Gaza,gdpPercap_2007,3025.349798
+Asia,Yemen Rep.,gdpPercap_2007,2280.769906
+Europe,Albania,gdpPercap_2007,5937.029526
+Europe,Austria,gdpPercap_2007,36126.4927
+Europe,Belgium,gdpPercap_2007,33692.60508
+Europe,Bosnia and Herzegovina,gdpPercap_2007,7446.298803
+Europe,Bulgaria,gdpPercap_2007,10680.79282
+Europe,Croatia,gdpPercap_2007,14619.22272
+Europe,Czech Republic,gdpPercap_2007,22833.30851
+Europe,Denmark,gdpPercap_2007,35278.41874
+Europe,Finland,gdpPercap_2007,33207.0844
+Europe,France,gdpPercap_2007,30470.0167
+Europe,Germany,gdpPercap_2007,32170.37442
+Europe,Greece,gdpPercap_2007,27538.41188
+Europe,Hungary,gdpPercap_2007,18008.94444
+Europe,Iceland,gdpPercap_2007,36180.78919
+Europe,Ireland,gdpPercap_2007,40675.99635
+Europe,Italy,gdpPercap_2007,28569.7197
+Europe,Montenegro,gdpPercap_2007,9253.896111
+Europe,Netherlands,gdpPercap_2007,36797.93332
+Europe,Norway,gdpPercap_2007,49357.19017
+Europe,Poland,gdpPercap_2007,15389.92468
+Europe,Portugal,gdpPercap_2007,20509.64777
+Europe,Romania,gdpPercap_2007,10808.47561
+Europe,Serbia,gdpPercap_2007,9786.534714
+Europe,Slovak Republic,gdpPercap_2007,18678.31435
+Europe,Slovenia,gdpPercap_2007,25768.25759
+Europe,Spain,gdpPercap_2007,28821.0637
+Europe,Sweden,gdpPercap_2007,33859.74835
+Europe,Switzerland,gdpPercap_2007,37506.41907
+Europe,Turkey,gdpPercap_2007,8458.276384
+Europe,United Kingdom,gdpPercap_2007,33203.26128
+Oceania,Australia,gdpPercap_2007,34435.36744
+Oceania,New Zealand,gdpPercap_2007,25185.00911
+Africa,Algeria,lifeExp_1952,43.077
+Africa,Angola,lifeExp_1952,30.015
+Africa,Benin,lifeExp_1952,38.223
+Africa,Botswana,lifeExp_1952,47.622
+Africa,Burkina Faso,lifeExp_1952,31.975
+Africa,Burundi,lifeExp_1952,39.031
+Africa,Cameroon,lifeExp_1952,38.523
+Africa,Central African Republic,lifeExp_1952,35.463
+Africa,Chad,lifeExp_1952,38.092
+Africa,Comoros,lifeExp_1952,40.715
+Africa,Congo Dem. Rep.,lifeExp_1952,39.143
+Africa,Congo Rep.,lifeExp_1952,42.111
+Africa,Cote d'Ivoire,lifeExp_1952,40.477
+Africa,Djibouti,lifeExp_1952,34.812
+Africa,Egypt,lifeExp_1952,41.893
+Africa,Equatorial Guinea,lifeExp_1952,34.482
+Africa,Eritrea,lifeExp_1952,35.928
+Africa,Ethiopia,lifeExp_1952,34.078
+Africa,Gabon,lifeExp_1952,37.003
+Africa,Gambia,lifeExp_1952,30
+Africa,Ghana,lifeExp_1952,43.149
+Africa,Guinea,lifeExp_1952,33.609
+Africa,Guinea-Bissau,lifeExp_1952,32.5
+Africa,Kenya,lifeExp_1952,42.27
+Africa,Lesotho,lifeExp_1952,42.138
+Africa,Liberia,lifeExp_1952,38.48
+Africa,Libya,lifeExp_1952,42.723
+Africa,Madagascar,lifeExp_1952,36.681
+Africa,Malawi,lifeExp_1952,36.256
+Africa,Mali,lifeExp_1952,33.685
+Africa,Mauritania,lifeExp_1952,40.543
+Africa,Mauritius,lifeExp_1952,50.986
+Africa,Morocco,lifeExp_1952,42.873
+Africa,Mozambique,lifeExp_1952,31.286
+Africa,Namibia,lifeExp_1952,41.725
+Africa,Niger,lifeExp_1952,37.444
+Africa,Nigeria,lifeExp_1952,36.324
+Africa,Reunion,lifeExp_1952,52.724
+Africa,Rwanda,lifeExp_1952,40
+Africa,Sao Tome and Principe,lifeExp_1952,46.471
+Africa,Senegal,lifeExp_1952,37.278
+Africa,Sierra Leone,lifeExp_1952,30.331
+Africa,Somalia,lifeExp_1952,32.978
+Africa,South Africa,lifeExp_1952,45.009
+Africa,Sudan,lifeExp_1952,38.635
+Africa,Swaziland,lifeExp_1952,41.407
+Africa,Tanzania,lifeExp_1952,41.215
+Africa,Togo,lifeExp_1952,38.596
+Africa,Tunisia,lifeExp_1952,44.6
+Africa,Uganda,lifeExp_1952,39.978
+Africa,Zambia,lifeExp_1952,42.038
+Africa,Zimbabwe,lifeExp_1952,48.451
+Americas,Argentina,lifeExp_1952,62.485
+Americas,Bolivia,lifeExp_1952,40.414
+Americas,Brazil,lifeExp_1952,50.917
+Americas,Canada,lifeExp_1952,68.75
+Americas,Chile,lifeExp_1952,54.745
+Americas,Colombia,lifeExp_1952,50.643
+Americas,Costa Rica,lifeExp_1952,57.206
+Americas,Cuba,lifeExp_1952,59.421
+Americas,Dominican Republic,lifeExp_1952,45.928
+Americas,Ecuador,lifeExp_1952,48.357
+Americas,El Salvador,lifeExp_1952,45.262
+Americas,Guatemala,lifeExp_1952,42.023
+Americas,Haiti,lifeExp_1952,37.579
+Americas,Honduras,lifeExp_1952,41.912
+Americas,Jamaica,lifeExp_1952,58.53
+Americas,Mexico,lifeExp_1952,50.789
+Americas,Nicaragua,lifeExp_1952,42.314
+Americas,Panama,lifeExp_1952,55.191
+Americas,Paraguay,lifeExp_1952,62.649
+Americas,Peru,lifeExp_1952,43.902
+Americas,Puerto Rico,lifeExp_1952,64.28
+Americas,Trinidad and Tobago,lifeExp_1952,59.1
+Americas,United States,lifeExp_1952,68.44
+Americas,Uruguay,lifeExp_1952,66.071
+Americas,Venezuela,lifeExp_1952,55.088
+Asia,Afghanistan,lifeExp_1952,28.801
+Asia,Bahrain,lifeExp_1952,50.939
+Asia,Bangladesh,lifeExp_1952,37.484
+Asia,Cambodia,lifeExp_1952,39.417
+Asia,China,lifeExp_1952,44
+Asia,Hong Kong China,lifeExp_1952,60.96
+Asia,India,lifeExp_1952,37.373
+Asia,Indonesia,lifeExp_1952,37.468
+Asia,Iran,lifeExp_1952,44.869
+Asia,Iraq,lifeExp_1952,45.32
+Asia,Israel,lifeExp_1952,65.39
+Asia,Japan,lifeExp_1952,63.03
+Asia,Jordan,lifeExp_1952,43.158
+Asia,Korea Dem. Rep.,lifeExp_1952,50.056
+Asia,Korea Rep.,lifeExp_1952,47.453
+Asia,Kuwait,lifeExp_1952,55.565
+Asia,Lebanon,lifeExp_1952,55.928
+Asia,Malaysia,lifeExp_1952,48.463
+Asia,Mongolia,lifeExp_1952,42.244
+Asia,Myanmar,lifeExp_1952,36.319
+Asia,Nepal,lifeExp_1952,36.157
+Asia,Oman,lifeExp_1952,37.578
+Asia,Pakistan,lifeExp_1952,43.436
+Asia,Philippines,lifeExp_1952,47.752
+Asia,Saudi Arabia,lifeExp_1952,39.875
+Asia,Singapore,lifeExp_1952,60.396
+Asia,Sri Lanka,lifeExp_1952,57.593
+Asia,Syria,lifeExp_1952,45.883
+Asia,Taiwan,lifeExp_1952,58.5
+Asia,Thailand,lifeExp_1952,50.848
+Asia,Vietnam,lifeExp_1952,40.412
+Asia,West Bank and Gaza,lifeExp_1952,43.16
+Asia,Yemen Rep.,lifeExp_1952,32.548
+Europe,Albania,lifeExp_1952,55.23
+Europe,Austria,lifeExp_1952,66.8
+Europe,Belgium,lifeExp_1952,68
+Europe,Bosnia and Herzegovina,lifeExp_1952,53.82
+Europe,Bulgaria,lifeExp_1952,59.6
+Europe,Croatia,lifeExp_1952,61.21
+Europe,Czech Republic,lifeExp_1952,66.87
+Europe,Denmark,lifeExp_1952,70.78
+Europe,Finland,lifeExp_1952,66.55
+Europe,France,lifeExp_1952,67.41
+Europe,Germany,lifeExp_1952,67.5
+Europe,Greece,lifeExp_1952,65.86
+Europe,Hungary,lifeExp_1952,64.03
+Europe,Iceland,lifeExp_1952,72.49
+Europe,Ireland,lifeExp_1952,66.91
+Europe,Italy,lifeExp_1952,65.94
+Europe,Montenegro,lifeExp_1952,59.164
+Europe,Netherlands,lifeExp_1952,72.13
+Europe,Norway,lifeExp_1952,72.67
+Europe,Poland,lifeExp_1952,61.31
+Europe,Portugal,lifeExp_1952,59.82
+Europe,Romania,lifeExp_1952,61.05
+Europe,Serbia,lifeExp_1952,57.996
+Europe,Slovak Republic,lifeExp_1952,64.36
+Europe,Slovenia,lifeExp_1952,65.57
+Europe,Spain,lifeExp_1952,64.94
+Europe,Sweden,lifeExp_1952,71.86
+Europe,Switzerland,lifeExp_1952,69.62
+Europe,Turkey,lifeExp_1952,43.585
+Europe,United Kingdom,lifeExp_1952,69.18
+Oceania,Australia,lifeExp_1952,69.12
+Oceania,New Zealand,lifeExp_1952,69.39
+Africa,Algeria,lifeExp_1957,45.685
+Africa,Angola,lifeExp_1957,31.999
+Africa,Benin,lifeExp_1957,40.358
+Africa,Botswana,lifeExp_1957,49.618
+Africa,Burkina Faso,lifeExp_1957,34.906
+Africa,Burundi,lifeExp_1957,40.533
+Africa,Cameroon,lifeExp_1957,40.428
+Africa,Central African Republic,lifeExp_1957,37.464
+Africa,Chad,lifeExp_1957,39.881
+Africa,Comoros,lifeExp_1957,42.46
+Africa,Congo Dem. Rep.,lifeExp_1957,40.652
+Africa,Congo Rep.,lifeExp_1957,45.053
+Africa,Cote d'Ivoire,lifeExp_1957,42.469
+Africa,Djibouti,lifeExp_1957,37.328
+Africa,Egypt,lifeExp_1957,44.444
+Africa,Equatorial Guinea,lifeExp_1957,35.983
+Africa,Eritrea,lifeExp_1957,38.047
+Africa,Ethiopia,lifeExp_1957,36.667
+Africa,Gabon,lifeExp_1957,38.999
+Africa,Gambia,lifeExp_1957,32.065
+Africa,Ghana,lifeExp_1957,44.779
+Africa,Guinea,lifeExp_1957,34.558
+Africa,Guinea-Bissau,lifeExp_1957,33.489
+Africa,Kenya,lifeExp_1957,44.686
+Africa,Lesotho,lifeExp_1957,45.047
+Africa,Liberia,lifeExp_1957,39.486
+Africa,Libya,lifeExp_1957,45.289
+Africa,Madagascar,lifeExp_1957,38.865
+Africa,Malawi,lifeExp_1957,37.207
+Africa,Mali,lifeExp_1957,35.307
+Africa,Mauritania,lifeExp_1957,42.338
+Africa,Mauritius,lifeExp_1957,58.089
+Africa,Morocco,lifeExp_1957,45.423
+Africa,Mozambique,lifeExp_1957,33.779
+Africa,Namibia,lifeExp_1957,45.226
+Africa,Niger,lifeExp_1957,38.598
+Africa,Nigeria,lifeExp_1957,37.802
+Africa,Reunion,lifeExp_1957,55.09
+Africa,Rwanda,lifeExp_1957,41.5
+Africa,Sao Tome and Principe,lifeExp_1957,48.945
+Africa,Senegal,lifeExp_1957,39.329
+Africa,Sierra Leone,lifeExp_1957,31.57
+Africa,Somalia,lifeExp_1957,34.977
+Africa,South Africa,lifeExp_1957,47.985
+Africa,Sudan,lifeExp_1957,39.624
+Africa,Swaziland,lifeExp_1957,43.424
+Africa,Tanzania,lifeExp_1957,42.974
+Africa,Togo,lifeExp_1957,41.208
+Africa,Tunisia,lifeExp_1957,47.1
+Africa,Uganda,lifeExp_1957,42.571
+Africa,Zambia,lifeExp_1957,44.077
+Africa,Zimbabwe,lifeExp_1957,50.469
+Americas,Argentina,lifeExp_1957,64.399
+Americas,Bolivia,lifeExp_1957,41.89
+Americas,Brazil,lifeExp_1957,53.285
+Americas,Canada,lifeExp_1957,69.96
+Americas,Chile,lifeExp_1957,56.074
+Americas,Colombia,lifeExp_1957,55.118
+Americas,Costa Rica,lifeExp_1957,60.026
+Americas,Cuba,lifeExp_1957,62.325
+Americas,Dominican Republic,lifeExp_1957,49.828
+Americas,Ecuador,lifeExp_1957,51.356
+Americas,El Salvador,lifeExp_1957,48.57
+Americas,Guatemala,lifeExp_1957,44.142
+Americas,Haiti,lifeExp_1957,40.696
+Americas,Honduras,lifeExp_1957,44.665
+Americas,Jamaica,lifeExp_1957,62.61
+Americas,Mexico,lifeExp_1957,55.19
+Americas,Nicaragua,lifeExp_1957,45.432
+Americas,Panama,lifeExp_1957,59.201
+Americas,Paraguay,lifeExp_1957,63.196
+Americas,Peru,lifeExp_1957,46.263
+Americas,Puerto Rico,lifeExp_1957,68.54
+Americas,Trinidad and Tobago,lifeExp_1957,61.8
+Americas,United States,lifeExp_1957,69.49
+Americas,Uruguay,lifeExp_1957,67.044
+Americas,Venezuela,lifeExp_1957,57.907
+Asia,Afghanistan,lifeExp_1957,30.332
+Asia,Bahrain,lifeExp_1957,53.832
+Asia,Bangladesh,lifeExp_1957,39.348
+Asia,Cambodia,lifeExp_1957,41.366
+Asia,China,lifeExp_1957,50.54896
+Asia,Hong Kong China,lifeExp_1957,64.75
+Asia,India,lifeExp_1957,40.249
+Asia,Indonesia,lifeExp_1957,39.918
+Asia,Iran,lifeExp_1957,47.181
+Asia,Iraq,lifeExp_1957,48.437
+Asia,Israel,lifeExp_1957,67.84
+Asia,Japan,lifeExp_1957,65.5
+Asia,Jordan,lifeExp_1957,45.669
+Asia,Korea Dem. Rep.,lifeExp_1957,54.081
+Asia,Korea Rep.,lifeExp_1957,52.681
+Asia,Kuwait,lifeExp_1957,58.033
+Asia,Lebanon,lifeExp_1957,59.489
+Asia,Malaysia,lifeExp_1957,52.102
+Asia,Mongolia,lifeExp_1957,45.248
+Asia,Myanmar,lifeExp_1957,41.905
+Asia,Nepal,lifeExp_1957,37.686
+Asia,Oman,lifeExp_1957,40.08
+Asia,Pakistan,lifeExp_1957,45.557
+Asia,Philippines,lifeExp_1957,51.334
+Asia,Saudi Arabia,lifeExp_1957,42.868
+Asia,Singapore,lifeExp_1957,63.179
+Asia,Sri Lanka,lifeExp_1957,61.456
+Asia,Syria,lifeExp_1957,48.284
+Asia,Taiwan,lifeExp_1957,62.4
+Asia,Thailand,lifeExp_1957,53.63
+Asia,Vietnam,lifeExp_1957,42.887
+Asia,West Bank and Gaza,lifeExp_1957,45.671
+Asia,Yemen Rep.,lifeExp_1957,33.97
+Europe,Albania,lifeExp_1957,59.28
+Europe,Austria,lifeExp_1957,67.48
+Europe,Belgium,lifeExp_1957,69.24
+Europe,Bosnia and Herzegovina,lifeExp_1957,58.45
+Europe,Bulgaria,lifeExp_1957,66.61
+Europe,Croatia,lifeExp_1957,64.77
+Europe,Czech Republic,lifeExp_1957,69.03
+Europe,Denmark,lifeExp_1957,71.81
+Europe,Finland,lifeExp_1957,67.49
+Europe,France,lifeExp_1957,68.93
+Europe,Germany,lifeExp_1957,69.1
+Europe,Greece,lifeExp_1957,67.86
+Europe,Hungary,lifeExp_1957,66.41
+Europe,Iceland,lifeExp_1957,73.47
+Europe,Ireland,lifeExp_1957,68.9
+Europe,Italy,lifeExp_1957,67.81
+Europe,Montenegro,lifeExp_1957,61.448
+Europe,Netherlands,lifeExp_1957,72.99
+Europe,Norway,lifeExp_1957,73.44
+Europe,Poland,lifeExp_1957,65.77
+Europe,Portugal,lifeExp_1957,61.51
+Europe,Romania,lifeExp_1957,64.1
+Europe,Serbia,lifeExp_1957,61.685
+Europe,Slovak Republic,lifeExp_1957,67.45
+Europe,Slovenia,lifeExp_1957,67.85
+Europe,Spain,lifeExp_1957,66.66
+Europe,Sweden,lifeExp_1957,72.49
+Europe,Switzerland,lifeExp_1957,70.56
+Europe,Turkey,lifeExp_1957,48.079
+Europe,United Kingdom,lifeExp_1957,70.42
+Oceania,Australia,lifeExp_1957,70.33
+Oceania,New Zealand,lifeExp_1957,70.26
+Africa,Algeria,lifeExp_1962,48.303
+Africa,Angola,lifeExp_1962,34
+Africa,Benin,lifeExp_1962,42.618
+Africa,Botswana,lifeExp_1962,51.52
+Africa,Burkina Faso,lifeExp_1962,37.814
+Africa,Burundi,lifeExp_1962,42.045
+Africa,Cameroon,lifeExp_1962,42.643
+Africa,Central African Republic,lifeExp_1962,39.475
+Africa,Chad,lifeExp_1962,41.716
+Africa,Comoros,lifeExp_1962,44.467
+Africa,Congo Dem. Rep.,lifeExp_1962,42.122
+Africa,Congo Rep.,lifeExp_1962,48.435
+Africa,Cote d'Ivoire,lifeExp_1962,44.93
+Africa,Djibouti,lifeExp_1962,39.693
+Africa,Egypt,lifeExp_1962,46.992
+Africa,Equatorial Guinea,lifeExp_1962,37.485
+Africa,Eritrea,lifeExp_1962,40.158
+Africa,Ethiopia,lifeExp_1962,40.059
+Africa,Gabon,lifeExp_1962,40.489
+Africa,Gambia,lifeExp_1962,33.896
+Africa,Ghana,lifeExp_1962,46.452
+Africa,Guinea,lifeExp_1962,35.753
+Africa,Guinea-Bissau,lifeExp_1962,34.488
+Africa,Kenya,lifeExp_1962,47.949
+Africa,Lesotho,lifeExp_1962,47.747
+Africa,Liberia,lifeExp_1962,40.502
+Africa,Libya,lifeExp_1962,47.808
+Africa,Madagascar,lifeExp_1962,40.848
+Africa,Malawi,lifeExp_1962,38.41
+Africa,Mali,lifeExp_1962,36.936
+Africa,Mauritania,lifeExp_1962,44.248
+Africa,Mauritius,lifeExp_1962,60.246
+Africa,Morocco,lifeExp_1962,47.924
+Africa,Mozambique,lifeExp_1962,36.161
+Africa,Namibia,lifeExp_1962,48.386
+Africa,Niger,lifeExp_1962,39.487
+Africa,Nigeria,lifeExp_1962,39.36
+Africa,Reunion,lifeExp_1962,57.666
+Africa,Rwanda,lifeExp_1962,43
+Africa,Sao Tome and Principe,lifeExp_1962,51.893
+Africa,Senegal,lifeExp_1962,41.454
+Africa,Sierra Leone,lifeExp_1962,32.767
+Africa,Somalia,lifeExp_1962,36.981
+Africa,South Africa,lifeExp_1962,49.951
+Africa,Sudan,lifeExp_1962,40.87
+Africa,Swaziland,lifeExp_1962,44.992
+Africa,Tanzania,lifeExp_1962,44.246
+Africa,Togo,lifeExp_1962,43.922
+Africa,Tunisia,lifeExp_1962,49.579
+Africa,Uganda,lifeExp_1962,45.344
+Africa,Zambia,lifeExp_1962,46.023
+Africa,Zimbabwe,lifeExp_1962,52.358
+Americas,Argentina,lifeExp_1962,65.142
+Americas,Bolivia,lifeExp_1962,43.428
+Americas,Brazil,lifeExp_1962,55.665
+Americas,Canada,lifeExp_1962,71.3
+Americas,Chile,lifeExp_1962,57.924
+Americas,Colombia,lifeExp_1962,57.863
+Americas,Costa Rica,lifeExp_1962,62.842
+Americas,Cuba,lifeExp_1962,65.246
+Americas,Dominican Republic,lifeExp_1962,53.459
+Americas,Ecuador,lifeExp_1962,54.64
+Americas,El Salvador,lifeExp_1962,52.307
+Americas,Guatemala,lifeExp_1962,46.954
+Americas,Haiti,lifeExp_1962,43.59
+Americas,Honduras,lifeExp_1962,48.041
+Americas,Jamaica,lifeExp_1962,65.61
+Americas,Mexico,lifeExp_1962,58.299
+Americas,Nicaragua,lifeExp_1962,48.632
+Americas,Panama,lifeExp_1962,61.817
+Americas,Paraguay,lifeExp_1962,64.361
+Americas,Peru,lifeExp_1962,49.096
+Americas,Puerto Rico,lifeExp_1962,69.62
+Americas,Trinidad and Tobago,lifeExp_1962,64.9
+Americas,United States,lifeExp_1962,70.21
+Americas,Uruguay,lifeExp_1962,68.253
+Americas,Venezuela,lifeExp_1962,60.77
+Asia,Afghanistan,lifeExp_1962,31.997
+Asia,Bahrain,lifeExp_1962,56.923
+Asia,Bangladesh,lifeExp_1962,41.216
+Asia,Cambodia,lifeExp_1962,43.415
+Asia,China,lifeExp_1962,44.50136
+Asia,Hong Kong China,lifeExp_1962,67.65
+Asia,India,lifeExp_1962,43.605
+Asia,Indonesia,lifeExp_1962,42.518
+Asia,Iran,lifeExp_1962,49.325
+Asia,Iraq,lifeExp_1962,51.457
+Asia,Israel,lifeExp_1962,69.39
+Asia,Japan,lifeExp_1962,68.73
+Asia,Jordan,lifeExp_1962,48.126
+Asia,Korea Dem. Rep.,lifeExp_1962,56.656
+Asia,Korea Rep.,lifeExp_1962,55.292
+Asia,Kuwait,lifeExp_1962,60.47
+Asia,Lebanon,lifeExp_1962,62.094
+Asia,Malaysia,lifeExp_1962,55.737
+Asia,Mongolia,lifeExp_1962,48.251
+Asia,Myanmar,lifeExp_1962,45.108
+Asia,Nepal,lifeExp_1962,39.393
+Asia,Oman,lifeExp_1962,43.165
+Asia,Pakistan,lifeExp_1962,47.67
+Asia,Philippines,lifeExp_1962,54.757
+Asia,Saudi Arabia,lifeExp_1962,45.914
+Asia,Singapore,lifeExp_1962,65.798
+Asia,Sri Lanka,lifeExp_1962,62.192
+Asia,Syria,lifeExp_1962,50.305
+Asia,Taiwan,lifeExp_1962,65.2
+Asia,Thailand,lifeExp_1962,56.061
+Asia,Vietnam,lifeExp_1962,45.363
+Asia,West Bank and Gaza,lifeExp_1962,48.127
+Asia,Yemen Rep.,lifeExp_1962,35.18
+Europe,Albania,lifeExp_1962,64.82
+Europe,Austria,lifeExp_1962,69.54
+Europe,Belgium,lifeExp_1962,70.25
+Europe,Bosnia and Herzegovina,lifeExp_1962,61.93
+Europe,Bulgaria,lifeExp_1962,69.51
+Europe,Croatia,lifeExp_1962,67.13
+Europe,Czech Republic,lifeExp_1962,69.9
+Europe,Denmark,lifeExp_1962,72.35
+Europe,Finland,lifeExp_1962,68.75
+Europe,France,lifeExp_1962,70.51
+Europe,Germany,lifeExp_1962,70.3
+Europe,Greece,lifeExp_1962,69.51
+Europe,Hungary,lifeExp_1962,67.96
+Europe,Iceland,lifeExp_1962,73.68
+Europe,Ireland,lifeExp_1962,70.29
+Europe,Italy,lifeExp_1962,69.24
+Europe,Montenegro,lifeExp_1962,63.728
+Europe,Netherlands,lifeExp_1962,73.23
+Europe,Norway,lifeExp_1962,73.47
+Europe,Poland,lifeExp_1962,67.64
+Europe,Portugal,lifeExp_1962,64.39
+Europe,Romania,lifeExp_1962,66.8
+Europe,Serbia,lifeExp_1962,64.531
+Europe,Slovak Republic,lifeExp_1962,70.33
+Europe,Slovenia,lifeExp_1962,69.15
+Europe,Spain,lifeExp_1962,69.69
+Europe,Sweden,lifeExp_1962,73.37
+Europe,Switzerland,lifeExp_1962,71.32
+Europe,Turkey,lifeExp_1962,52.098
+Europe,United Kingdom,lifeExp_1962,70.76
+Oceania,Australia,lifeExp_1962,70.93
+Oceania,New Zealand,lifeExp_1962,71.24
+Africa,Algeria,lifeExp_1967,51.407
+Africa,Angola,lifeExp_1967,35.985
+Africa,Benin,lifeExp_1967,44.885
+Africa,Botswana,lifeExp_1967,53.298
+Africa,Burkina Faso,lifeExp_1967,40.697
+Africa,Burundi,lifeExp_1967,43.548
+Africa,Cameroon,lifeExp_1967,44.799
+Africa,Central African Republic,lifeExp_1967,41.478
+Africa,Chad,lifeExp_1967,43.601
+Africa,Comoros,lifeExp_1967,46.472
+Africa,Congo Dem. Rep.,lifeExp_1967,44.056
+Africa,Congo Rep.,lifeExp_1967,52.04
+Africa,Cote d'Ivoire,lifeExp_1967,47.35
+Africa,Djibouti,lifeExp_1967,42.074
+Africa,Egypt,lifeExp_1967,49.293
+Africa,Equatorial Guinea,lifeExp_1967,38.987
+Africa,Eritrea,lifeExp_1967,42.189
+Africa,Ethiopia,lifeExp_1967,42.115
+Africa,Gabon,lifeExp_1967,44.598
+Africa,Gambia,lifeExp_1967,35.857
+Africa,Ghana,lifeExp_1967,48.072
+Africa,Guinea,lifeExp_1967,37.197
+Africa,Guinea-Bissau,lifeExp_1967,35.492
+Africa,Kenya,lifeExp_1967,50.654
+Africa,Lesotho,lifeExp_1967,48.492
+Africa,Liberia,lifeExp_1967,41.536
+Africa,Libya,lifeExp_1967,50.227
+Africa,Madagascar,lifeExp_1967,42.881
+Africa,Malawi,lifeExp_1967,39.487
+Africa,Mali,lifeExp_1967,38.487
+Africa,Mauritania,lifeExp_1967,46.289
+Africa,Mauritius,lifeExp_1967,61.557
+Africa,Morocco,lifeExp_1967,50.335
+Africa,Mozambique,lifeExp_1967,38.113
+Africa,Namibia,lifeExp_1967,51.159
+Africa,Niger,lifeExp_1967,40.118
+Africa,Nigeria,lifeExp_1967,41.04
+Africa,Reunion,lifeExp_1967,60.542
+Africa,Rwanda,lifeExp_1967,44.1
+Africa,Sao Tome and Principe,lifeExp_1967,54.425
+Africa,Senegal,lifeExp_1967,43.563
+Africa,Sierra Leone,lifeExp_1967,34.113
+Africa,Somalia,lifeExp_1967,38.977
+Africa,South Africa,lifeExp_1967,51.927
+Africa,Sudan,lifeExp_1967,42.858
+Africa,Swaziland,lifeExp_1967,46.633
+Africa,Tanzania,lifeExp_1967,45.757
+Africa,Togo,lifeExp_1967,46.769
+Africa,Tunisia,lifeExp_1967,52.053
+Africa,Uganda,lifeExp_1967,48.051
+Africa,Zambia,lifeExp_1967,47.768
+Africa,Zimbabwe,lifeExp_1967,53.995
+Americas,Argentina,lifeExp_1967,65.634
+Americas,Bolivia,lifeExp_1967,45.032
+Americas,Brazil,lifeExp_1967,57.632
+Americas,Canada,lifeExp_1967,72.13
+Americas,Chile,lifeExp_1967,60.523
+Americas,Colombia,lifeExp_1967,59.963
+Americas,Costa Rica,lifeExp_1967,65.424
+Americas,Cuba,lifeExp_1967,68.29
+Americas,Dominican Republic,lifeExp_1967,56.751
+Americas,Ecuador,lifeExp_1967,56.678
+Americas,El Salvador,lifeExp_1967,55.855
+Americas,Guatemala,lifeExp_1967,50.016
+Americas,Haiti,lifeExp_1967,46.243
+Americas,Honduras,lifeExp_1967,50.924
+Americas,Jamaica,lifeExp_1967,67.51
+Americas,Mexico,lifeExp_1967,60.11
+Americas,Nicaragua,lifeExp_1967,51.884
+Americas,Panama,lifeExp_1967,64.071
+Americas,Paraguay,lifeExp_1967,64.951
+Americas,Peru,lifeExp_1967,51.445
+Americas,Puerto Rico,lifeExp_1967,71.1
+Americas,Trinidad and Tobago,lifeExp_1967,65.4
+Americas,United States,lifeExp_1967,70.76
+Americas,Uruguay,lifeExp_1967,68.468
+Americas,Venezuela,lifeExp_1967,63.479
+Asia,Afghanistan,lifeExp_1967,34.02
+Asia,Bahrain,lifeExp_1967,59.923
+Asia,Bangladesh,lifeExp_1967,43.453
+Asia,Cambodia,lifeExp_1967,45.415
+Asia,China,lifeExp_1967,58.38112
+Asia,Hong Kong China,lifeExp_1967,70
+Asia,India,lifeExp_1967,47.193
+Asia,Indonesia,lifeExp_1967,45.964
+Asia,Iran,lifeExp_1967,52.469
+Asia,Iraq,lifeExp_1967,54.459
+Asia,Israel,lifeExp_1967,70.75
+Asia,Japan,lifeExp_1967,71.43
+Asia,Jordan,lifeExp_1967,51.629
+Asia,Korea Dem. Rep.,lifeExp_1967,59.942
+Asia,Korea Rep.,lifeExp_1967,57.716
+Asia,Kuwait,lifeExp_1967,64.624
+Asia,Lebanon,lifeExp_1967,63.87
+Asia,Malaysia,lifeExp_1967,59.371
+Asia,Mongolia,lifeExp_1967,51.253
+Asia,Myanmar,lifeExp_1967,49.379
+Asia,Nepal,lifeExp_1967,41.472
+Asia,Oman,lifeExp_1967,46.988
+Asia,Pakistan,lifeExp_1967,49.8
+Asia,Philippines,lifeExp_1967,56.393
+Asia,Saudi Arabia,lifeExp_1967,49.901
+Asia,Singapore,lifeExp_1967,67.946
+Asia,Sri Lanka,lifeExp_1967,64.266
+Asia,Syria,lifeExp_1967,53.655
+Asia,Taiwan,lifeExp_1967,67.5
+Asia,Thailand,lifeExp_1967,58.285
+Asia,Vietnam,lifeExp_1967,47.838
+Asia,West Bank and Gaza,lifeExp_1967,51.631
+Asia,Yemen Rep.,lifeExp_1967,36.984
+Europe,Albania,lifeExp_1967,66.22
+Europe,Austria,lifeExp_1967,70.14
+Europe,Belgium,lifeExp_1967,70.94
+Europe,Bosnia and Herzegovina,lifeExp_1967,64.79
+Europe,Bulgaria,lifeExp_1967,70.42
+Europe,Croatia,lifeExp_1967,68.5
+Europe,Czech Republic,lifeExp_1967,70.38
+Europe,Denmark,lifeExp_1967,72.96
+Europe,Finland,lifeExp_1967,69.83
+Europe,France,lifeExp_1967,71.55
+Europe,Germany,lifeExp_1967,70.8
+Europe,Greece,lifeExp_1967,71
+Europe,Hungary,lifeExp_1967,69.5
+Europe,Iceland,lifeExp_1967,73.73
+Europe,Ireland,lifeExp_1967,71.08
+Europe,Italy,lifeExp_1967,71.06
+Europe,Montenegro,lifeExp_1967,67.178
+Europe,Netherlands,lifeExp_1967,73.82
+Europe,Norway,lifeExp_1967,74.08
+Europe,Poland,lifeExp_1967,69.61
+Europe,Portugal,lifeExp_1967,66.6
+Europe,Romania,lifeExp_1967,66.8
+Europe,Serbia,lifeExp_1967,66.914
+Europe,Slovak Republic,lifeExp_1967,70.98
+Europe,Slovenia,lifeExp_1967,69.18
+Europe,Spain,lifeExp_1967,71.44
+Europe,Sweden,lifeExp_1967,74.16
+Europe,Switzerland,lifeExp_1967,72.77
+Europe,Turkey,lifeExp_1967,54.336
+Europe,United Kingdom,lifeExp_1967,71.36
+Oceania,Australia,lifeExp_1967,71.1
+Oceania,New Zealand,lifeExp_1967,71.52
+Africa,Algeria,lifeExp_1972,54.518
+Africa,Angola,lifeExp_1972,37.928
+Africa,Benin,lifeExp_1972,47.014
+Africa,Botswana,lifeExp_1972,56.024
+Africa,Burkina Faso,lifeExp_1972,43.591
+Africa,Burundi,lifeExp_1972,44.057
+Africa,Cameroon,lifeExp_1972,47.049
+Africa,Central African Republic,lifeExp_1972,43.457
+Africa,Chad,lifeExp_1972,45.569
+Africa,Comoros,lifeExp_1972,48.944
+Africa,Congo Dem. Rep.,lifeExp_1972,45.989
+Africa,Congo Rep.,lifeExp_1972,54.907
+Africa,Cote d'Ivoire,lifeExp_1972,49.801
+Africa,Djibouti,lifeExp_1972,44.366
+Africa,Egypt,lifeExp_1972,51.137
+Africa,Equatorial Guinea,lifeExp_1972,40.516
+Africa,Eritrea,lifeExp_1972,44.142
+Africa,Ethiopia,lifeExp_1972,43.515
+Africa,Gabon,lifeExp_1972,48.69
+Africa,Gambia,lifeExp_1972,38.308
+Africa,Ghana,lifeExp_1972,49.875
+Africa,Guinea,lifeExp_1972,38.842
+Africa,Guinea-Bissau,lifeExp_1972,36.486
+Africa,Kenya,lifeExp_1972,53.559
+Africa,Lesotho,lifeExp_1972,49.767
+Africa,Liberia,lifeExp_1972,42.614
+Africa,Libya,lifeExp_1972,52.773
+Africa,Madagascar,lifeExp_1972,44.851
+Africa,Malawi,lifeExp_1972,41.766
+Africa,Mali,lifeExp_1972,39.977
+Africa,Mauritania,lifeExp_1972,48.437
+Africa,Mauritius,lifeExp_1972,62.944
+Africa,Morocco,lifeExp_1972,52.862
+Africa,Mozambique,lifeExp_1972,40.328
+Africa,Namibia,lifeExp_1972,53.867
+Africa,Niger,lifeExp_1972,40.546
+Africa,Nigeria,lifeExp_1972,42.821
+Africa,Reunion,lifeExp_1972,64.274
+Africa,Rwanda,lifeExp_1972,44.6
+Africa,Sao Tome and Principe,lifeExp_1972,56.48
+Africa,Senegal,lifeExp_1972,45.815
+Africa,Sierra Leone,lifeExp_1972,35.4
+Africa,Somalia,lifeExp_1972,40.973
+Africa,South Africa,lifeExp_1972,53.696
+Africa,Sudan,lifeExp_1972,45.083
+Africa,Swaziland,lifeExp_1972,49.552
+Africa,Tanzania,lifeExp_1972,47.62
+Africa,Togo,lifeExp_1972,49.759
+Africa,Tunisia,lifeExp_1972,55.602
+Africa,Uganda,lifeExp_1972,51.016
+Africa,Zambia,lifeExp_1972,50.107
+Africa,Zimbabwe,lifeExp_1972,55.635
+Americas,Argentina,lifeExp_1972,67.065
+Americas,Bolivia,lifeExp_1972,46.714
+Americas,Brazil,lifeExp_1972,59.504
+Americas,Canada,lifeExp_1972,72.88
+Americas,Chile,lifeExp_1972,63.441
+Americas,Colombia,lifeExp_1972,61.623
+Americas,Costa Rica,lifeExp_1972,67.849
+Americas,Cuba,lifeExp_1972,70.723
+Americas,Dominican Republic,lifeExp_1972,59.631
+Americas,Ecuador,lifeExp_1972,58.796
+Americas,El Salvador,lifeExp_1972,58.207
+Americas,Guatemala,lifeExp_1972,53.738
+Americas,Haiti,lifeExp_1972,48.042
+Americas,Honduras,lifeExp_1972,53.884
+Americas,Jamaica,lifeExp_1972,69
+Americas,Mexico,lifeExp_1972,62.361
+Americas,Nicaragua,lifeExp_1972,55.151
+Americas,Panama,lifeExp_1972,66.216
+Americas,Paraguay,lifeExp_1972,65.815
+Americas,Peru,lifeExp_1972,55.448
+Americas,Puerto Rico,lifeExp_1972,72.16
+Americas,Trinidad and Tobago,lifeExp_1972,65.9
+Americas,United States,lifeExp_1972,71.34
+Americas,Uruguay,lifeExp_1972,68.673
+Americas,Venezuela,lifeExp_1972,65.712
+Asia,Afghanistan,lifeExp_1972,36.088
+Asia,Bahrain,lifeExp_1972,63.3
+Asia,Bangladesh,lifeExp_1972,45.252
+Asia,Cambodia,lifeExp_1972,40.317
+Asia,China,lifeExp_1972,63.11888
+Asia,Hong Kong China,lifeExp_1972,72
+Asia,India,lifeExp_1972,50.651
+Asia,Indonesia,lifeExp_1972,49.203
+Asia,Iran,lifeExp_1972,55.234
+Asia,Iraq,lifeExp_1972,56.95
+Asia,Israel,lifeExp_1972,71.63
+Asia,Japan,lifeExp_1972,73.42
+Asia,Jordan,lifeExp_1972,56.528
+Asia,Korea Dem. Rep.,lifeExp_1972,63.983
+Asia,Korea Rep.,lifeExp_1972,62.612
+Asia,Kuwait,lifeExp_1972,67.712
+Asia,Lebanon,lifeExp_1972,65.421
+Asia,Malaysia,lifeExp_1972,63.01
+Asia,Mongolia,lifeExp_1972,53.754
+Asia,Myanmar,lifeExp_1972,53.07
+Asia,Nepal,lifeExp_1972,43.971
+Asia,Oman,lifeExp_1972,52.143
+Asia,Pakistan,lifeExp_1972,51.929
+Asia,Philippines,lifeExp_1972,58.065
+Asia,Saudi Arabia,lifeExp_1972,53.886
+Asia,Singapore,lifeExp_1972,69.521
+Asia,Sri Lanka,lifeExp_1972,65.042
+Asia,Syria,lifeExp_1972,57.296
+Asia,Taiwan,lifeExp_1972,69.39
+Asia,Thailand,lifeExp_1972,60.405
+Asia,Vietnam,lifeExp_1972,50.254
+Asia,West Bank and Gaza,lifeExp_1972,56.532
+Asia,Yemen Rep.,lifeExp_1972,39.848
+Europe,Albania,lifeExp_1972,67.69
+Europe,Austria,lifeExp_1972,70.63
+Europe,Belgium,lifeExp_1972,71.44
+Europe,Bosnia and Herzegovina,lifeExp_1972,67.45
+Europe,Bulgaria,lifeExp_1972,70.9
+Europe,Croatia,lifeExp_1972,69.61
+Europe,Czech Republic,lifeExp_1972,70.29
+Europe,Denmark,lifeExp_1972,73.47
+Europe,Finland,lifeExp_1972,70.87
+Europe,France,lifeExp_1972,72.38
+Europe,Germany,lifeExp_1972,71
+Europe,Greece,lifeExp_1972,72.34
+Europe,Hungary,lifeExp_1972,69.76
+Europe,Iceland,lifeExp_1972,74.46
+Europe,Ireland,lifeExp_1972,71.28
+Europe,Italy,lifeExp_1972,72.19
+Europe,Montenegro,lifeExp_1972,70.636
+Europe,Netherlands,lifeExp_1972,73.75
+Europe,Norway,lifeExp_1972,74.34
+Europe,Poland,lifeExp_1972,70.85
+Europe,Portugal,lifeExp_1972,69.26
+Europe,Romania,lifeExp_1972,69.21
+Europe,Serbia,lifeExp_1972,68.7
+Europe,Slovak Republic,lifeExp_1972,70.35
+Europe,Slovenia,lifeExp_1972,69.82
+Europe,Spain,lifeExp_1972,73.06
+Europe,Sweden,lifeExp_1972,74.72
+Europe,Switzerland,lifeExp_1972,73.78
+Europe,Turkey,lifeExp_1972,57.005
+Europe,United Kingdom,lifeExp_1972,72.01
+Oceania,Australia,lifeExp_1972,71.93
+Oceania,New Zealand,lifeExp_1972,71.89
+Africa,Algeria,lifeExp_1977,58.014
+Africa,Angola,lifeExp_1977,39.483
+Africa,Benin,lifeExp_1977,49.19
+Africa,Botswana,lifeExp_1977,59.319
+Africa,Burkina Faso,lifeExp_1977,46.137
+Africa,Burundi,lifeExp_1977,45.91
+Africa,Cameroon,lifeExp_1977,49.355
+Africa,Central African Republic,lifeExp_1977,46.775
+Africa,Chad,lifeExp_1977,47.383
+Africa,Comoros,lifeExp_1977,50.939
+Africa,Congo Dem. Rep.,lifeExp_1977,47.804
+Africa,Congo Rep.,lifeExp_1977,55.625
+Africa,Cote d'Ivoire,lifeExp_1977,52.374
+Africa,Djibouti,lifeExp_1977,46.519
+Africa,Egypt,lifeExp_1977,53.319
+Africa,Equatorial Guinea,lifeExp_1977,42.024
+Africa,Eritrea,lifeExp_1977,44.535
+Africa,Ethiopia,lifeExp_1977,44.51
+Africa,Gabon,lifeExp_1977,52.79
+Africa,Gambia,lifeExp_1977,41.842
+Africa,Ghana,lifeExp_1977,51.756
+Africa,Guinea,lifeExp_1977,40.762
+Africa,Guinea-Bissau,lifeExp_1977,37.465
+Africa,Kenya,lifeExp_1977,56.155
+Africa,Lesotho,lifeExp_1977,52.208
+Africa,Liberia,lifeExp_1977,43.764
+Africa,Libya,lifeExp_1977,57.442
+Africa,Madagascar,lifeExp_1977,46.881
+Africa,Malawi,lifeExp_1977,43.767
+Africa,Mali,lifeExp_1977,41.714
+Africa,Mauritania,lifeExp_1977,50.852
+Africa,Mauritius,lifeExp_1977,64.93
+Africa,Morocco,lifeExp_1977,55.73
+Africa,Mozambique,lifeExp_1977,42.495
+Africa,Namibia,lifeExp_1977,56.437
+Africa,Niger,lifeExp_1977,41.291
+Africa,Nigeria,lifeExp_1977,44.514
+Africa,Reunion,lifeExp_1977,67.064
+Africa,Rwanda,lifeExp_1977,45
+Africa,Sao Tome and Principe,lifeExp_1977,58.55
+Africa,Senegal,lifeExp_1977,48.879
+Africa,Sierra Leone,lifeExp_1977,36.788
+Africa,Somalia,lifeExp_1977,41.974
+Africa,South Africa,lifeExp_1977,55.527
+Africa,Sudan,lifeExp_1977,47.8
+Africa,Swaziland,lifeExp_1977,52.537
+Africa,Tanzania,lifeExp_1977,49.919
+Africa,Togo,lifeExp_1977,52.887
+Africa,Tunisia,lifeExp_1977,59.837
+Africa,Uganda,lifeExp_1977,50.35
+Africa,Zambia,lifeExp_1977,51.386
+Africa,Zimbabwe,lifeExp_1977,57.674
+Americas,Argentina,lifeExp_1977,68.481
+Americas,Bolivia,lifeExp_1977,50.023
+Americas,Brazil,lifeExp_1977,61.489
+Americas,Canada,lifeExp_1977,74.21
+Americas,Chile,lifeExp_1977,67.052
+Americas,Colombia,lifeExp_1977,63.837
+Americas,Costa Rica,lifeExp_1977,70.75
+Americas,Cuba,lifeExp_1977,72.649
+Americas,Dominican Republic,lifeExp_1977,61.788
+Americas,Ecuador,lifeExp_1977,61.31
+Americas,El Salvador,lifeExp_1977,56.696
+Americas,Guatemala,lifeExp_1977,56.029
+Americas,Haiti,lifeExp_1977,49.923
+Americas,Honduras,lifeExp_1977,57.402
+Americas,Jamaica,lifeExp_1977,70.11
+Americas,Mexico,lifeExp_1977,65.032
+Americas,Nicaragua,lifeExp_1977,57.47
+Americas,Panama,lifeExp_1977,68.681
+Americas,Paraguay,lifeExp_1977,66.353
+Americas,Peru,lifeExp_1977,58.447
+Americas,Puerto Rico,lifeExp_1977,73.44
+Americas,Trinidad and Tobago,lifeExp_1977,68.3
+Americas,United States,lifeExp_1977,73.38
+Americas,Uruguay,lifeExp_1977,69.481
+Americas,Venezuela,lifeExp_1977,67.456
+Asia,Afghanistan,lifeExp_1977,38.438
+Asia,Bahrain,lifeExp_1977,65.593
+Asia,Bangladesh,lifeExp_1977,46.923
+Asia,Cambodia,lifeExp_1977,31.22
+Asia,China,lifeExp_1977,63.96736
+Asia,Hong Kong China,lifeExp_1977,73.6
+Asia,India,lifeExp_1977,54.208
+Asia,Indonesia,lifeExp_1977,52.702
+Asia,Iran,lifeExp_1977,57.702
+Asia,Iraq,lifeExp_1977,60.413
+Asia,Israel,lifeExp_1977,73.06
+Asia,Japan,lifeExp_1977,75.38
+Asia,Jordan,lifeExp_1977,61.134
+Asia,Korea Dem. Rep.,lifeExp_1977,67.159
+Asia,Korea Rep.,lifeExp_1977,64.766
+Asia,Kuwait,lifeExp_1977,69.343
+Asia,Lebanon,lifeExp_1977,66.099
+Asia,Malaysia,lifeExp_1977,65.256
+Asia,Mongolia,lifeExp_1977,55.491
+Asia,Myanmar,lifeExp_1977,56.059
+Asia,Nepal,lifeExp_1977,46.748
+Asia,Oman,lifeExp_1977,57.367
+Asia,Pakistan,lifeExp_1977,54.043
+Asia,Philippines,lifeExp_1977,60.06
+Asia,Saudi Arabia,lifeExp_1977,58.69
+Asia,Singapore,lifeExp_1977,70.795
+Asia,Sri Lanka,lifeExp_1977,65.949
+Asia,Syria,lifeExp_1977,61.195
+Asia,Taiwan,lifeExp_1977,70.59
+Asia,Thailand,lifeExp_1977,62.494
+Asia,Vietnam,lifeExp_1977,55.764
+Asia,West Bank and Gaza,lifeExp_1977,60.765
+Asia,Yemen Rep.,lifeExp_1977,44.175
+Europe,Albania,lifeExp_1977,68.93
+Europe,Austria,lifeExp_1977,72.17
+Europe,Belgium,lifeExp_1977,72.8
+Europe,Bosnia and Herzegovina,lifeExp_1977,69.86
+Europe,Bulgaria,lifeExp_1977,70.81
+Europe,Croatia,lifeExp_1977,70.64
+Europe,Czech Republic,lifeExp_1977,70.71
+Europe,Denmark,lifeExp_1977,74.69
+Europe,Finland,lifeExp_1977,72.52
+Europe,France,lifeExp_1977,73.83
+Europe,Germany,lifeExp_1977,72.5
+Europe,Greece,lifeExp_1977,73.68
+Europe,Hungary,lifeExp_1977,69.95
+Europe,Iceland,lifeExp_1977,76.11
+Europe,Ireland,lifeExp_1977,72.03
+Europe,Italy,lifeExp_1977,73.48
+Europe,Montenegro,lifeExp_1977,73.066
+Europe,Netherlands,lifeExp_1977,75.24
+Europe,Norway,lifeExp_1977,75.37
+Europe,Poland,lifeExp_1977,70.67
+Europe,Portugal,lifeExp_1977,70.41
+Europe,Romania,lifeExp_1977,69.46
+Europe,Serbia,lifeExp_1977,70.3
+Europe,Slovak Republic,lifeExp_1977,70.45
+Europe,Slovenia,lifeExp_1977,70.97
+Europe,Spain,lifeExp_1977,74.39
+Europe,Sweden,lifeExp_1977,75.44
+Europe,Switzerland,lifeExp_1977,75.39
+Europe,Turkey,lifeExp_1977,59.507
+Europe,United Kingdom,lifeExp_1977,72.76
+Oceania,Australia,lifeExp_1977,73.49
+Oceania,New Zealand,lifeExp_1977,72.22
+Africa,Algeria,lifeExp_1982,61.368
+Africa,Angola,lifeExp_1982,39.942
+Africa,Benin,lifeExp_1982,50.904
+Africa,Botswana,lifeExp_1982,61.484
+Africa,Burkina Faso,lifeExp_1982,48.122
+Africa,Burundi,lifeExp_1982,47.471
+Africa,Cameroon,lifeExp_1982,52.961
+Africa,Central African Republic,lifeExp_1982,48.295
+Africa,Chad,lifeExp_1982,49.517
+Africa,Comoros,lifeExp_1982,52.933
+Africa,Congo Dem. Rep.,lifeExp_1982,47.784
+Africa,Congo Rep.,lifeExp_1982,56.695
+Africa,Cote d'Ivoire,lifeExp_1982,53.983
+Africa,Djibouti,lifeExp_1982,48.812
+Africa,Egypt,lifeExp_1982,56.006
+Africa,Equatorial Guinea,lifeExp_1982,43.662
+Africa,Eritrea,lifeExp_1982,43.89
+Africa,Ethiopia,lifeExp_1982,44.916
+Africa,Gabon,lifeExp_1982,56.564
+Africa,Gambia,lifeExp_1982,45.58
+Africa,Ghana,lifeExp_1982,53.744
+Africa,Guinea,lifeExp_1982,42.891
+Africa,Guinea-Bissau,lifeExp_1982,39.327
+Africa,Kenya,lifeExp_1982,58.766
+Africa,Lesotho,lifeExp_1982,55.078
+Africa,Liberia,lifeExp_1982,44.852
+Africa,Libya,lifeExp_1982,62.155
+Africa,Madagascar,lifeExp_1982,48.969
+Africa,Malawi,lifeExp_1982,45.642
+Africa,Mali,lifeExp_1982,43.916
+Africa,Mauritania,lifeExp_1982,53.599
+Africa,Mauritius,lifeExp_1982,66.711
+Africa,Morocco,lifeExp_1982,59.65
+Africa,Mozambique,lifeExp_1982,42.795
+Africa,Namibia,lifeExp_1982,58.968
+Africa,Niger,lifeExp_1982,42.598
+Africa,Nigeria,lifeExp_1982,45.826
+Africa,Reunion,lifeExp_1982,69.885
+Africa,Rwanda,lifeExp_1982,46.218
+Africa,Sao Tome and Principe,lifeExp_1982,60.351
+Africa,Senegal,lifeExp_1982,52.379
+Africa,Sierra Leone,lifeExp_1982,38.445
+Africa,Somalia,lifeExp_1982,42.955
+Africa,South Africa,lifeExp_1982,58.161
+Africa,Sudan,lifeExp_1982,50.338
+Africa,Swaziland,lifeExp_1982,55.561
+Africa,Tanzania,lifeExp_1982,50.608
+Africa,Togo,lifeExp_1982,55.471
+Africa,Tunisia,lifeExp_1982,64.048
+Africa,Uganda,lifeExp_1982,49.849
+Africa,Zambia,lifeExp_1982,51.821
+Africa,Zimbabwe,lifeExp_1982,60.363
+Americas,Argentina,lifeExp_1982,69.942
+Americas,Bolivia,lifeExp_1982,53.859
+Americas,Brazil,lifeExp_1982,63.336
+Americas,Canada,lifeExp_1982,75.76
+Americas,Chile,lifeExp_1982,70.565
+Americas,Colombia,lifeExp_1982,66.653
+Americas,Costa Rica,lifeExp_1982,73.45
+Americas,Cuba,lifeExp_1982,73.717
+Americas,Dominican Republic,lifeExp_1982,63.727
+Americas,Ecuador,lifeExp_1982,64.342
+Americas,El Salvador,lifeExp_1982,56.604
+Americas,Guatemala,lifeExp_1982,58.137
+Americas,Haiti,lifeExp_1982,51.461
+Americas,Honduras,lifeExp_1982,60.909
+Americas,Jamaica,lifeExp_1982,71.21
+Americas,Mexico,lifeExp_1982,67.405
+Americas,Nicaragua,lifeExp_1982,59.298
+Americas,Panama,lifeExp_1982,70.472
+Americas,Paraguay,lifeExp_1982,66.874
+Americas,Peru,lifeExp_1982,61.406
+Americas,Puerto Rico,lifeExp_1982,73.75
+Americas,Trinidad and Tobago,lifeExp_1982,68.832
+Americas,United States,lifeExp_1982,74.65
+Americas,Uruguay,lifeExp_1982,70.805
+Americas,Venezuela,lifeExp_1982,68.557
+Asia,Afghanistan,lifeExp_1982,39.854
+Asia,Bahrain,lifeExp_1982,69.052
+Asia,Bangladesh,lifeExp_1982,50.009
+Asia,Cambodia,lifeExp_1982,50.957
+Asia,China,lifeExp_1982,65.525
+Asia,Hong Kong China,lifeExp_1982,75.45
+Asia,India,lifeExp_1982,56.596
+Asia,Indonesia,lifeExp_1982,56.159
+Asia,Iran,lifeExp_1982,59.62
+Asia,Iraq,lifeExp_1982,62.038
+Asia,Israel,lifeExp_1982,74.45
+Asia,Japan,lifeExp_1982,77.11
+Asia,Jordan,lifeExp_1982,63.739
+Asia,Korea Dem. Rep.,lifeExp_1982,69.1
+Asia,Korea Rep.,lifeExp_1982,67.123
+Asia,Kuwait,lifeExp_1982,71.309
+Asia,Lebanon,lifeExp_1982,66.983
+Asia,Malaysia,lifeExp_1982,68
+Asia,Mongolia,lifeExp_1982,57.489
+Asia,Myanmar,lifeExp_1982,58.056
+Asia,Nepal,lifeExp_1982,49.594
+Asia,Oman,lifeExp_1982,62.728
+Asia,Pakistan,lifeExp_1982,56.158
+Asia,Philippines,lifeExp_1982,62.082
+Asia,Saudi Arabia,lifeExp_1982,63.012
+Asia,Singapore,lifeExp_1982,71.76
+Asia,Sri Lanka,lifeExp_1982,68.757
+Asia,Syria,lifeExp_1982,64.59
+Asia,Taiwan,lifeExp_1982,72.16
+Asia,Thailand,lifeExp_1982,64.597
+Asia,Vietnam,lifeExp_1982,58.816
+Asia,West Bank and Gaza,lifeExp_1982,64.406
+Asia,Yemen Rep.,lifeExp_1982,49.113
+Europe,Albania,lifeExp_1982,70.42
+Europe,Austria,lifeExp_1982,73.18
+Europe,Belgium,lifeExp_1982,73.93
+Europe,Bosnia and Herzegovina,lifeExp_1982,70.69
+Europe,Bulgaria,lifeExp_1982,71.08
+Europe,Croatia,lifeExp_1982,70.46
+Europe,Czech Republic,lifeExp_1982,70.96
+Europe,Denmark,lifeExp_1982,74.63
+Europe,Finland,lifeExp_1982,74.55
+Europe,France,lifeExp_1982,74.89
+Europe,Germany,lifeExp_1982,73.8
+Europe,Greece,lifeExp_1982,75.24
+Europe,Hungary,lifeExp_1982,69.39
+Europe,Iceland,lifeExp_1982,76.99
+Europe,Ireland,lifeExp_1982,73.1
+Europe,Italy,lifeExp_1982,74.98
+Europe,Montenegro,lifeExp_1982,74.101
+Europe,Netherlands,lifeExp_1982,76.05
+Europe,Norway,lifeExp_1982,75.97
+Europe,Poland,lifeExp_1982,71.32
+Europe,Portugal,lifeExp_1982,72.77
+Europe,Romania,lifeExp_1982,69.66
+Europe,Serbia,lifeExp_1982,70.162
+Europe,Slovak Republic,lifeExp_1982,70.8
+Europe,Slovenia,lifeExp_1982,71.063
+Europe,Spain,lifeExp_1982,76.3
+Europe,Sweden,lifeExp_1982,76.42
+Europe,Switzerland,lifeExp_1982,76.21
+Europe,Turkey,lifeExp_1982,61.036
+Europe,United Kingdom,lifeExp_1982,74.04
+Oceania,Australia,lifeExp_1982,74.74
+Oceania,New Zealand,lifeExp_1982,73.84
+Africa,Algeria,lifeExp_1987,65.799
+Africa,Angola,lifeExp_1987,39.906
+Africa,Benin,lifeExp_1987,52.337
+Africa,Botswana,lifeExp_1987,63.622
+Africa,Burkina Faso,lifeExp_1987,49.557
+Africa,Burundi,lifeExp_1987,48.211
+Africa,Cameroon,lifeExp_1987,54.985
+Africa,Central African Republic,lifeExp_1987,50.485
+Africa,Chad,lifeExp_1987,51.051
+Africa,Comoros,lifeExp_1987,54.926
+Africa,Congo Dem. Rep.,lifeExp_1987,47.412
+Africa,Congo Rep.,lifeExp_1987,57.47
+Africa,Cote d'Ivoire,lifeExp_1987,54.655
+Africa,Djibouti,lifeExp_1987,50.04
+Africa,Egypt,lifeExp_1987,59.797
+Africa,Equatorial Guinea,lifeExp_1987,45.664
+Africa,Eritrea,lifeExp_1987,46.453
+Africa,Ethiopia,lifeExp_1987,46.684
+Africa,Gabon,lifeExp_1987,60.19
+Africa,Gambia,lifeExp_1987,49.265
+Africa,Ghana,lifeExp_1987,55.729
+Africa,Guinea,lifeExp_1987,45.552
+Africa,Guinea-Bissau,lifeExp_1987,41.245
+Africa,Kenya,lifeExp_1987,59.339
+Africa,Lesotho,lifeExp_1987,57.18
+Africa,Liberia,lifeExp_1987,46.027
+Africa,Libya,lifeExp_1987,66.234
+Africa,Madagascar,lifeExp_1987,49.35
+Africa,Malawi,lifeExp_1987,47.457
+Africa,Mali,lifeExp_1987,46.364
+Africa,Mauritania,lifeExp_1987,56.145
+Africa,Mauritius,lifeExp_1987,68.74
+Africa,Morocco,lifeExp_1987,62.677
+Africa,Mozambique,lifeExp_1987,42.861
+Africa,Namibia,lifeExp_1987,60.835
+Africa,Niger,lifeExp_1987,44.555
+Africa,Nigeria,lifeExp_1987,46.886
+Africa,Reunion,lifeExp_1987,71.913
+Africa,Rwanda,lifeExp_1987,44.02
+Africa,Sao Tome and Principe,lifeExp_1987,61.728
+Africa,Senegal,lifeExp_1987,55.769
+Africa,Sierra Leone,lifeExp_1987,40.006
+Africa,Somalia,lifeExp_1987,44.501
+Africa,South Africa,lifeExp_1987,60.834
+Africa,Sudan,lifeExp_1987,51.744
+Africa,Swaziland,lifeExp_1987,57.678
+Africa,Tanzania,lifeExp_1987,51.535
+Africa,Togo,lifeExp_1987,56.941
+Africa,Tunisia,lifeExp_1987,66.894
+Africa,Uganda,lifeExp_1987,51.509
+Africa,Zambia,lifeExp_1987,50.821
+Africa,Zimbabwe,lifeExp_1987,62.351
+Americas,Argentina,lifeExp_1987,70.774
+Americas,Bolivia,lifeExp_1987,57.251
+Americas,Brazil,lifeExp_1987,65.205
+Americas,Canada,lifeExp_1987,76.86
+Americas,Chile,lifeExp_1987,72.492
+Americas,Colombia,lifeExp_1987,67.768
+Americas,Costa Rica,lifeExp_1987,74.752
+Americas,Cuba,lifeExp_1987,74.174
+Americas,Dominican Republic,lifeExp_1987,66.046
+Americas,Ecuador,lifeExp_1987,67.231
+Americas,El Salvador,lifeExp_1987,63.154
+Americas,Guatemala,lifeExp_1987,60.782
+Americas,Haiti,lifeExp_1987,53.636
+Americas,Honduras,lifeExp_1987,64.492
+Americas,Jamaica,lifeExp_1987,71.77
+Americas,Mexico,lifeExp_1987,69.498
+Americas,Nicaragua,lifeExp_1987,62.008
+Americas,Panama,lifeExp_1987,71.523
+Americas,Paraguay,lifeExp_1987,67.378
+Americas,Peru,lifeExp_1987,64.134
+Americas,Puerto Rico,lifeExp_1987,74.63
+Americas,Trinidad and Tobago,lifeExp_1987,69.582
+Americas,United States,lifeExp_1987,75.02
+Americas,Uruguay,lifeExp_1987,71.918
+Americas,Venezuela,lifeExp_1987,70.19
+Asia,Afghanistan,lifeExp_1987,40.822
+Asia,Bahrain,lifeExp_1987,70.75
+Asia,Bangladesh,lifeExp_1987,52.819
+Asia,Cambodia,lifeExp_1987,53.914
+Asia,China,lifeExp_1987,67.274
+Asia,Hong Kong China,lifeExp_1987,76.2
+Asia,India,lifeExp_1987,58.553
+Asia,Indonesia,lifeExp_1987,60.137
+Asia,Iran,lifeExp_1987,63.04
+Asia,Iraq,lifeExp_1987,65.044
+Asia,Israel,lifeExp_1987,75.6
+Asia,Japan,lifeExp_1987,78.67
+Asia,Jordan,lifeExp_1987,65.869
+Asia,Korea Dem. Rep.,lifeExp_1987,70.647
+Asia,Korea Rep.,lifeExp_1987,69.81
+Asia,Kuwait,lifeExp_1987,74.174
+Asia,Lebanon,lifeExp_1987,67.926
+Asia,Malaysia,lifeExp_1987,69.5
+Asia,Mongolia,lifeExp_1987,60.222
+Asia,Myanmar,lifeExp_1987,58.339
+Asia,Nepal,lifeExp_1987,52.537
+Asia,Oman,lifeExp_1987,67.734
+Asia,Pakistan,lifeExp_1987,58.245
+Asia,Philippines,lifeExp_1987,64.151
+Asia,Saudi Arabia,lifeExp_1987,66.295
+Asia,Singapore,lifeExp_1987,73.56
+Asia,Sri Lanka,lifeExp_1987,69.011
+Asia,Syria,lifeExp_1987,66.974
+Asia,Taiwan,lifeExp_1987,73.4
+Asia,Thailand,lifeExp_1987,66.084
+Asia,Vietnam,lifeExp_1987,62.82
+Asia,West Bank and Gaza,lifeExp_1987,67.046
+Asia,Yemen Rep.,lifeExp_1987,52.922
+Europe,Albania,lifeExp_1987,72
+Europe,Austria,lifeExp_1987,74.94
+Europe,Belgium,lifeExp_1987,75.35
+Europe,Bosnia and Herzegovina,lifeExp_1987,71.14
+Europe,Bulgaria,lifeExp_1987,71.34
+Europe,Croatia,lifeExp_1987,71.52
+Europe,Czech Republic,lifeExp_1987,71.58
+Europe,Denmark,lifeExp_1987,74.8
+Europe,Finland,lifeExp_1987,74.83
+Europe,France,lifeExp_1987,76.34
+Europe,Germany,lifeExp_1987,74.847
+Europe,Greece,lifeExp_1987,76.67
+Europe,Hungary,lifeExp_1987,69.58
+Europe,Iceland,lifeExp_1987,77.23
+Europe,Ireland,lifeExp_1987,74.36
+Europe,Italy,lifeExp_1987,76.42
+Europe,Montenegro,lifeExp_1987,74.865
+Europe,Netherlands,lifeExp_1987,76.83
+Europe,Norway,lifeExp_1987,75.89
+Europe,Poland,lifeExp_1987,70.98
+Europe,Portugal,lifeExp_1987,74.06
+Europe,Romania,lifeExp_1987,69.53
+Europe,Serbia,lifeExp_1987,71.218
+Europe,Slovak Republic,lifeExp_1987,71.08
+Europe,Slovenia,lifeExp_1987,72.25
+Europe,Spain,lifeExp_1987,76.9
+Europe,Sweden,lifeExp_1987,77.19
+Europe,Switzerland,lifeExp_1987,77.41
+Europe,Turkey,lifeExp_1987,63.108
+Europe,United Kingdom,lifeExp_1987,75.007
+Oceania,Australia,lifeExp_1987,76.32
+Oceania,New Zealand,lifeExp_1987,74.32
+Africa,Algeria,lifeExp_1992,67.744
+Africa,Angola,lifeExp_1992,40.647
+Africa,Benin,lifeExp_1992,53.919
+Africa,Botswana,lifeExp_1992,62.745
+Africa,Burkina Faso,lifeExp_1992,50.26
+Africa,Burundi,lifeExp_1992,44.736
+Africa,Cameroon,lifeExp_1992,54.314
+Africa,Central African Republic,lifeExp_1992,49.396
+Africa,Chad,lifeExp_1992,51.724
+Africa,Comoros,lifeExp_1992,57.939
+Africa,Congo Dem. Rep.,lifeExp_1992,45.548
+Africa,Congo Rep.,lifeExp_1992,56.433
+Africa,Cote d'Ivoire,lifeExp_1992,52.044
+Africa,Djibouti,lifeExp_1992,51.604
+Africa,Egypt,lifeExp_1992,63.674
+Africa,Equatorial Guinea,lifeExp_1992,47.545
+Africa,Eritrea,lifeExp_1992,49.991
+Africa,Ethiopia,lifeExp_1992,48.091
+Africa,Gabon,lifeExp_1992,61.366
+Africa,Gambia,lifeExp_1992,52.644
+Africa,Ghana,lifeExp_1992,57.501
+Africa,Guinea,lifeExp_1992,48.576
+Africa,Guinea-Bissau,lifeExp_1992,43.266
+Africa,Kenya,lifeExp_1992,59.285
+Africa,Lesotho,lifeExp_1992,59.685
+Africa,Liberia,lifeExp_1992,40.802
+Africa,Libya,lifeExp_1992,68.755
+Africa,Madagascar,lifeExp_1992,52.214
+Africa,Malawi,lifeExp_1992,49.42
+Africa,Mali,lifeExp_1992,48.388
+Africa,Mauritania,lifeExp_1992,58.333
+Africa,Mauritius,lifeExp_1992,69.745
+Africa,Morocco,lifeExp_1992,65.393
+Africa,Mozambique,lifeExp_1992,44.284
+Africa,Namibia,lifeExp_1992,61.999
+Africa,Niger,lifeExp_1992,47.391
+Africa,Nigeria,lifeExp_1992,47.472
+Africa,Reunion,lifeExp_1992,73.615
+Africa,Rwanda,lifeExp_1992,23.599
+Africa,Sao Tome and Principe,lifeExp_1992,62.742
+Africa,Senegal,lifeExp_1992,58.196
+Africa,Sierra Leone,lifeExp_1992,38.333
+Africa,Somalia,lifeExp_1992,39.658
+Africa,South Africa,lifeExp_1992,61.888
+Africa,Sudan,lifeExp_1992,53.556
+Africa,Swaziland,lifeExp_1992,58.474
+Africa,Tanzania,lifeExp_1992,50.44
+Africa,Togo,lifeExp_1992,58.061
+Africa,Tunisia,lifeExp_1992,70.001
+Africa,Uganda,lifeExp_1992,48.825
+Africa,Zambia,lifeExp_1992,46.1
+Africa,Zimbabwe,lifeExp_1992,60.377
+Americas,Argentina,lifeExp_1992,71.868
+Americas,Bolivia,lifeExp_1992,59.957
+Americas,Brazil,lifeExp_1992,67.057
+Americas,Canada,lifeExp_1992,77.95
+Americas,Chile,lifeExp_1992,74.126
+Americas,Colombia,lifeExp_1992,68.421
+Americas,Costa Rica,lifeExp_1992,75.713
+Americas,Cuba,lifeExp_1992,74.414
+Americas,Dominican Republic,lifeExp_1992,68.457
+Americas,Ecuador,lifeExp_1992,69.613
+Americas,El Salvador,lifeExp_1992,66.798
+Americas,Guatemala,lifeExp_1992,63.373
+Americas,Haiti,lifeExp_1992,55.089
+Americas,Honduras,lifeExp_1992,66.399
+Americas,Jamaica,lifeExp_1992,71.766
+Americas,Mexico,lifeExp_1992,71.455
+Americas,Nicaragua,lifeExp_1992,65.843
+Americas,Panama,lifeExp_1992,72.462
+Americas,Paraguay,lifeExp_1992,68.225
+Americas,Peru,lifeExp_1992,66.458
+Americas,Puerto Rico,lifeExp_1992,73.911
+Americas,Trinidad and Tobago,lifeExp_1992,69.862
+Americas,United States,lifeExp_1992,76.09
+Americas,Uruguay,lifeExp_1992,72.752
+Americas,Venezuela,lifeExp_1992,71.15
+Asia,Afghanistan,lifeExp_1992,41.674
+Asia,Bahrain,lifeExp_1992,72.601
+Asia,Bangladesh,lifeExp_1992,56.018
+Asia,Cambodia,lifeExp_1992,55.803
+Asia,China,lifeExp_1992,68.69
+Asia,Hong Kong China,lifeExp_1992,77.601
+Asia,India,lifeExp_1992,60.223
+Asia,Indonesia,lifeExp_1992,62.681
+Asia,Iran,lifeExp_1992,65.742
+Asia,Iraq,lifeExp_1992,59.461
+Asia,Israel,lifeExp_1992,76.93
+Asia,Japan,lifeExp_1992,79.36
+Asia,Jordan,lifeExp_1992,68.015
+Asia,Korea Dem. Rep.,lifeExp_1992,69.978
+Asia,Korea Rep.,lifeExp_1992,72.244
+Asia,Kuwait,lifeExp_1992,75.19
+Asia,Lebanon,lifeExp_1992,69.292
+Asia,Malaysia,lifeExp_1992,70.693
+Asia,Mongolia,lifeExp_1992,61.271
+Asia,Myanmar,lifeExp_1992,59.32
+Asia,Nepal,lifeExp_1992,55.727
+Asia,Oman,lifeExp_1992,71.197
+Asia,Pakistan,lifeExp_1992,60.838
+Asia,Philippines,lifeExp_1992,66.458
+Asia,Saudi Arabia,lifeExp_1992,68.768
+Asia,Singapore,lifeExp_1992,75.788
+Asia,Sri Lanka,lifeExp_1992,70.379
+Asia,Syria,lifeExp_1992,69.249
+Asia,Taiwan,lifeExp_1992,74.26
+Asia,Thailand,lifeExp_1992,67.298
+Asia,Vietnam,lifeExp_1992,67.662
+Asia,West Bank and Gaza,lifeExp_1992,69.718
+Asia,Yemen Rep.,lifeExp_1992,55.599
+Europe,Albania,lifeExp_1992,71.581
+Europe,Austria,lifeExp_1992,76.04
+Europe,Belgium,lifeExp_1992,76.46
+Europe,Bosnia and Herzegovina,lifeExp_1992,72.178
+Europe,Bulgaria,lifeExp_1992,71.19
+Europe,Croatia,lifeExp_1992,72.527
+Europe,Czech Republic,lifeExp_1992,72.4
+Europe,Denmark,lifeExp_1992,75.33
+Europe,Finland,lifeExp_1992,75.7
+Europe,France,lifeExp_1992,77.46
+Europe,Germany,lifeExp_1992,76.07
+Europe,Greece,lifeExp_1992,77.03
+Europe,Hungary,lifeExp_1992,69.17
+Europe,Iceland,lifeExp_1992,78.77
+Europe,Ireland,lifeExp_1992,75.467
+Europe,Italy,lifeExp_1992,77.44
+Europe,Montenegro,lifeExp_1992,75.435
+Europe,Netherlands,lifeExp_1992,77.42
+Europe,Norway,lifeExp_1992,77.32
+Europe,Poland,lifeExp_1992,70.99
+Europe,Portugal,lifeExp_1992,74.86
+Europe,Romania,lifeExp_1992,69.36
+Europe,Serbia,lifeExp_1992,71.659
+Europe,Slovak Republic,lifeExp_1992,71.38
+Europe,Slovenia,lifeExp_1992,73.64
+Europe,Spain,lifeExp_1992,77.57
+Europe,Sweden,lifeExp_1992,78.16
+Europe,Switzerland,lifeExp_1992,78.03
+Europe,Turkey,lifeExp_1992,66.146
+Europe,United Kingdom,lifeExp_1992,76.42
+Oceania,Australia,lifeExp_1992,77.56
+Oceania,New Zealand,lifeExp_1992,76.33
+Africa,Algeria,lifeExp_1997,69.152
+Africa,Angola,lifeExp_1997,40.963
+Africa,Benin,lifeExp_1997,54.777
+Africa,Botswana,lifeExp_1997,52.556
+Africa,Burkina Faso,lifeExp_1997,50.324
+Africa,Burundi,lifeExp_1997,45.326
+Africa,Cameroon,lifeExp_1997,52.199
+Africa,Central African Republic,lifeExp_1997,46.066
+Africa,Chad,lifeExp_1997,51.573
+Africa,Comoros,lifeExp_1997,60.66
+Africa,Congo Dem. Rep.,lifeExp_1997,42.587
+Africa,Congo Rep.,lifeExp_1997,52.962
+Africa,Cote d'Ivoire,lifeExp_1997,47.991
+Africa,Djibouti,lifeExp_1997,53.157
+Africa,Egypt,lifeExp_1997,67.217
+Africa,Equatorial Guinea,lifeExp_1997,48.245
+Africa,Eritrea,lifeExp_1997,53.378
+Africa,Ethiopia,lifeExp_1997,49.402
+Africa,Gabon,lifeExp_1997,60.461
+Africa,Gambia,lifeExp_1997,55.861
+Africa,Ghana,lifeExp_1997,58.556
+Africa,Guinea,lifeExp_1997,51.455
+Africa,Guinea-Bissau,lifeExp_1997,44.873
+Africa,Kenya,lifeExp_1997,54.407
+Africa,Lesotho,lifeExp_1997,55.558
+Africa,Liberia,lifeExp_1997,42.221
+Africa,Libya,lifeExp_1997,71.555
+Africa,Madagascar,lifeExp_1997,54.978
+Africa,Malawi,lifeExp_1997,47.495
+Africa,Mali,lifeExp_1997,49.903
+Africa,Mauritania,lifeExp_1997,60.43
+Africa,Mauritius,lifeExp_1997,70.736
+Africa,Morocco,lifeExp_1997,67.66
+Africa,Mozambique,lifeExp_1997,46.344
+Africa,Namibia,lifeExp_1997,58.909
+Africa,Niger,lifeExp_1997,51.313
+Africa,Nigeria,lifeExp_1997,47.464
+Africa,Reunion,lifeExp_1997,74.772
+Africa,Rwanda,lifeExp_1997,36.087
+Africa,Sao Tome and Principe,lifeExp_1997,63.306
+Africa,Senegal,lifeExp_1997,60.187
+Africa,Sierra Leone,lifeExp_1997,39.897
+Africa,Somalia,lifeExp_1997,43.795
+Africa,South Africa,lifeExp_1997,60.236
+Africa,Sudan,lifeExp_1997,55.373
+Africa,Swaziland,lifeExp_1997,54.289
+Africa,Tanzania,lifeExp_1997,48.466
+Africa,Togo,lifeExp_1997,58.39
+Africa,Tunisia,lifeExp_1997,71.973
+Africa,Uganda,lifeExp_1997,44.578
+Africa,Zambia,lifeExp_1997,40.238
+Africa,Zimbabwe,lifeExp_1997,46.809
+Americas,Argentina,lifeExp_1997,73.275
+Americas,Bolivia,lifeExp_1997,62.05
+Americas,Brazil,lifeExp_1997,69.388
+Americas,Canada,lifeExp_1997,78.61
+Americas,Chile,lifeExp_1997,75.816
+Americas,Colombia,lifeExp_1997,70.313
+Americas,Costa Rica,lifeExp_1997,77.26
+Americas,Cuba,lifeExp_1997,76.151
+Americas,Dominican Republic,lifeExp_1997,69.957
+Americas,Ecuador,lifeExp_1997,72.312
+Americas,El Salvador,lifeExp_1997,69.535
+Americas,Guatemala,lifeExp_1997,66.322
+Americas,Haiti,lifeExp_1997,56.671
+Americas,Honduras,lifeExp_1997,67.659
+Americas,Jamaica,lifeExp_1997,72.262
+Americas,Mexico,lifeExp_1997,73.67
+Americas,Nicaragua,lifeExp_1997,68.426
+Americas,Panama,lifeExp_1997,73.738
+Americas,Paraguay,lifeExp_1997,69.4
+Americas,Peru,lifeExp_1997,68.386
+Americas,Puerto Rico,lifeExp_1997,74.917
+Americas,Trinidad and Tobago,lifeExp_1997,69.465
+Americas,United States,lifeExp_1997,76.81
+Americas,Uruguay,lifeExp_1997,74.223
+Americas,Venezuela,lifeExp_1997,72.146
+Asia,Afghanistan,lifeExp_1997,41.763
+Asia,Bahrain,lifeExp_1997,73.925
+Asia,Bangladesh,lifeExp_1997,59.412
+Asia,Cambodia,lifeExp_1997,56.534
+Asia,China,lifeExp_1997,70.426
+Asia,Hong Kong China,lifeExp_1997,80
+Asia,India,lifeExp_1997,61.765
+Asia,Indonesia,lifeExp_1997,66.041
+Asia,Iran,lifeExp_1997,68.042
+Asia,Iraq,lifeExp_1997,58.811
+Asia,Israel,lifeExp_1997,78.269
+Asia,Japan,lifeExp_1997,80.69
+Asia,Jordan,lifeExp_1997,69.772
+Asia,Korea Dem. Rep.,lifeExp_1997,67.727
+Asia,Korea Rep.,lifeExp_1997,74.647
+Asia,Kuwait,lifeExp_1997,76.156
+Asia,Lebanon,lifeExp_1997,70.265
+Asia,Malaysia,lifeExp_1997,71.938
+Asia,Mongolia,lifeExp_1997,63.625
+Asia,Myanmar,lifeExp_1997,60.328
+Asia,Nepal,lifeExp_1997,59.426
+Asia,Oman,lifeExp_1997,72.499
+Asia,Pakistan,lifeExp_1997,61.818
+Asia,Philippines,lifeExp_1997,68.564
+Asia,Saudi Arabia,lifeExp_1997,70.533
+Asia,Singapore,lifeExp_1997,77.158
+Asia,Sri Lanka,lifeExp_1997,70.457
+Asia,Syria,lifeExp_1997,71.527
+Asia,Taiwan,lifeExp_1997,75.25
+Asia,Thailand,lifeExp_1997,67.521
+Asia,Vietnam,lifeExp_1997,70.672
+Asia,West Bank and Gaza,lifeExp_1997,71.096
+Asia,Yemen Rep.,lifeExp_1997,58.02
+Europe,Albania,lifeExp_1997,72.95
+Europe,Austria,lifeExp_1997,77.51
+Europe,Belgium,lifeExp_1997,77.53
+Europe,Bosnia and Herzegovina,lifeExp_1997,73.244
+Europe,Bulgaria,lifeExp_1997,70.32
+Europe,Croatia,lifeExp_1997,73.68
+Europe,Czech Republic,lifeExp_1997,74.01
+Europe,Denmark,lifeExp_1997,76.11
+Europe,Finland,lifeExp_1997,77.13
+Europe,France,lifeExp_1997,78.64
+Europe,Germany,lifeExp_1997,77.34
+Europe,Greece,lifeExp_1997,77.869
+Europe,Hungary,lifeExp_1997,71.04
+Europe,Iceland,lifeExp_1997,78.95
+Europe,Ireland,lifeExp_1997,76.122
+Europe,Italy,lifeExp_1997,78.82
+Europe,Montenegro,lifeExp_1997,75.445
+Europe,Netherlands,lifeExp_1997,78.03
+Europe,Norway,lifeExp_1997,78.32
+Europe,Poland,lifeExp_1997,72.75
+Europe,Portugal,lifeExp_1997,75.97
+Europe,Romania,lifeExp_1997,69.72
+Europe,Serbia,lifeExp_1997,72.232
+Europe,Slovak Republic,lifeExp_1997,72.71
+Europe,Slovenia,lifeExp_1997,75.13
+Europe,Spain,lifeExp_1997,78.77
+Europe,Sweden,lifeExp_1997,79.39
+Europe,Switzerland,lifeExp_1997,79.37
+Europe,Turkey,lifeExp_1997,68.835
+Europe,United Kingdom,lifeExp_1997,77.218
+Oceania,Australia,lifeExp_1997,78.83
+Oceania,New Zealand,lifeExp_1997,77.55
+Africa,Algeria,lifeExp_2002,70.994
+Africa,Angola,lifeExp_2002,41.003
+Africa,Benin,lifeExp_2002,54.406
+Africa,Botswana,lifeExp_2002,46.634
+Africa,Burkina Faso,lifeExp_2002,50.65
+Africa,Burundi,lifeExp_2002,47.36
+Africa,Cameroon,lifeExp_2002,49.856
+Africa,Central African Republic,lifeExp_2002,43.308
+Africa,Chad,lifeExp_2002,50.525
+Africa,Comoros,lifeExp_2002,62.974
+Africa,Congo Dem. Rep.,lifeExp_2002,44.966
+Africa,Congo Rep.,lifeExp_2002,52.97
+Africa,Cote d'Ivoire,lifeExp_2002,46.832
+Africa,Djibouti,lifeExp_2002,53.373
+Africa,Egypt,lifeExp_2002,69.806
+Africa,Equatorial Guinea,lifeExp_2002,49.348
+Africa,Eritrea,lifeExp_2002,55.24
+Africa,Ethiopia,lifeExp_2002,50.725
+Africa,Gabon,lifeExp_2002,56.761
+Africa,Gambia,lifeExp_2002,58.041
+Africa,Ghana,lifeExp_2002,58.453
+Africa,Guinea,lifeExp_2002,53.676
+Africa,Guinea-Bissau,lifeExp_2002,45.504
+Africa,Kenya,lifeExp_2002,50.992
+Africa,Lesotho,lifeExp_2002,44.593
+Africa,Liberia,lifeExp_2002,43.753
+Africa,Libya,lifeExp_2002,72.737
+Africa,Madagascar,lifeExp_2002,57.286
+Africa,Malawi,lifeExp_2002,45.009
+Africa,Mali,lifeExp_2002,51.818
+Africa,Mauritania,lifeExp_2002,62.247
+Africa,Mauritius,lifeExp_2002,71.954
+Africa,Morocco,lifeExp_2002,69.615
+Africa,Mozambique,lifeExp_2002,44.026
+Africa,Namibia,lifeExp_2002,51.479
+Africa,Niger,lifeExp_2002,54.496
+Africa,Nigeria,lifeExp_2002,46.608
+Africa,Reunion,lifeExp_2002,75.744
+Africa,Rwanda,lifeExp_2002,43.413
+Africa,Sao Tome and Principe,lifeExp_2002,64.337
+Africa,Senegal,lifeExp_2002,61.6
+Africa,Sierra Leone,lifeExp_2002,41.012
+Africa,Somalia,lifeExp_2002,45.936
+Africa,South Africa,lifeExp_2002,53.365
+Africa,Sudan,lifeExp_2002,56.369
+Africa,Swaziland,lifeExp_2002,43.869
+Africa,Tanzania,lifeExp_2002,49.651
+Africa,Togo,lifeExp_2002,57.561
+Africa,Tunisia,lifeExp_2002,73.042
+Africa,Uganda,lifeExp_2002,47.813
+Africa,Zambia,lifeExp_2002,39.193
+Africa,Zimbabwe,lifeExp_2002,39.989
+Americas,Argentina,lifeExp_2002,74.34
+Americas,Bolivia,lifeExp_2002,63.883
+Americas,Brazil,lifeExp_2002,71.006
+Americas,Canada,lifeExp_2002,79.77
+Americas,Chile,lifeExp_2002,77.86
+Americas,Colombia,lifeExp_2002,71.682
+Americas,Costa Rica,lifeExp_2002,78.123
+Americas,Cuba,lifeExp_2002,77.158
+Americas,Dominican Republic,lifeExp_2002,70.847
+Americas,Ecuador,lifeExp_2002,74.173
+Americas,El Salvador,lifeExp_2002,70.734
+Americas,Guatemala,lifeExp_2002,68.978
+Americas,Haiti,lifeExp_2002,58.137
+Americas,Honduras,lifeExp_2002,68.565
+Americas,Jamaica,lifeExp_2002,72.047
+Americas,Mexico,lifeExp_2002,74.902
+Americas,Nicaragua,lifeExp_2002,70.836
+Americas,Panama,lifeExp_2002,74.712
+Americas,Paraguay,lifeExp_2002,70.755
+Americas,Peru,lifeExp_2002,69.906
+Americas,Puerto Rico,lifeExp_2002,77.778
+Americas,Trinidad and Tobago,lifeExp_2002,68.976
+Americas,United States,lifeExp_2002,77.31
+Americas,Uruguay,lifeExp_2002,75.307
+Americas,Venezuela,lifeExp_2002,72.766
+Asia,Afghanistan,lifeExp_2002,42.129
+Asia,Bahrain,lifeExp_2002,74.795
+Asia,Bangladesh,lifeExp_2002,62.013
+Asia,Cambodia,lifeExp_2002,56.752
+Asia,China,lifeExp_2002,72.028
+Asia,Hong Kong China,lifeExp_2002,81.495
+Asia,India,lifeExp_2002,62.879
+Asia,Indonesia,lifeExp_2002,68.588
+Asia,Iran,lifeExp_2002,69.451
+Asia,Iraq,lifeExp_2002,57.046
+Asia,Israel,lifeExp_2002,79.696
+Asia,Japan,lifeExp_2002,82
+Asia,Jordan,lifeExp_2002,71.263
+Asia,Korea Dem. Rep.,lifeExp_2002,66.662
+Asia,Korea Rep.,lifeExp_2002,77.045
+Asia,Kuwait,lifeExp_2002,76.904
+Asia,Lebanon,lifeExp_2002,71.028
+Asia,Malaysia,lifeExp_2002,73.044
+Asia,Mongolia,lifeExp_2002,65.033
+Asia,Myanmar,lifeExp_2002,59.908
+Asia,Nepal,lifeExp_2002,61.34
+Asia,Oman,lifeExp_2002,74.193
+Asia,Pakistan,lifeExp_2002,63.61
+Asia,Philippines,lifeExp_2002,70.303
+Asia,Saudi Arabia,lifeExp_2002,71.626
+Asia,Singapore,lifeExp_2002,78.77
+Asia,Sri Lanka,lifeExp_2002,70.815
+Asia,Syria,lifeExp_2002,73.053
+Asia,Taiwan,lifeExp_2002,76.99
+Asia,Thailand,lifeExp_2002,68.564
+Asia,Vietnam,lifeExp_2002,73.017
+Asia,West Bank and Gaza,lifeExp_2002,72.37
+Asia,Yemen Rep.,lifeExp_2002,60.308
+Europe,Albania,lifeExp_2002,75.651
+Europe,Austria,lifeExp_2002,78.98
+Europe,Belgium,lifeExp_2002,78.32
+Europe,Bosnia and Herzegovina,lifeExp_2002,74.09
+Europe,Bulgaria,lifeExp_2002,72.14
+Europe,Croatia,lifeExp_2002,74.876
+Europe,Czech Republic,lifeExp_2002,75.51
+Europe,Denmark,lifeExp_2002,77.18
+Europe,Finland,lifeExp_2002,78.37
+Europe,France,lifeExp_2002,79.59
+Europe,Germany,lifeExp_2002,78.67
+Europe,Greece,lifeExp_2002,78.256
+Europe,Hungary,lifeExp_2002,72.59
+Europe,Iceland,lifeExp_2002,80.5
+Europe,Ireland,lifeExp_2002,77.783
+Europe,Italy,lifeExp_2002,80.24
+Europe,Montenegro,lifeExp_2002,73.981
+Europe,Netherlands,lifeExp_2002,78.53
+Europe,Norway,lifeExp_2002,79.05
+Europe,Poland,lifeExp_2002,74.67
+Europe,Portugal,lifeExp_2002,77.29
+Europe,Romania,lifeExp_2002,71.322
+Europe,Serbia,lifeExp_2002,73.213
+Europe,Slovak Republic,lifeExp_2002,73.8
+Europe,Slovenia,lifeExp_2002,76.66
+Europe,Spain,lifeExp_2002,79.78
+Europe,Sweden,lifeExp_2002,80.04
+Europe,Switzerland,lifeExp_2002,80.62
+Europe,Turkey,lifeExp_2002,70.845
+Europe,United Kingdom,lifeExp_2002,78.471
+Oceania,Australia,lifeExp_2002,80.37
+Oceania,New Zealand,lifeExp_2002,79.11
+Africa,Algeria,lifeExp_2007,72.301
+Africa,Angola,lifeExp_2007,42.731
+Africa,Benin,lifeExp_2007,56.728
+Africa,Botswana,lifeExp_2007,50.728
+Africa,Burkina Faso,lifeExp_2007,52.295
+Africa,Burundi,lifeExp_2007,49.58
+Africa,Cameroon,lifeExp_2007,50.43
+Africa,Central African Republic,lifeExp_2007,44.741
+Africa,Chad,lifeExp_2007,50.651
+Africa,Comoros,lifeExp_2007,65.152
+Africa,Congo Dem. Rep.,lifeExp_2007,46.462
+Africa,Congo Rep.,lifeExp_2007,55.322
+Africa,Cote d'Ivoire,lifeExp_2007,48.328
+Africa,Djibouti,lifeExp_2007,54.791
+Africa,Egypt,lifeExp_2007,71.338
+Africa,Equatorial Guinea,lifeExp_2007,51.579
+Africa,Eritrea,lifeExp_2007,58.04
+Africa,Ethiopia,lifeExp_2007,52.947
+Africa,Gabon,lifeExp_2007,56.735
+Africa,Gambia,lifeExp_2007,59.448
+Africa,Ghana,lifeExp_2007,60.022
+Africa,Guinea,lifeExp_2007,56.007
+Africa,Guinea-Bissau,lifeExp_2007,46.388
+Africa,Kenya,lifeExp_2007,54.11
+Africa,Lesotho,lifeExp_2007,42.592
+Africa,Liberia,lifeExp_2007,45.678
+Africa,Libya,lifeExp_2007,73.952
+Africa,Madagascar,lifeExp_2007,59.443
+Africa,Malawi,lifeExp_2007,48.303
+Africa,Mali,lifeExp_2007,54.467
+Africa,Mauritania,lifeExp_2007,64.164
+Africa,Mauritius,lifeExp_2007,72.801
+Africa,Morocco,lifeExp_2007,71.164
+Africa,Mozambique,lifeExp_2007,42.082
+Africa,Namibia,lifeExp_2007,52.906
+Africa,Niger,lifeExp_2007,56.867
+Africa,Nigeria,lifeExp_2007,46.859
+Africa,Reunion,lifeExp_2007,76.442
+Africa,Rwanda,lifeExp_2007,46.242
+Africa,Sao Tome and Principe,lifeExp_2007,65.528
+Africa,Senegal,lifeExp_2007,63.062
+Africa,Sierra Leone,lifeExp_2007,42.568
+Africa,Somalia,lifeExp_2007,48.159
+Africa,South Africa,lifeExp_2007,49.339
+Africa,Sudan,lifeExp_2007,58.556
+Africa,Swaziland,lifeExp_2007,39.613
+Africa,Tanzania,lifeExp_2007,52.517
+Africa,Togo,lifeExp_2007,58.42
+Africa,Tunisia,lifeExp_2007,73.923
+Africa,Uganda,lifeExp_2007,51.542
+Africa,Zambia,lifeExp_2007,42.384
+Africa,Zimbabwe,lifeExp_2007,43.487
+Americas,Argentina,lifeExp_2007,75.32
+Americas,Bolivia,lifeExp_2007,65.554
+Americas,Brazil,lifeExp_2007,72.39
+Americas,Canada,lifeExp_2007,80.653
+Americas,Chile,lifeExp_2007,78.553
+Americas,Colombia,lifeExp_2007,72.889
+Americas,Costa Rica,lifeExp_2007,78.782
+Americas,Cuba,lifeExp_2007,78.273
+Americas,Dominican Republic,lifeExp_2007,72.235
+Americas,Ecuador,lifeExp_2007,74.994
+Americas,El Salvador,lifeExp_2007,71.878
+Americas,Guatemala,lifeExp_2007,70.259
+Americas,Haiti,lifeExp_2007,60.916
+Americas,Honduras,lifeExp_2007,70.198
+Americas,Jamaica,lifeExp_2007,72.567
+Americas,Mexico,lifeExp_2007,76.195
+Americas,Nicaragua,lifeExp_2007,72.899
+Americas,Panama,lifeExp_2007,75.537
+Americas,Paraguay,lifeExp_2007,71.752
+Americas,Peru,lifeExp_2007,71.421
+Americas,Puerto Rico,lifeExp_2007,78.746
+Americas,Trinidad and Tobago,lifeExp_2007,69.819
+Americas,United States,lifeExp_2007,78.242
+Americas,Uruguay,lifeExp_2007,76.384
+Americas,Venezuela,lifeExp_2007,73.747
+Asia,Afghanistan,lifeExp_2007,43.828
+Asia,Bahrain,lifeExp_2007,75.635
+Asia,Bangladesh,lifeExp_2007,64.062
+Asia,Cambodia,lifeExp_2007,59.723
+Asia,China,lifeExp_2007,72.961
+Asia,Hong Kong China,lifeExp_2007,82.208
+Asia,India,lifeExp_2007,64.698
+Asia,Indonesia,lifeExp_2007,70.65
+Asia,Iran,lifeExp_2007,70.964
+Asia,Iraq,lifeExp_2007,59.545
+Asia,Israel,lifeExp_2007,80.745
+Asia,Japan,lifeExp_2007,82.603
+Asia,Jordan,lifeExp_2007,72.535
+Asia,Korea Dem. Rep.,lifeExp_2007,67.297
+Asia,Korea Rep.,lifeExp_2007,78.623
+Asia,Kuwait,lifeExp_2007,77.588
+Asia,Lebanon,lifeExp_2007,71.993
+Asia,Malaysia,lifeExp_2007,74.241
+Asia,Mongolia,lifeExp_2007,66.803
+Asia,Myanmar,lifeExp_2007,62.069
+Asia,Nepal,lifeExp_2007,63.785
+Asia,Oman,lifeExp_2007,75.64
+Asia,Pakistan,lifeExp_2007,65.483
+Asia,Philippines,lifeExp_2007,71.688
+Asia,Saudi Arabia,lifeExp_2007,72.777
+Asia,Singapore,lifeExp_2007,79.972
+Asia,Sri Lanka,lifeExp_2007,72.396
+Asia,Syria,lifeExp_2007,74.143
+Asia,Taiwan,lifeExp_2007,78.4
+Asia,Thailand,lifeExp_2007,70.616
+Asia,Vietnam,lifeExp_2007,74.249
+Asia,West Bank and Gaza,lifeExp_2007,73.422
+Asia,Yemen Rep.,lifeExp_2007,62.698
+Europe,Albania,lifeExp_2007,76.423
+Europe,Austria,lifeExp_2007,79.829
+Europe,Belgium,lifeExp_2007,79.441
+Europe,Bosnia and Herzegovina,lifeExp_2007,74.852
+Europe,Bulgaria,lifeExp_2007,73.005
+Europe,Croatia,lifeExp_2007,75.748
+Europe,Czech Republic,lifeExp_2007,76.486
+Europe,Denmark,lifeExp_2007,78.332
+Europe,Finland,lifeExp_2007,79.313
+Europe,France,lifeExp_2007,80.657
+Europe,Germany,lifeExp_2007,79.406
+Europe,Greece,lifeExp_2007,79.483
+Europe,Hungary,lifeExp_2007,73.338
+Europe,Iceland,lifeExp_2007,81.757
+Europe,Ireland,lifeExp_2007,78.885
+Europe,Italy,lifeExp_2007,80.546
+Europe,Montenegro,lifeExp_2007,74.543
+Europe,Netherlands,lifeExp_2007,79.762
+Europe,Norway,lifeExp_2007,80.196
+Europe,Poland,lifeExp_2007,75.563
+Europe,Portugal,lifeExp_2007,78.098
+Europe,Romania,lifeExp_2007,72.476
+Europe,Serbia,lifeExp_2007,74.002
+Europe,Slovak Republic,lifeExp_2007,74.663
+Europe,Slovenia,lifeExp_2007,77.926
+Europe,Spain,lifeExp_2007,80.941
+Europe,Sweden,lifeExp_2007,80.884
+Europe,Switzerland,lifeExp_2007,81.701
+Europe,Turkey,lifeExp_2007,71.777
+Europe,United Kingdom,lifeExp_2007,79.425
+Oceania,Australia,lifeExp_2007,81.235
+Oceania,New Zealand,lifeExp_2007,80.204
+Africa,Algeria,pop_1952,9279525
+Africa,Angola,pop_1952,4232095
+Africa,Benin,pop_1952,1738315
+Africa,Botswana,pop_1952,442308
+Africa,Burkina Faso,pop_1952,4469979
+Africa,Burundi,pop_1952,2445618
+Africa,Cameroon,pop_1952,5009067
+Africa,Central African Republic,pop_1952,1291695
+Africa,Chad,pop_1952,2682462
+Africa,Comoros,pop_1952,153936
+Africa,Congo Dem. Rep.,pop_1952,14100005
+Africa,Congo Rep.,pop_1952,854885
+Africa,Cote d'Ivoire,pop_1952,2977019
+Africa,Djibouti,pop_1952,63149
+Africa,Egypt,pop_1952,22223309
+Africa,Equatorial Guinea,pop_1952,216964
+Africa,Eritrea,pop_1952,1438760
+Africa,Ethiopia,pop_1952,20860941
+Africa,Gabon,pop_1952,420702
+Africa,Gambia,pop_1952,284320
+Africa,Ghana,pop_1952,5581001
+Africa,Guinea,pop_1952,2664249
+Africa,Guinea-Bissau,pop_1952,580653
+Africa,Kenya,pop_1952,6464046
+Africa,Lesotho,pop_1952,748747
+Africa,Liberia,pop_1952,863308
+Africa,Libya,pop_1952,1019729
+Africa,Madagascar,pop_1952,4762912
+Africa,Malawi,pop_1952,2917802
+Africa,Mali,pop_1952,3838168
+Africa,Mauritania,pop_1952,1022556
+Africa,Mauritius,pop_1952,516556
+Africa,Morocco,pop_1952,9939217
+Africa,Mozambique,pop_1952,6446316
+Africa,Namibia,pop_1952,485831
+Africa,Niger,pop_1952,3379468
+Africa,Nigeria,pop_1952,33119096
+Africa,Reunion,pop_1952,257700
+Africa,Rwanda,pop_1952,2534927
+Africa,Sao Tome and Principe,pop_1952,60011
+Africa,Senegal,pop_1952,2755589
+Africa,Sierra Leone,pop_1952,2143249
+Africa,Somalia,pop_1952,2526994
+Africa,South Africa,pop_1952,14264935
+Africa,Sudan,pop_1952,8504667
+Africa,Swaziland,pop_1952,290243
+Africa,Tanzania,pop_1952,8322925
+Africa,Togo,pop_1952,1219113
+Africa,Tunisia,pop_1952,3647735
+Africa,Uganda,pop_1952,5824797
+Africa,Zambia,pop_1952,2672000
+Africa,Zimbabwe,pop_1952,3080907
+Americas,Argentina,pop_1952,17876956
+Americas,Bolivia,pop_1952,2883315
+Americas,Brazil,pop_1952,56602560
+Americas,Canada,pop_1952,14785584
+Americas,Chile,pop_1952,6377619
+Americas,Colombia,pop_1952,12350771
+Americas,Costa Rica,pop_1952,926317
+Americas,Cuba,pop_1952,6007797
+Americas,Dominican Republic,pop_1952,2491346
+Americas,Ecuador,pop_1952,3548753
+Americas,El Salvador,pop_1952,2042865
+Americas,Guatemala,pop_1952,3146381
+Americas,Haiti,pop_1952,3201488
+Americas,Honduras,pop_1952,1517453
+Americas,Jamaica,pop_1952,1426095
+Americas,Mexico,pop_1952,30144317
+Americas,Nicaragua,pop_1952,1165790
+Americas,Panama,pop_1952,940080
+Americas,Paraguay,pop_1952,1555876
+Americas,Peru,pop_1952,8025700
+Americas,Puerto Rico,pop_1952,2227000
+Americas,Trinidad and Tobago,pop_1952,662850
+Americas,United States,pop_1952,157553000
+Americas,Uruguay,pop_1952,2252965
+Americas,Venezuela,pop_1952,5439568
+Asia,Afghanistan,pop_1952,8425333
+Asia,Bahrain,pop_1952,120447
+Asia,Bangladesh,pop_1952,46886859
+Asia,Cambodia,pop_1952,4693836
+Asia,China,pop_1952,556263527.999989
+Asia,Hong Kong China,pop_1952,2125900
+Asia,India,pop_1952,3.72e+08
+Asia,Indonesia,pop_1952,82052000
+Asia,Iran,pop_1952,17272000
+Asia,Iraq,pop_1952,5441766
+Asia,Israel,pop_1952,1620914
+Asia,Japan,pop_1952,86459025
+Asia,Jordan,pop_1952,607914
+Asia,Korea Dem. Rep.,pop_1952,8865488
+Asia,Korea Rep.,pop_1952,20947571
+Asia,Kuwait,pop_1952,160000
+Asia,Lebanon,pop_1952,1439529
+Asia,Malaysia,pop_1952,6748378
+Asia,Mongolia,pop_1952,800663
+Asia,Myanmar,pop_1952,20092996
+Asia,Nepal,pop_1952,9182536
+Asia,Oman,pop_1952,507833
+Asia,Pakistan,pop_1952,41346560
+Asia,Philippines,pop_1952,22438691
+Asia,Saudi Arabia,pop_1952,4005677
+Asia,Singapore,pop_1952,1127000
+Asia,Sri Lanka,pop_1952,7982342
+Asia,Syria,pop_1952,3661549
+Asia,Taiwan,pop_1952,8550362
+Asia,Thailand,pop_1952,21289402
+Asia,Vietnam,pop_1952,26246839
+Asia,West Bank and Gaza,pop_1952,1030585
+Asia,Yemen Rep.,pop_1952,4963829
+Europe,Albania,pop_1952,1282697
+Europe,Austria,pop_1952,6927772
+Europe,Belgium,pop_1952,8730405
+Europe,Bosnia and Herzegovina,pop_1952,2791000
+Europe,Bulgaria,pop_1952,7274900
+Europe,Croatia,pop_1952,3882229
+Europe,Czech Republic,pop_1952,9125183
+Europe,Denmark,pop_1952,4334000
+Europe,Finland,pop_1952,4090500
+Europe,France,pop_1952,42459667
+Europe,Germany,pop_1952,69145952
+Europe,Greece,pop_1952,7733250
+Europe,Hungary,pop_1952,9504000
+Europe,Iceland,pop_1952,147962
+Europe,Ireland,pop_1952,2952156
+Europe,Italy,pop_1952,47666000
+Europe,Montenegro,pop_1952,413834
+Europe,Netherlands,pop_1952,10381988
+Europe,Norway,pop_1952,3327728
+Europe,Poland,pop_1952,25730551
+Europe,Portugal,pop_1952,8526050
+Europe,Romania,pop_1952,16630000
+Europe,Serbia,pop_1952,6860147
+Europe,Slovak Republic,pop_1952,3558137
+Europe,Slovenia,pop_1952,1489518
+Europe,Spain,pop_1952,28549870
+Europe,Sweden,pop_1952,7124673
+Europe,Switzerland,pop_1952,4815000
+Europe,Turkey,pop_1952,22235677
+Europe,United Kingdom,pop_1952,50430000
+Oceania,Australia,pop_1952,8691212
+Oceania,New Zealand,pop_1952,1994794
+Africa,Algeria,pop_1957,10270856
+Africa,Angola,pop_1957,4561361
+Africa,Benin,pop_1957,1925173
+Africa,Botswana,pop_1957,474639
+Africa,Burkina Faso,pop_1957,4713416
+Africa,Burundi,pop_1957,2667518
+Africa,Cameroon,pop_1957,5359923
+Africa,Central African Republic,pop_1957,1392284
+Africa,Chad,pop_1957,2894855
+Africa,Comoros,pop_1957,170928
+Africa,Congo Dem. Rep.,pop_1957,15577932
+Africa,Congo Rep.,pop_1957,940458
+Africa,Cote d'Ivoire,pop_1957,3300000
+Africa,Djibouti,pop_1957,71851
+Africa,Egypt,pop_1957,25009741
+Africa,Equatorial Guinea,pop_1957,232922
+Africa,Eritrea,pop_1957,1542611
+Africa,Ethiopia,pop_1957,22815614
+Africa,Gabon,pop_1957,434904
+Africa,Gambia,pop_1957,323150
+Africa,Ghana,pop_1957,6391288
+Africa,Guinea,pop_1957,2876726
+Africa,Guinea-Bissau,pop_1957,601095
+Africa,Kenya,pop_1957,7454779
+Africa,Lesotho,pop_1957,813338
+Africa,Liberia,pop_1957,975950
+Africa,Libya,pop_1957,1201578
+Africa,Madagascar,pop_1957,5181679
+Africa,Malawi,pop_1957,3221238
+Africa,Mali,pop_1957,4241884
+Africa,Mauritania,pop_1957,1076852
+Africa,Mauritius,pop_1957,609816
+Africa,Morocco,pop_1957,11406350
+Africa,Mozambique,pop_1957,7038035
+Africa,Namibia,pop_1957,548080
+Africa,Niger,pop_1957,3692184
+Africa,Nigeria,pop_1957,37173340
+Africa,Reunion,pop_1957,308700
+Africa,Rwanda,pop_1957,2822082
+Africa,Sao Tome and Principe,pop_1957,61325
+Africa,Senegal,pop_1957,3054547
+Africa,Sierra Leone,pop_1957,2295678
+Africa,Somalia,pop_1957,2780415
+Africa,South Africa,pop_1957,16151549
+Africa,Sudan,pop_1957,9753392
+Africa,Swaziland,pop_1957,326741
+Africa,Tanzania,pop_1957,9452826
+Africa,Togo,pop_1957,1357445
+Africa,Tunisia,pop_1957,3950849
+Africa,Uganda,pop_1957,6675501
+Africa,Zambia,pop_1957,3016000
+Africa,Zimbabwe,pop_1957,3646340
+Americas,Argentina,pop_1957,19610538
+Americas,Bolivia,pop_1957,3211738
+Americas,Brazil,pop_1957,65551171
+Americas,Canada,pop_1957,17010154
+Americas,Chile,pop_1957,7048426
+Americas,Colombia,pop_1957,14485993
+Americas,Costa Rica,pop_1957,1112300
+Americas,Cuba,pop_1957,6640752
+Americas,Dominican Republic,pop_1957,2923186
+Americas,Ecuador,pop_1957,4058385
+Americas,El Salvador,pop_1957,2355805
+Americas,Guatemala,pop_1957,3640876
+Americas,Haiti,pop_1957,3507701
+Americas,Honduras,pop_1957,1770390
+Americas,Jamaica,pop_1957,1535090
+Americas,Mexico,pop_1957,35015548
+Americas,Nicaragua,pop_1957,1358828
+Americas,Panama,pop_1957,1063506
+Americas,Paraguay,pop_1957,1770902
+Americas,Peru,pop_1957,9146100
+Americas,Puerto Rico,pop_1957,2260000
+Americas,Trinidad and Tobago,pop_1957,764900
+Americas,United States,pop_1957,171984000
+Americas,Uruguay,pop_1957,2424959
+Americas,Venezuela,pop_1957,6702668
+Asia,Afghanistan,pop_1957,9240934
+Asia,Bahrain,pop_1957,138655
+Asia,Bangladesh,pop_1957,51365468
+Asia,Cambodia,pop_1957,5322536
+Asia,China,pop_1957,637408000
+Asia,Hong Kong China,pop_1957,2736300
+Asia,India,pop_1957,4.09e+08
+Asia,Indonesia,pop_1957,90124000
+Asia,Iran,pop_1957,19792000
+Asia,Iraq,pop_1957,6248643
+Asia,Israel,pop_1957,1944401
+Asia,Japan,pop_1957,91563009
+Asia,Jordan,pop_1957,746559
+Asia,Korea Dem. Rep.,pop_1957,9411381
+Asia,Korea Rep.,pop_1957,22611552
+Asia,Kuwait,pop_1957,212846
+Asia,Lebanon,pop_1957,1647412
+Asia,Malaysia,pop_1957,7739235
+Asia,Mongolia,pop_1957,882134
+Asia,Myanmar,pop_1957,21731844
+Asia,Nepal,pop_1957,9682338
+Asia,Oman,pop_1957,561977
+Asia,Pakistan,pop_1957,46679944
+Asia,Philippines,pop_1957,26072194
+Asia,Saudi Arabia,pop_1957,4419650
+Asia,Singapore,pop_1957,1445929
+Asia,Sri Lanka,pop_1957,9128546
+Asia,Syria,pop_1957,4149908
+Asia,Taiwan,pop_1957,10164215
+Asia,Thailand,pop_1957,25041917
+Asia,Vietnam,pop_1957,28998543
+Asia,West Bank and Gaza,pop_1957,1070439
+Asia,Yemen Rep.,pop_1957,5498090
+Europe,Albania,pop_1957,1476505
+Europe,Austria,pop_1957,6965860
+Europe,Belgium,pop_1957,8989111
+Europe,Bosnia and Herzegovina,pop_1957,3076000
+Europe,Bulgaria,pop_1957,7651254
+Europe,Croatia,pop_1957,3991242
+Europe,Czech Republic,pop_1957,9513758
+Europe,Denmark,pop_1957,4487831
+Europe,Finland,pop_1957,4324000
+Europe,France,pop_1957,44310863
+Europe,Germany,pop_1957,71019069
+Europe,Greece,pop_1957,8096218
+Europe,Hungary,pop_1957,9839000
+Europe,Iceland,pop_1957,165110
+Europe,Ireland,pop_1957,2878220
+Europe,Italy,pop_1957,49182000
+Europe,Montenegro,pop_1957,442829
+Europe,Netherlands,pop_1957,11026383
+Europe,Norway,pop_1957,3491938
+Europe,Poland,pop_1957,28235346
+Europe,Portugal,pop_1957,8817650
+Europe,Romania,pop_1957,17829327
+Europe,Serbia,pop_1957,7271135
+Europe,Slovak Republic,pop_1957,3844277
+Europe,Slovenia,pop_1957,1533070
+Europe,Spain,pop_1957,29841614
+Europe,Sweden,pop_1957,7363802
+Europe,Switzerland,pop_1957,5126000
+Europe,Turkey,pop_1957,25670939
+Europe,United Kingdom,pop_1957,51430000
+Oceania,Australia,pop_1957,9712569
+Oceania,New Zealand,pop_1957,2229407
+Africa,Algeria,pop_1962,11000948
+Africa,Angola,pop_1962,4826015
+Africa,Benin,pop_1962,2151895
+Africa,Botswana,pop_1962,512764
+Africa,Burkina Faso,pop_1962,4919632
+Africa,Burundi,pop_1962,2961915
+Africa,Cameroon,pop_1962,5793633
+Africa,Central African Republic,pop_1962,1523478
+Africa,Chad,pop_1962,3150417
+Africa,Comoros,pop_1962,191689
+Africa,Congo Dem. Rep.,pop_1962,17486434
+Africa,Congo Rep.,pop_1962,1047924
+Africa,Cote d'Ivoire,pop_1962,3832408
+Africa,Djibouti,pop_1962,89898
+Africa,Egypt,pop_1962,28173309
+Africa,Equatorial Guinea,pop_1962,249220
+Africa,Eritrea,pop_1962,1666618
+Africa,Ethiopia,pop_1962,25145372
+Africa,Gabon,pop_1962,455661
+Africa,Gambia,pop_1962,374020
+Africa,Ghana,pop_1962,7355248
+Africa,Guinea,pop_1962,3140003
+Africa,Guinea-Bissau,pop_1962,627820
+Africa,Kenya,pop_1962,8678557
+Africa,Lesotho,pop_1962,893143
+Africa,Liberia,pop_1962,1112796
+Africa,Libya,pop_1962,1441863
+Africa,Madagascar,pop_1962,5703324
+Africa,Malawi,pop_1962,3628608
+Africa,Mali,pop_1962,4690372
+Africa,Mauritania,pop_1962,1146757
+Africa,Mauritius,pop_1962,701016
+Africa,Morocco,pop_1962,13056604
+Africa,Mozambique,pop_1962,7788944
+Africa,Namibia,pop_1962,621392
+Africa,Niger,pop_1962,4076008
+Africa,Nigeria,pop_1962,41871351
+Africa,Reunion,pop_1962,358900
+Africa,Rwanda,pop_1962,3051242
+Africa,Sao Tome and Principe,pop_1962,65345
+Africa,Senegal,pop_1962,3430243
+Africa,Sierra Leone,pop_1962,2467895
+Africa,Somalia,pop_1962,3080153
+Africa,South Africa,pop_1962,18356657
+Africa,Sudan,pop_1962,11183227
+Africa,Swaziland,pop_1962,370006
+Africa,Tanzania,pop_1962,10863958
+Africa,Togo,pop_1962,1528098
+Africa,Tunisia,pop_1962,4286552
+Africa,Uganda,pop_1962,7688797
+Africa,Zambia,pop_1962,3421000
+Africa,Zimbabwe,pop_1962,4277736
+Americas,Argentina,pop_1962,21283783
+Americas,Bolivia,pop_1962,3593918
+Americas,Brazil,pop_1962,76039390
+Americas,Canada,pop_1962,18985849
+Americas,Chile,pop_1962,7961258
+Americas,Colombia,pop_1962,17009885
+Americas,Costa Rica,pop_1962,1345187
+Americas,Cuba,pop_1962,7254373
+Americas,Dominican Republic,pop_1962,3453434
+Americas,Ecuador,pop_1962,4681707
+Americas,El Salvador,pop_1962,2747687
+Americas,Guatemala,pop_1962,4208858
+Americas,Haiti,pop_1962,3880130
+Americas,Honduras,pop_1962,2090162
+Americas,Jamaica,pop_1962,1665128
+Americas,Mexico,pop_1962,41121485
+Americas,Nicaragua,pop_1962,1590597
+Americas,Panama,pop_1962,1215725
+Americas,Paraguay,pop_1962,2009813
+Americas,Peru,pop_1962,10516500
+Americas,Puerto Rico,pop_1962,2448046
+Americas,Trinidad and Tobago,pop_1962,887498
+Americas,United States,pop_1962,186538000
+Americas,Uruguay,pop_1962,2598466
+Americas,Venezuela,pop_1962,8143375
+Asia,Afghanistan,pop_1962,10267083
+Asia,Bahrain,pop_1962,171863
+Asia,Bangladesh,pop_1962,56839289
+Asia,Cambodia,pop_1962,6083619
+Asia,China,pop_1962,665770000
+Asia,Hong Kong China,pop_1962,3305200
+Asia,India,pop_1962,4.54e+08
+Asia,Indonesia,pop_1962,99028000
+Asia,Iran,pop_1962,22874000
+Asia,Iraq,pop_1962,7240260
+Asia,Israel,pop_1962,2310904
+Asia,Japan,pop_1962,95831757
+Asia,Jordan,pop_1962,933559
+Asia,Korea Dem. Rep.,pop_1962,10917494
+Asia,Korea Rep.,pop_1962,26420307
+Asia,Kuwait,pop_1962,358266
+Asia,Lebanon,pop_1962,1886848
+Asia,Malaysia,pop_1962,8906385
+Asia,Mongolia,pop_1962,1010280
+Asia,Myanmar,pop_1962,23634436
+Asia,Nepal,pop_1962,10332057
+Asia,Oman,pop_1962,628164
+Asia,Pakistan,pop_1962,53100671
+Asia,Philippines,pop_1962,30325264
+Asia,Saudi Arabia,pop_1962,4943029
+Asia,Singapore,pop_1962,1750200
+Asia,Sri Lanka,pop_1962,10421936
+Asia,Syria,pop_1962,4834621
+Asia,Taiwan,pop_1962,11918938
+Asia,Thailand,pop_1962,29263397
+Asia,Vietnam,pop_1962,33796140
+Asia,West Bank and Gaza,pop_1962,1133134
+Asia,Yemen Rep.,pop_1962,6120081
+Europe,Albania,pop_1962,1728137
+Europe,Austria,pop_1962,7129864
+Europe,Belgium,pop_1962,9218400
+Europe,Bosnia and Herzegovina,pop_1962,3349000
+Europe,Bulgaria,pop_1962,8012946
+Europe,Croatia,pop_1962,4076557
+Europe,Czech Republic,pop_1962,9620282
+Europe,Denmark,pop_1962,4646899
+Europe,Finland,pop_1962,4491443
+Europe,France,pop_1962,47124000
+Europe,Germany,pop_1962,73739117
+Europe,Greece,pop_1962,8448233
+Europe,Hungary,pop_1962,10063000
+Europe,Iceland,pop_1962,182053
+Europe,Ireland,pop_1962,2830000
+Europe,Italy,pop_1962,50843200
+Europe,Montenegro,pop_1962,474528
+Europe,Netherlands,pop_1962,11805689
+Europe,Norway,pop_1962,3638919
+Europe,Poland,pop_1962,30329617
+Europe,Portugal,pop_1962,9019800
+Europe,Romania,pop_1962,18680721
+Europe,Serbia,pop_1962,7616060
+Europe,Slovak Republic,pop_1962,4237384
+Europe,Slovenia,pop_1962,1582962
+Europe,Spain,pop_1962,31158061
+Europe,Sweden,pop_1962,7561588
+Europe,Switzerland,pop_1962,5666000
+Europe,Turkey,pop_1962,29788695
+Europe,United Kingdom,pop_1962,53292000
+Oceania,Australia,pop_1962,10794968
+Oceania,New Zealand,pop_1962,2488550
+Africa,Algeria,pop_1967,12760499
+Africa,Angola,pop_1967,5247469
+Africa,Benin,pop_1967,2427334
+Africa,Botswana,pop_1967,553541
+Africa,Burkina Faso,pop_1967,5127935
+Africa,Burundi,pop_1967,3330989
+Africa,Cameroon,pop_1967,6335506
+Africa,Central African Republic,pop_1967,1733638
+Africa,Chad,pop_1967,3495967
+Africa,Comoros,pop_1967,217378
+Africa,Congo Dem. Rep.,pop_1967,19941073
+Africa,Congo Rep.,pop_1967,1179760
+Africa,Cote d'Ivoire,pop_1967,4744870
+Africa,Djibouti,pop_1967,127617
+Africa,Egypt,pop_1967,31681188
+Africa,Equatorial Guinea,pop_1967,259864
+Africa,Eritrea,pop_1967,1820319
+Africa,Ethiopia,pop_1967,27860297
+Africa,Gabon,pop_1967,489004
+Africa,Gambia,pop_1967,439593
+Africa,Ghana,pop_1967,8490213
+Africa,Guinea,pop_1967,3451418
+Africa,Guinea-Bissau,pop_1967,601287
+Africa,Kenya,pop_1967,10191512
+Africa,Lesotho,pop_1967,996380
+Africa,Liberia,pop_1967,1279406
+Africa,Libya,pop_1967,1759224
+Africa,Madagascar,pop_1967,6334556
+Africa,Malawi,pop_1967,4147252
+Africa,Mali,pop_1967,5212416
+Africa,Mauritania,pop_1967,1230542
+Africa,Mauritius,pop_1967,789309
+Africa,Morocco,pop_1967,14770296
+Africa,Mozambique,pop_1967,8680909
+Africa,Namibia,pop_1967,706640
+Africa,Niger,pop_1967,4534062
+Africa,Nigeria,pop_1967,47287752
+Africa,Reunion,pop_1967,414024
+Africa,Rwanda,pop_1967,3451079
+Africa,Sao Tome and Principe,pop_1967,70787
+Africa,Senegal,pop_1967,3965841
+Africa,Sierra Leone,pop_1967,2662190
+Africa,Somalia,pop_1967,3428839
+Africa,South Africa,pop_1967,20997321
+Africa,Sudan,pop_1967,12716129
+Africa,Swaziland,pop_1967,420690
+Africa,Tanzania,pop_1967,12607312
+Africa,Togo,pop_1967,1735550
+Africa,Tunisia,pop_1967,4786986
+Africa,Uganda,pop_1967,8900294
+Africa,Zambia,pop_1967,3900000
+Africa,Zimbabwe,pop_1967,4995432
+Americas,Argentina,pop_1967,22934225
+Americas,Bolivia,pop_1967,4040665
+Americas,Brazil,pop_1967,88049823
+Americas,Canada,pop_1967,20819767
+Americas,Chile,pop_1967,8858908
+Americas,Colombia,pop_1967,19764027
+Americas,Costa Rica,pop_1967,1588717
+Americas,Cuba,pop_1967,8139332
+Americas,Dominican Republic,pop_1967,4049146
+Americas,Ecuador,pop_1967,5432424
+Americas,El Salvador,pop_1967,3232927
+Americas,Guatemala,pop_1967,4690773
+Americas,Haiti,pop_1967,4318137
+Americas,Honduras,pop_1967,2500689
+Americas,Jamaica,pop_1967,1861096
+Americas,Mexico,pop_1967,47995559
+Americas,Nicaragua,pop_1967,1865490
+Americas,Panama,pop_1967,1405486
+Americas,Paraguay,pop_1967,2287985
+Americas,Peru,pop_1967,12132200
+Americas,Puerto Rico,pop_1967,2648961
+Americas,Trinidad and Tobago,pop_1967,960155
+Americas,United States,pop_1967,198712000
+Americas,Uruguay,pop_1967,2748579
+Americas,Venezuela,pop_1967,9709552
+Asia,Afghanistan,pop_1967,11537966
+Asia,Bahrain,pop_1967,202182
+Asia,Bangladesh,pop_1967,62821884
+Asia,Cambodia,pop_1967,6960067
+Asia,China,pop_1967,754550000
+Asia,Hong Kong China,pop_1967,3722800
+Asia,India,pop_1967,5.06e+08
+Asia,Indonesia,pop_1967,109343000
+Asia,Iran,pop_1967,26538000
+Asia,Iraq,pop_1967,8519282
+Asia,Israel,pop_1967,2693585
+Asia,Japan,pop_1967,100825279
+Asia,Jordan,pop_1967,1255058
+Asia,Korea Dem. Rep.,pop_1967,12617009
+Asia,Korea Rep.,pop_1967,30131000
+Asia,Kuwait,pop_1967,575003
+Asia,Lebanon,pop_1967,2186894
+Asia,Malaysia,pop_1967,10154878
+Asia,Mongolia,pop_1967,1149500
+Asia,Myanmar,pop_1967,25870271
+Asia,Nepal,pop_1967,11261690
+Asia,Oman,pop_1967,714775
+Asia,Pakistan,pop_1967,60641899
+Asia,Philippines,pop_1967,35356600
+Asia,Saudi Arabia,pop_1967,5618198
+Asia,Singapore,pop_1967,1977600
+Asia,Sri Lanka,pop_1967,11737396
+Asia,Syria,pop_1967,5680812
+Asia,Taiwan,pop_1967,13648692
+Asia,Thailand,pop_1967,34024249
+Asia,Vietnam,pop_1967,39463910
+Asia,West Bank and Gaza,pop_1967,1142636
+Asia,Yemen Rep.,pop_1967,6740785
+Europe,Albania,pop_1967,1984060
+Europe,Austria,pop_1967,7376998
+Europe,Belgium,pop_1967,9556500
+Europe,Bosnia and Herzegovina,pop_1967,3585000
+Europe,Bulgaria,pop_1967,8310226
+Europe,Croatia,pop_1967,4174366
+Europe,Czech Republic,pop_1967,9835109
+Europe,Denmark,pop_1967,4838800
+Europe,Finland,pop_1967,4605744
+Europe,France,pop_1967,49569000
+Europe,Germany,pop_1967,76368453
+Europe,Greece,pop_1967,8716441
+Europe,Hungary,pop_1967,10223422
+Europe,Iceland,pop_1967,198676
+Europe,Ireland,pop_1967,2900100
+Europe,Italy,pop_1967,52667100
+Europe,Montenegro,pop_1967,501035
+Europe,Netherlands,pop_1967,12596822
+Europe,Norway,pop_1967,3786019
+Europe,Poland,pop_1967,31785378
+Europe,Portugal,pop_1967,9103000
+Europe,Romania,pop_1967,19284814
+Europe,Serbia,pop_1967,7971222
+Europe,Slovak Republic,pop_1967,4442238
+Europe,Slovenia,pop_1967,1646912
+Europe,Spain,pop_1967,32850275
+Europe,Sweden,pop_1967,7867931
+Europe,Switzerland,pop_1967,6063000
+Europe,Turkey,pop_1967,33411317
+Europe,United Kingdom,pop_1967,54959000
+Oceania,Australia,pop_1967,11872264
+Oceania,New Zealand,pop_1967,2728150
+Africa,Algeria,pop_1972,14760787
+Africa,Angola,pop_1972,5894858
+Africa,Benin,pop_1972,2761407
+Africa,Botswana,pop_1972,619351
+Africa,Burkina Faso,pop_1972,5433886
+Africa,Burundi,pop_1972,3529983
+Africa,Cameroon,pop_1972,7021028
+Africa,Central African Republic,pop_1972,1927260
+Africa,Chad,pop_1972,3899068
+Africa,Comoros,pop_1972,250027
+Africa,Congo Dem. Rep.,pop_1972,23007669
+Africa,Congo Rep.,pop_1972,1340458
+Africa,Cote d'Ivoire,pop_1972,6071696
+Africa,Djibouti,pop_1972,178848
+Africa,Egypt,pop_1972,34807417
+Africa,Equatorial Guinea,pop_1972,277603
+Africa,Eritrea,pop_1972,2260187
+Africa,Ethiopia,pop_1972,30770372
+Africa,Gabon,pop_1972,537977
+Africa,Gambia,pop_1972,517101
+Africa,Ghana,pop_1972,9354120
+Africa,Guinea,pop_1972,3811387
+Africa,Guinea-Bissau,pop_1972,625361
+Africa,Kenya,pop_1972,12044785
+Africa,Lesotho,pop_1972,1116779
+Africa,Liberia,pop_1972,1482628
+Africa,Libya,pop_1972,2183877
+Africa,Madagascar,pop_1972,7082430
+Africa,Malawi,pop_1972,4730997
+Africa,Mali,pop_1972,5828158
+Africa,Mauritania,pop_1972,1332786
+Africa,Mauritius,pop_1972,851334
+Africa,Morocco,pop_1972,16660670
+Africa,Mozambique,pop_1972,9809596
+Africa,Namibia,pop_1972,821782
+Africa,Niger,pop_1972,5060262
+Africa,Nigeria,pop_1972,53740085
+Africa,Reunion,pop_1972,461633
+Africa,Rwanda,pop_1972,3992121
+Africa,Sao Tome and Principe,pop_1972,76595
+Africa,Senegal,pop_1972,4588696
+Africa,Sierra Leone,pop_1972,2879013
+Africa,Somalia,pop_1972,3840161
+Africa,South Africa,pop_1972,23935810
+Africa,Sudan,pop_1972,14597019
+Africa,Swaziland,pop_1972,480105
+Africa,Tanzania,pop_1972,14706593
+Africa,Togo,pop_1972,2056351
+Africa,Tunisia,pop_1972,5303507
+Africa,Uganda,pop_1972,10190285
+Africa,Zambia,pop_1972,4506497
+Africa,Zimbabwe,pop_1972,5861135
+Americas,Argentina,pop_1972,24779799
+Americas,Bolivia,pop_1972,4565872
+Americas,Brazil,pop_1972,100840058
+Americas,Canada,pop_1972,22284500
+Americas,Chile,pop_1972,9717524
+Americas,Colombia,pop_1972,22542890
+Americas,Costa Rica,pop_1972,1834796
+Americas,Cuba,pop_1972,8831348
+Americas,Dominican Republic,pop_1972,4671329
+Americas,Ecuador,pop_1972,6298651
+Americas,El Salvador,pop_1972,3790903
+Americas,Guatemala,pop_1972,5149581
+Americas,Haiti,pop_1972,4698301
+Americas,Honduras,pop_1972,2965146
+Americas,Jamaica,pop_1972,1997616
+Americas,Mexico,pop_1972,55984294
+Americas,Nicaragua,pop_1972,2182908
+Americas,Panama,pop_1972,1616384
+Americas,Paraguay,pop_1972,2614104
+Americas,Peru,pop_1972,13954700
+Americas,Puerto Rico,pop_1972,2847132
+Americas,Trinidad and Tobago,pop_1972,975199
+Americas,United States,pop_1972,209896000
+Americas,Uruguay,pop_1972,2829526
+Americas,Venezuela,pop_1972,11515649
+Asia,Afghanistan,pop_1972,13079460
+Asia,Bahrain,pop_1972,230800
+Asia,Bangladesh,pop_1972,70759295
+Asia,Cambodia,pop_1972,7450606
+Asia,China,pop_1972,862030000
+Asia,Hong Kong China,pop_1972,4115700
+Asia,India,pop_1972,5.67e+08
+Asia,Indonesia,pop_1972,121282000
+Asia,Iran,pop_1972,30614000
+Asia,Iraq,pop_1972,10061506
+Asia,Israel,pop_1972,3095893
+Asia,Japan,pop_1972,107188273
+Asia,Jordan,pop_1972,1613551
+Asia,Korea Dem. Rep.,pop_1972,14781241
+Asia,Korea Rep.,pop_1972,33505000
+Asia,Kuwait,pop_1972,841934
+Asia,Lebanon,pop_1972,2680018
+Asia,Malaysia,pop_1972,11441462
+Asia,Mongolia,pop_1972,1320500
+Asia,Myanmar,pop_1972,28466390
+Asia,Nepal,pop_1972,12412593
+Asia,Oman,pop_1972,829050
+Asia,Pakistan,pop_1972,69325921
+Asia,Philippines,pop_1972,40850141
+Asia,Saudi Arabia,pop_1972,6472756
+Asia,Singapore,pop_1972,2152400
+Asia,Sri Lanka,pop_1972,13016733
+Asia,Syria,pop_1972,6701172
+Asia,Taiwan,pop_1972,15226039
+Asia,Thailand,pop_1972,39276153
+Asia,Vietnam,pop_1972,44655014
+Asia,West Bank and Gaza,pop_1972,1089572
+Asia,Yemen Rep.,pop_1972,7407075
+Europe,Albania,pop_1972,2263554
+Europe,Austria,pop_1972,7544201
+Europe,Belgium,pop_1972,9709100
+Europe,Bosnia and Herzegovina,pop_1972,3819000
+Europe,Bulgaria,pop_1972,8576200
+Europe,Croatia,pop_1972,4225310
+Europe,Czech Republic,pop_1972,9862158
+Europe,Denmark,pop_1972,4991596
+Europe,Finland,pop_1972,4639657
+Europe,France,pop_1972,51732000
+Europe,Germany,pop_1972,78717088
+Europe,Greece,pop_1972,8888628
+Europe,Hungary,pop_1972,10394091
+Europe,Iceland,pop_1972,209275
+Europe,Ireland,pop_1972,3024400
+Europe,Italy,pop_1972,54365564
+Europe,Montenegro,pop_1972,527678
+Europe,Netherlands,pop_1972,13329874
+Europe,Norway,pop_1972,3933004
+Europe,Poland,pop_1972,33039545
+Europe,Portugal,pop_1972,8970450
+Europe,Romania,pop_1972,20662648
+Europe,Serbia,pop_1972,8313288
+Europe,Slovak Republic,pop_1972,4593433
+Europe,Slovenia,pop_1972,1694510
+Europe,Spain,pop_1972,34513161
+Europe,Sweden,pop_1972,8122293
+Europe,Switzerland,pop_1972,6401400
+Europe,Turkey,pop_1972,37492953
+Europe,United Kingdom,pop_1972,56079000
+Oceania,Australia,pop_1972,13177000
+Oceania,New Zealand,pop_1972,2929100
+Africa,Algeria,pop_1977,17152804
+Africa,Angola,pop_1977,6162675
+Africa,Benin,pop_1977,3168267
+Africa,Botswana,pop_1977,781472
+Africa,Burkina Faso,pop_1977,5889574
+Africa,Burundi,pop_1977,3834415
+Africa,Cameroon,pop_1977,7959865
+Africa,Central African Republic,pop_1977,2167533
+Africa,Chad,pop_1977,4388260
+Africa,Comoros,pop_1977,304739
+Africa,Congo Dem. Rep.,pop_1977,26480870
+Africa,Congo Rep.,pop_1977,1536769
+Africa,Cote d'Ivoire,pop_1977,7459574
+Africa,Djibouti,pop_1977,228694
+Africa,Egypt,pop_1977,38783863
+Africa,Equatorial Guinea,pop_1977,192675
+Africa,Eritrea,pop_1977,2512642
+Africa,Ethiopia,pop_1977,34617799
+Africa,Gabon,pop_1977,706367
+Africa,Gambia,pop_1977,608274
+Africa,Ghana,pop_1977,10538093
+Africa,Guinea,pop_1977,4227026
+Africa,Guinea-Bissau,pop_1977,745228
+Africa,Kenya,pop_1977,14500404
+Africa,Lesotho,pop_1977,1251524
+Africa,Liberia,pop_1977,1703617
+Africa,Libya,pop_1977,2721783
+Africa,Madagascar,pop_1977,8007166
+Africa,Malawi,pop_1977,5637246
+Africa,Mali,pop_1977,6491649
+Africa,Mauritania,pop_1977,1456688
+Africa,Mauritius,pop_1977,913025
+Africa,Morocco,pop_1977,18396941
+Africa,Mozambique,pop_1977,11127868
+Africa,Namibia,pop_1977,977026
+Africa,Niger,pop_1977,5682086
+Africa,Nigeria,pop_1977,62209173
+Africa,Reunion,pop_1977,492095
+Africa,Rwanda,pop_1977,4657072
+Africa,Sao Tome and Principe,pop_1977,86796
+Africa,Senegal,pop_1977,5260855
+Africa,Sierra Leone,pop_1977,3140897
+Africa,Somalia,pop_1977,4353666
+Africa,South Africa,pop_1977,27129932
+Africa,Sudan,pop_1977,17104986
+Africa,Swaziland,pop_1977,551425
+Africa,Tanzania,pop_1977,17129565
+Africa,Togo,pop_1977,2308582
+Africa,Tunisia,pop_1977,6005061
+Africa,Uganda,pop_1977,11457758
+Africa,Zambia,pop_1977,5216550
+Africa,Zimbabwe,pop_1977,6642107
+Americas,Argentina,pop_1977,26983828
+Americas,Bolivia,pop_1977,5079716
+Americas,Brazil,pop_1977,114313951
+Americas,Canada,pop_1977,23796400
+Americas,Chile,pop_1977,10599793
+Americas,Colombia,pop_1977,25094412
+Americas,Costa Rica,pop_1977,2108457
+Americas,Cuba,pop_1977,9537988
+Americas,Dominican Republic,pop_1977,5302800
+Americas,Ecuador,pop_1977,7278866
+Americas,El Salvador,pop_1977,4282586
+Americas,Guatemala,pop_1977,5703430
+Americas,Haiti,pop_1977,4908554
+Americas,Honduras,pop_1977,3055235
+Americas,Jamaica,pop_1977,2156814
+Americas,Mexico,pop_1977,63759976
+Americas,Nicaragua,pop_1977,2554598
+Americas,Panama,pop_1977,1839782
+Americas,Paraguay,pop_1977,2984494
+Americas,Peru,pop_1977,15990099
+Americas,Puerto Rico,pop_1977,3080828
+Americas,Trinidad and Tobago,pop_1977,1039009
+Americas,United States,pop_1977,220239000
+Americas,Uruguay,pop_1977,2873520
+Americas,Venezuela,pop_1977,13503563
+Asia,Afghanistan,pop_1977,14880372
+Asia,Bahrain,pop_1977,297410
+Asia,Bangladesh,pop_1977,80428306
+Asia,Cambodia,pop_1977,6978607
+Asia,China,pop_1977,943455000
+Asia,Hong Kong China,pop_1977,4583700
+Asia,India,pop_1977,6.34e+08
+Asia,Indonesia,pop_1977,136725000
+Asia,Iran,pop_1977,35480679
+Asia,Iraq,pop_1977,11882916
+Asia,Israel,pop_1977,3495918
+Asia,Japan,pop_1977,113872473
+Asia,Jordan,pop_1977,1937652
+Asia,Korea Dem. Rep.,pop_1977,16325320
+Asia,Korea Rep.,pop_1977,36436000
+Asia,Kuwait,pop_1977,1140357
+Asia,Lebanon,pop_1977,3115787
+Asia,Malaysia,pop_1977,12845381
+Asia,Mongolia,pop_1977,1528000
+Asia,Myanmar,pop_1977,31528087
+Asia,Nepal,pop_1977,13933198
+Asia,Oman,pop_1977,1004533
+Asia,Pakistan,pop_1977,78152686
+Asia,Philippines,pop_1977,46850962
+Asia,Saudi Arabia,pop_1977,8128505
+Asia,Singapore,pop_1977,2325300
+Asia,Sri Lanka,pop_1977,14116836
+Asia,Syria,pop_1977,7932503
+Asia,Taiwan,pop_1977,16785196
+Asia,Thailand,pop_1977,44148285
+Asia,Vietnam,pop_1977,50533506
+Asia,West Bank and Gaza,pop_1977,1261091
+Asia,Yemen Rep.,pop_1977,8403990
+Europe,Albania,pop_1977,2509048
+Europe,Austria,pop_1977,7568430
+Europe,Belgium,pop_1977,9821800
+Europe,Bosnia and Herzegovina,pop_1977,4086000
+Europe,Bulgaria,pop_1977,8797022
+Europe,Croatia,pop_1977,4318673
+Europe,Czech Republic,pop_1977,10161915
+Europe,Denmark,pop_1977,5088419
+Europe,Finland,pop_1977,4738902
+Europe,France,pop_1977,53165019
+Europe,Germany,pop_1977,78160773
+Europe,Greece,pop_1977,9308479
+Europe,Hungary,pop_1977,10637171
+Europe,Iceland,pop_1977,221823
+Europe,Ireland,pop_1977,3271900
+Europe,Italy,pop_1977,56059245
+Europe,Montenegro,pop_1977,560073
+Europe,Netherlands,pop_1977,13852989
+Europe,Norway,pop_1977,4043205
+Europe,Poland,pop_1977,34621254
+Europe,Portugal,pop_1977,9662600
+Europe,Romania,pop_1977,21658597
+Europe,Serbia,pop_1977,8686367
+Europe,Slovak Republic,pop_1977,4827803
+Europe,Slovenia,pop_1977,1746919
+Europe,Spain,pop_1977,36439000
+Europe,Sweden,pop_1977,8251648
+Europe,Switzerland,pop_1977,6316424
+Europe,Turkey,pop_1977,42404033
+Europe,United Kingdom,pop_1977,56179000
+Oceania,Australia,pop_1977,14074100
+Oceania,New Zealand,pop_1977,3164900
+Africa,Algeria,pop_1982,20033753
+Africa,Angola,pop_1982,7016384
+Africa,Benin,pop_1982,3641603
+Africa,Botswana,pop_1982,970347
+Africa,Burkina Faso,pop_1982,6634596
+Africa,Burundi,pop_1982,4580410
+Africa,Cameroon,pop_1982,9250831
+Africa,Central African Republic,pop_1982,2476971
+Africa,Chad,pop_1982,4875118
+Africa,Comoros,pop_1982,348643
+Africa,Congo Dem. Rep.,pop_1982,30646495
+Africa,Congo Rep.,pop_1982,1774735
+Africa,Cote d'Ivoire,pop_1982,9025951
+Africa,Djibouti,pop_1982,305991
+Africa,Egypt,pop_1982,45681811
+Africa,Equatorial Guinea,pop_1982,285483
+Africa,Eritrea,pop_1982,2637297
+Africa,Ethiopia,pop_1982,38111756
+Africa,Gabon,pop_1982,753874
+Africa,Gambia,pop_1982,715523
+Africa,Ghana,pop_1982,11400338
+Africa,Guinea,pop_1982,4710497
+Africa,Guinea-Bissau,pop_1982,825987
+Africa,Kenya,pop_1982,17661452
+Africa,Lesotho,pop_1982,1411807
+Africa,Liberia,pop_1982,1956875
+Africa,Libya,pop_1982,3344074
+Africa,Madagascar,pop_1982,9171477
+Africa,Malawi,pop_1982,6502825
+Africa,Mali,pop_1982,6998256
+Africa,Mauritania,pop_1982,1622136
+Africa,Mauritius,pop_1982,992040
+Africa,Morocco,pop_1982,20198730
+Africa,Mozambique,pop_1982,12587223
+Africa,Namibia,pop_1982,1099010
+Africa,Niger,pop_1982,6437188
+Africa,Nigeria,pop_1982,73039376
+Africa,Reunion,pop_1982,517810
+Africa,Rwanda,pop_1982,5507565
+Africa,Sao Tome and Principe,pop_1982,98593
+Africa,Senegal,pop_1982,6147783
+Africa,Sierra Leone,pop_1982,3464522
+Africa,Somalia,pop_1982,5828892
+Africa,South Africa,pop_1982,31140029
+Africa,Sudan,pop_1982,20367053
+Africa,Swaziland,pop_1982,649901
+Africa,Tanzania,pop_1982,19844382
+Africa,Togo,pop_1982,2644765
+Africa,Tunisia,pop_1982,6734098
+Africa,Uganda,pop_1982,12939400
+Africa,Zambia,pop_1982,6100407
+Africa,Zimbabwe,pop_1982,7636524
+Americas,Argentina,pop_1982,29341374
+Americas,Bolivia,pop_1982,5642224
+Americas,Brazil,pop_1982,128962939
+Americas,Canada,pop_1982,25201900
+Americas,Chile,pop_1982,11487112
+Americas,Colombia,pop_1982,27764644
+Americas,Costa Rica,pop_1982,2424367
+Americas,Cuba,pop_1982,9789224
+Americas,Dominican Republic,pop_1982,5968349
+Americas,Ecuador,pop_1982,8365850
+Americas,El Salvador,pop_1982,4474873
+Americas,Guatemala,pop_1982,6395630
+Americas,Haiti,pop_1982,5198399
+Americas,Honduras,pop_1982,3669448
+Americas,Jamaica,pop_1982,2298309
+Americas,Mexico,pop_1982,71640904
+Americas,Nicaragua,pop_1982,2979423
+Americas,Panama,pop_1982,2036305
+Americas,Paraguay,pop_1982,3366439
+Americas,Peru,pop_1982,18125129
+Americas,Puerto Rico,pop_1982,3279001
+Americas,Trinidad and Tobago,pop_1982,1116479
+Americas,United States,pop_1982,232187835
+Americas,Uruguay,pop_1982,2953997
+Americas,Venezuela,pop_1982,15620766
+Asia,Afghanistan,pop_1982,12881816
+Asia,Bahrain,pop_1982,377967
+Asia,Bangladesh,pop_1982,93074406
+Asia,Cambodia,pop_1982,7272485
+Asia,China,pop_1982,1000281000
+Asia,Hong Kong China,pop_1982,5264500
+Asia,India,pop_1982,7.08e+08
+Asia,Indonesia,pop_1982,153343000
+Asia,Iran,pop_1982,43072751
+Asia,Iraq,pop_1982,14173318
+Asia,Israel,pop_1982,3858421
+Asia,Japan,pop_1982,118454974
+Asia,Jordan,pop_1982,2347031
+Asia,Korea Dem. Rep.,pop_1982,17647518
+Asia,Korea Rep.,pop_1982,39326000
+Asia,Kuwait,pop_1982,1497494
+Asia,Lebanon,pop_1982,3086876
+Asia,Malaysia,pop_1982,14441916
+Asia,Mongolia,pop_1982,1756032
+Asia,Myanmar,pop_1982,34680442
+Asia,Nepal,pop_1982,15796314
+Asia,Oman,pop_1982,1301048
+Asia,Pakistan,pop_1982,91462088
+Asia,Philippines,pop_1982,53456774
+Asia,Saudi Arabia,pop_1982,11254672
+Asia,Singapore,pop_1982,2651869
+Asia,Sri Lanka,pop_1982,15410151
+Asia,Syria,pop_1982,9410494
+Asia,Taiwan,pop_1982,18501390
+Asia,Thailand,pop_1982,48827160
+Asia,Vietnam,pop_1982,56142181
+Asia,West Bank and Gaza,pop_1982,1425876
+Asia,Yemen Rep.,pop_1982,9657618
+Europe,Albania,pop_1982,2780097
+Europe,Austria,pop_1982,7574613
+Europe,Belgium,pop_1982,9856303
+Europe,Bosnia and Herzegovina,pop_1982,4172693
+Europe,Bulgaria,pop_1982,8892098
+Europe,Croatia,pop_1982,4413368
+Europe,Czech Republic,pop_1982,10303704
+Europe,Denmark,pop_1982,5117810
+Europe,Finland,pop_1982,4826933
+Europe,France,pop_1982,54433565
+Europe,Germany,pop_1982,78335266
+Europe,Greece,pop_1982,9786480
+Europe,Hungary,pop_1982,10705535
+Europe,Iceland,pop_1982,233997
+Europe,Ireland,pop_1982,3480000
+Europe,Italy,pop_1982,56535636
+Europe,Montenegro,pop_1982,562548
+Europe,Netherlands,pop_1982,14310401
+Europe,Norway,pop_1982,4114787
+Europe,Poland,pop_1982,36227381
+Europe,Portugal,pop_1982,9859650
+Europe,Romania,pop_1982,22356726
+Europe,Serbia,pop_1982,9032824
+Europe,Slovak Republic,pop_1982,5048043
+Europe,Slovenia,pop_1982,1861252
+Europe,Spain,pop_1982,37983310
+Europe,Sweden,pop_1982,8325260
+Europe,Switzerland,pop_1982,6468126
+Europe,Turkey,pop_1982,47328791
+Europe,United Kingdom,pop_1982,56339704
+Oceania,Australia,pop_1982,15184200
+Oceania,New Zealand,pop_1982,3210650
+Africa,Algeria,pop_1987,23254956
+Africa,Angola,pop_1987,7874230
+Africa,Benin,pop_1987,4243788
+Africa,Botswana,pop_1987,1151184
+Africa,Burkina Faso,pop_1987,7586551
+Africa,Burundi,pop_1987,5126023
+Africa,Cameroon,pop_1987,10780667
+Africa,Central African Republic,pop_1987,2840009
+Africa,Chad,pop_1987,5498955
+Africa,Comoros,pop_1987,395114
+Africa,Congo Dem. Rep.,pop_1987,35481645
+Africa,Congo Rep.,pop_1987,2064095
+Africa,Cote d'Ivoire,pop_1987,10761098
+Africa,Djibouti,pop_1987,311025
+Africa,Egypt,pop_1987,52799062
+Africa,Equatorial Guinea,pop_1987,341244
+Africa,Eritrea,pop_1987,2915959
+Africa,Ethiopia,pop_1987,42999530
+Africa,Gabon,pop_1987,880397
+Africa,Gambia,pop_1987,848406
+Africa,Ghana,pop_1987,14168101
+Africa,Guinea,pop_1987,5650262
+Africa,Guinea-Bissau,pop_1987,927524
+Africa,Kenya,pop_1987,21198082
+Africa,Lesotho,pop_1987,1599200
+Africa,Liberia,pop_1987,2269414
+Africa,Libya,pop_1987,3799845
+Africa,Madagascar,pop_1987,10568642
+Africa,Malawi,pop_1987,7824747
+Africa,Mali,pop_1987,7634008
+Africa,Mauritania,pop_1987,1841240
+Africa,Mauritius,pop_1987,1042663
+Africa,Morocco,pop_1987,22987397
+Africa,Mozambique,pop_1987,12891952
+Africa,Namibia,pop_1987,1278184
+Africa,Niger,pop_1987,7332638
+Africa,Nigeria,pop_1987,81551520
+Africa,Reunion,pop_1987,562035
+Africa,Rwanda,pop_1987,6349365
+Africa,Sao Tome and Principe,pop_1987,110812
+Africa,Senegal,pop_1987,7171347
+Africa,Sierra Leone,pop_1987,3868905
+Africa,Somalia,pop_1987,6921858
+Africa,South Africa,pop_1987,35933379
+Africa,Sudan,pop_1987,24725960
+Africa,Swaziland,pop_1987,779348
+Africa,Tanzania,pop_1987,23040630
+Africa,Togo,pop_1987,3154264
+Africa,Tunisia,pop_1987,7724976
+Africa,Uganda,pop_1987,15283050
+Africa,Zambia,pop_1987,7272406
+Africa,Zimbabwe,pop_1987,9216418
+Americas,Argentina,pop_1987,31620918
+Americas,Bolivia,pop_1987,6156369
+Americas,Brazil,pop_1987,142938076
+Americas,Canada,pop_1987,26549700
+Americas,Chile,pop_1987,12463354
+Americas,Colombia,pop_1987,30964245
+Americas,Costa Rica,pop_1987,2799811
+Americas,Cuba,pop_1987,10239839
+Americas,Dominican Republic,pop_1987,6655297
+Americas,Ecuador,pop_1987,9545158
+Americas,El Salvador,pop_1987,4842194
+Americas,Guatemala,pop_1987,7326406
+Americas,Haiti,pop_1987,5756203
+Americas,Honduras,pop_1987,4372203
+Americas,Jamaica,pop_1987,2326606
+Americas,Mexico,pop_1987,80122492
+Americas,Nicaragua,pop_1987,3344353
+Americas,Panama,pop_1987,2253639
+Americas,Paraguay,pop_1987,3886512
+Americas,Peru,pop_1987,20195924
+Americas,Puerto Rico,pop_1987,3444468
+Americas,Trinidad and Tobago,pop_1987,1191336
+Americas,United States,pop_1987,242803533
+Americas,Uruguay,pop_1987,3045153
+Americas,Venezuela,pop_1987,17910182
+Asia,Afghanistan,pop_1987,13867957
+Asia,Bahrain,pop_1987,454612
+Asia,Bangladesh,pop_1987,103764241
+Asia,Cambodia,pop_1987,8371791
+Asia,China,pop_1987,1084035000
+Asia,Hong Kong China,pop_1987,5584510
+Asia,India,pop_1987,7.88e+08
+Asia,Indonesia,pop_1987,169276000
+Asia,Iran,pop_1987,51889696
+Asia,Iraq,pop_1987,16543189
+Asia,Israel,pop_1987,4203148
+Asia,Japan,pop_1987,122091325
+Asia,Jordan,pop_1987,2820042
+Asia,Korea Dem. Rep.,pop_1987,19067554
+Asia,Korea Rep.,pop_1987,41622000
+Asia,Kuwait,pop_1987,1891487
+Asia,Lebanon,pop_1987,3089353
+Asia,Malaysia,pop_1987,16331785
+Asia,Mongolia,pop_1987,2015133
+Asia,Myanmar,pop_1987,38028578
+Asia,Nepal,pop_1987,17917180
+Asia,Oman,pop_1987,1593882
+Asia,Pakistan,pop_1987,105186881
+Asia,Philippines,pop_1987,60017788
+Asia,Saudi Arabia,pop_1987,14619745
+Asia,Singapore,pop_1987,2794552
+Asia,Sri Lanka,pop_1987,16495304
+Asia,Syria,pop_1987,11242847
+Asia,Taiwan,pop_1987,19757799
+Asia,Thailand,pop_1987,52910342
+Asia,Vietnam,pop_1987,62826491
+Asia,West Bank and Gaza,pop_1987,1691210
+Asia,Yemen Rep.,pop_1987,11219340
+Europe,Albania,pop_1987,3075321
+Europe,Austria,pop_1987,7578903
+Europe,Belgium,pop_1987,9870200
+Europe,Bosnia and Herzegovina,pop_1987,4338977
+Europe,Bulgaria,pop_1987,8971958
+Europe,Croatia,pop_1987,4484310
+Europe,Czech Republic,pop_1987,10311597
+Europe,Denmark,pop_1987,5127024
+Europe,Finland,pop_1987,4931729
+Europe,France,pop_1987,55630100
+Europe,Germany,pop_1987,77718298
+Europe,Greece,pop_1987,9974490
+Europe,Hungary,pop_1987,10612740
+Europe,Iceland,pop_1987,244676
+Europe,Ireland,pop_1987,3539900
+Europe,Italy,pop_1987,56729703
+Europe,Montenegro,pop_1987,569473
+Europe,Netherlands,pop_1987,14665278
+Europe,Norway,pop_1987,4186147
+Europe,Poland,pop_1987,37740710
+Europe,Portugal,pop_1987,9915289
+Europe,Romania,pop_1987,22686371
+Europe,Serbia,pop_1987,9230783
+Europe,Slovak Republic,pop_1987,5199318
+Europe,Slovenia,pop_1987,1945870
+Europe,Spain,pop_1987,38880702
+Europe,Sweden,pop_1987,8421403
+Europe,Switzerland,pop_1987,6649942
+Europe,Turkey,pop_1987,52881328
+Europe,United Kingdom,pop_1987,56981620
+Oceania,Australia,pop_1987,16257249
+Oceania,New Zealand,pop_1987,3317166
+Africa,Algeria,pop_1992,26298373
+Africa,Angola,pop_1992,8735988
+Africa,Benin,pop_1992,4981671
+Africa,Botswana,pop_1992,1342614
+Africa,Burkina Faso,pop_1992,8878303
+Africa,Burundi,pop_1992,5809236
+Africa,Cameroon,pop_1992,12467171
+Africa,Central African Republic,pop_1992,3265124
+Africa,Chad,pop_1992,6429417
+Africa,Comoros,pop_1992,454429
+Africa,Congo Dem. Rep.,pop_1992,41672143
+Africa,Congo Rep.,pop_1992,2409073
+Africa,Cote d'Ivoire,pop_1992,12772596
+Africa,Djibouti,pop_1992,384156
+Africa,Egypt,pop_1992,59402198
+Africa,Equatorial Guinea,pop_1992,387838
+Africa,Eritrea,pop_1992,3668440
+Africa,Ethiopia,pop_1992,52088559
+Africa,Gabon,pop_1992,985739
+Africa,Gambia,pop_1992,1025384
+Africa,Ghana,pop_1992,16278738
+Africa,Guinea,pop_1992,6990574
+Africa,Guinea-Bissau,pop_1992,1050938
+Africa,Kenya,pop_1992,25020539
+Africa,Lesotho,pop_1992,1803195
+Africa,Liberia,pop_1992,1912974
+Africa,Libya,pop_1992,4364501
+Africa,Madagascar,pop_1992,12210395
+Africa,Malawi,pop_1992,10014249
+Africa,Mali,pop_1992,8416215
+Africa,Mauritania,pop_1992,2119465
+Africa,Mauritius,pop_1992,1096202
+Africa,Morocco,pop_1992,25798239
+Africa,Mozambique,pop_1992,13160731
+Africa,Namibia,pop_1992,1554253
+Africa,Niger,pop_1992,8392818
+Africa,Nigeria,pop_1992,93364244
+Africa,Reunion,pop_1992,622191
+Africa,Rwanda,pop_1992,7290203
+Africa,Sao Tome and Principe,pop_1992,125911
+Africa,Senegal,pop_1992,8307920
+Africa,Sierra Leone,pop_1992,4260884
+Africa,Somalia,pop_1992,6099799
+Africa,South Africa,pop_1992,39964159
+Africa,Sudan,pop_1992,28227588
+Africa,Swaziland,pop_1992,962344
+Africa,Tanzania,pop_1992,26605473
+Africa,Togo,pop_1992,3747553
+Africa,Tunisia,pop_1992,8523077
+Africa,Uganda,pop_1992,18252190
+Africa,Zambia,pop_1992,8381163
+Africa,Zimbabwe,pop_1992,10704340
+Americas,Argentina,pop_1992,33958947
+Americas,Bolivia,pop_1992,6893451
+Americas,Brazil,pop_1992,155975974
+Americas,Canada,pop_1992,28523502
+Americas,Chile,pop_1992,13572994
+Americas,Colombia,pop_1992,34202721
+Americas,Costa Rica,pop_1992,3173216
+Americas,Cuba,pop_1992,10723260
+Americas,Dominican Republic,pop_1992,7351181
+Americas,Ecuador,pop_1992,10748394
+Americas,El Salvador,pop_1992,5274649
+Americas,Guatemala,pop_1992,8486949
+Americas,Haiti,pop_1992,6326682
+Americas,Honduras,pop_1992,5077347
+Americas,Jamaica,pop_1992,2378618
+Americas,Mexico,pop_1992,88111030
+Americas,Nicaragua,pop_1992,4017939
+Americas,Panama,pop_1992,2484997
+Americas,Paraguay,pop_1992,4483945
+Americas,Peru,pop_1992,22430449
+Americas,Puerto Rico,pop_1992,3585176
+Americas,Trinidad and Tobago,pop_1992,1183669
+Americas,United States,pop_1992,256894189
+Americas,Uruguay,pop_1992,3149262
+Americas,Venezuela,pop_1992,20265563
+Asia,Afghanistan,pop_1992,16317921
+Asia,Bahrain,pop_1992,529491
+Asia,Bangladesh,pop_1992,113704579
+Asia,Cambodia,pop_1992,10150094
+Asia,China,pop_1992,1164970000
+Asia,Hong Kong China,pop_1992,5829696
+Asia,India,pop_1992,8.72e+08
+Asia,Indonesia,pop_1992,184816000
+Asia,Iran,pop_1992,60397973
+Asia,Iraq,pop_1992,17861905
+Asia,Israel,pop_1992,4936550
+Asia,Japan,pop_1992,124329269
+Asia,Jordan,pop_1992,3867409
+Asia,Korea Dem. Rep.,pop_1992,20711375
+Asia,Korea Rep.,pop_1992,43805450
+Asia,Kuwait,pop_1992,1418095
+Asia,Lebanon,pop_1992,3219994
+Asia,Malaysia,pop_1992,18319502
+Asia,Mongolia,pop_1992,2312802
+Asia,Myanmar,pop_1992,40546538
+Asia,Nepal,pop_1992,20326209
+Asia,Oman,pop_1992,1915208
+Asia,Pakistan,pop_1992,120065004
+Asia,Philippines,pop_1992,67185766
+Asia,Saudi Arabia,pop_1992,16945857
+Asia,Singapore,pop_1992,3235865
+Asia,Sri Lanka,pop_1992,17587060
+Asia,Syria,pop_1992,13219062
+Asia,Taiwan,pop_1992,20686918
+Asia,Thailand,pop_1992,56667095
+Asia,Vietnam,pop_1992,69940728
+Asia,West Bank and Gaza,pop_1992,2104779
+Asia,Yemen Rep.,pop_1992,13367997
+Europe,Albania,pop_1992,3326498
+Europe,Austria,pop_1992,7914969
+Europe,Belgium,pop_1992,10045622
+Europe,Bosnia and Herzegovina,pop_1992,4256013
+Europe,Bulgaria,pop_1992,8658506
+Europe,Croatia,pop_1992,4494013
+Europe,Czech Republic,pop_1992,10315702
+Europe,Denmark,pop_1992,5171393
+Europe,Finland,pop_1992,5041039
+Europe,France,pop_1992,57374179
+Europe,Germany,pop_1992,80597764
+Europe,Greece,pop_1992,10325429
+Europe,Hungary,pop_1992,10348684
+Europe,Iceland,pop_1992,259012
+Europe,Ireland,pop_1992,3557761
+Europe,Italy,pop_1992,56840847
+Europe,Montenegro,pop_1992,621621
+Europe,Netherlands,pop_1992,15174244
+Europe,Norway,pop_1992,4286357
+Europe,Poland,pop_1992,38370697
+Europe,Portugal,pop_1992,9927680
+Europe,Romania,pop_1992,22797027
+Europe,Serbia,pop_1992,9826397
+Europe,Slovak Republic,pop_1992,5302888
+Europe,Slovenia,pop_1992,1999210
+Europe,Spain,pop_1992,39549438
+Europe,Sweden,pop_1992,8718867
+Europe,Switzerland,pop_1992,6995447
+Europe,Turkey,pop_1992,58179144
+Europe,United Kingdom,pop_1992,57866349
+Oceania,Australia,pop_1992,17481977
+Oceania,New Zealand,pop_1992,3437674
+Africa,Algeria,pop_1997,29072015
+Africa,Angola,pop_1997,9875024
+Africa,Benin,pop_1997,6066080
+Africa,Botswana,pop_1997,1536536
+Africa,Burkina Faso,pop_1997,10352843
+Africa,Burundi,pop_1997,6121610
+Africa,Cameroon,pop_1997,14195809
+Africa,Central African Republic,pop_1997,3696513
+Africa,Chad,pop_1997,7562011
+Africa,Comoros,pop_1997,527982
+Africa,Congo Dem. Rep.,pop_1997,47798986
+Africa,Congo Rep.,pop_1997,2800947
+Africa,Cote d'Ivoire,pop_1997,14625967
+Africa,Djibouti,pop_1997,417908
+Africa,Egypt,pop_1997,66134291
+Africa,Equatorial Guinea,pop_1997,439971
+Africa,Eritrea,pop_1997,4058319
+Africa,Ethiopia,pop_1997,59861301
+Africa,Gabon,pop_1997,1126189
+Africa,Gambia,pop_1997,1235767
+Africa,Ghana,pop_1997,18418288
+Africa,Guinea,pop_1997,8048834
+Africa,Guinea-Bissau,pop_1997,1193708
+Africa,Kenya,pop_1997,28263827
+Africa,Lesotho,pop_1997,1982823
+Africa,Liberia,pop_1997,2200725
+Africa,Libya,pop_1997,4759670
+Africa,Madagascar,pop_1997,14165114
+Africa,Malawi,pop_1997,10419991
+Africa,Mali,pop_1997,9384984
+Africa,Mauritania,pop_1997,2444741
+Africa,Mauritius,pop_1997,1149818
+Africa,Morocco,pop_1997,28529501
+Africa,Mozambique,pop_1997,16603334
+Africa,Namibia,pop_1997,1774766
+Africa,Niger,pop_1997,9666252
+Africa,Nigeria,pop_1997,106207839
+Africa,Reunion,pop_1997,684810
+Africa,Rwanda,pop_1997,7212583
+Africa,Sao Tome and Principe,pop_1997,145608
+Africa,Senegal,pop_1997,9535314
+Africa,Sierra Leone,pop_1997,4578212
+Africa,Somalia,pop_1997,6633514
+Africa,South Africa,pop_1997,42835005
+Africa,Sudan,pop_1997,32160729
+Africa,Swaziland,pop_1997,1054486
+Africa,Tanzania,pop_1997,30686889
+Africa,Togo,pop_1997,4320890
+Africa,Tunisia,pop_1997,9231669
+Africa,Uganda,pop_1997,21210254
+Africa,Zambia,pop_1997,9417789
+Africa,Zimbabwe,pop_1997,11404948
+Americas,Argentina,pop_1997,36203463
+Americas,Bolivia,pop_1997,7693188
+Americas,Brazil,pop_1997,168546719
+Americas,Canada,pop_1997,30305843
+Americas,Chile,pop_1997,14599929
+Americas,Colombia,pop_1997,37657830
+Americas,Costa Rica,pop_1997,3518107
+Americas,Cuba,pop_1997,10983007
+Americas,Dominican Republic,pop_1997,7992357
+Americas,Ecuador,pop_1997,11911819
+Americas,El Salvador,pop_1997,5783439
+Americas,Guatemala,pop_1997,9803875
+Americas,Haiti,pop_1997,6913545
+Americas,Honduras,pop_1997,5867957
+Americas,Jamaica,pop_1997,2531311
+Americas,Mexico,pop_1997,95895146
+Americas,Nicaragua,pop_1997,4609572
+Americas,Panama,pop_1997,2734531
+Americas,Paraguay,pop_1997,5154123
+Americas,Peru,pop_1997,24748122
+Americas,Puerto Rico,pop_1997,3759430
+Americas,Trinidad and Tobago,pop_1997,1138101
+Americas,United States,pop_1997,272911760
+Americas,Uruguay,pop_1997,3262838
+Americas,Venezuela,pop_1997,22374398
+Asia,Afghanistan,pop_1997,22227415
+Asia,Bahrain,pop_1997,598561
+Asia,Bangladesh,pop_1997,123315288
+Asia,Cambodia,pop_1997,11782962
+Asia,China,pop_1997,1230075000
+Asia,Hong Kong China,pop_1997,6495918
+Asia,India,pop_1997,9.59e+08
+Asia,Indonesia,pop_1997,199278000
+Asia,Iran,pop_1997,63327987
+Asia,Iraq,pop_1997,20775703
+Asia,Israel,pop_1997,5531387
+Asia,Japan,pop_1997,125956499
+Asia,Jordan,pop_1997,4526235
+Asia,Korea Dem. Rep.,pop_1997,21585105
+Asia,Korea Rep.,pop_1997,46173816
+Asia,Kuwait,pop_1997,1765345
+Asia,Lebanon,pop_1997,3430388
+Asia,Malaysia,pop_1997,20476091
+Asia,Mongolia,pop_1997,2494803
+Asia,Myanmar,pop_1997,43247867
+Asia,Nepal,pop_1997,23001113
+Asia,Oman,pop_1997,2283635
+Asia,Pakistan,pop_1997,135564834
+Asia,Philippines,pop_1997,75012988
+Asia,Saudi Arabia,pop_1997,21229759
+Asia,Singapore,pop_1997,3802309
+Asia,Sri Lanka,pop_1997,18698655
+Asia,Syria,pop_1997,15081016
+Asia,Taiwan,pop_1997,21628605
+Asia,Thailand,pop_1997,60216677
+Asia,Vietnam,pop_1997,76048996
+Asia,West Bank and Gaza,pop_1997,2826046
+Asia,Yemen Rep.,pop_1997,15826497
+Europe,Albania,pop_1997,3428038
+Europe,Austria,pop_1997,8069876
+Europe,Belgium,pop_1997,10199787
+Europe,Bosnia and Herzegovina,pop_1997,3607000
+Europe,Bulgaria,pop_1997,8066057
+Europe,Croatia,pop_1997,4444595
+Europe,Czech Republic,pop_1997,10300707
+Europe,Denmark,pop_1997,5283663
+Europe,Finland,pop_1997,5134406
+Europe,France,pop_1997,58623428
+Europe,Germany,pop_1997,82011073
+Europe,Greece,pop_1997,10502372
+Europe,Hungary,pop_1997,10244684
+Europe,Iceland,pop_1997,271192
+Europe,Ireland,pop_1997,3667233
+Europe,Italy,pop_1997,57479469
+Europe,Montenegro,pop_1997,692651
+Europe,Netherlands,pop_1997,15604464
+Europe,Norway,pop_1997,4405672
+Europe,Poland,pop_1997,38654957
+Europe,Portugal,pop_1997,10156415
+Europe,Romania,pop_1997,22562458
+Europe,Serbia,pop_1997,10336594
+Europe,Slovak Republic,pop_1997,5383010
+Europe,Slovenia,pop_1997,2011612
+Europe,Spain,pop_1997,39855442
+Europe,Sweden,pop_1997,8897619
+Europe,Switzerland,pop_1997,7193761
+Europe,Turkey,pop_1997,63047647
+Europe,United Kingdom,pop_1997,58808266
+Oceania,Australia,pop_1997,18565243
+Oceania,New Zealand,pop_1997,3676187
+Africa,Algeria,pop_2002,31287142
+Africa,Angola,pop_2002,10866106
+Africa,Benin,pop_2002,7026113
+Africa,Botswana,pop_2002,1630347
+Africa,Burkina Faso,pop_2002,12251209
+Africa,Burundi,pop_2002,7021078
+Africa,Cameroon,pop_2002,15929988
+Africa,Central African Republic,pop_2002,4048013
+Africa,Chad,pop_2002,8835739
+Africa,Comoros,pop_2002,614382
+Africa,Congo Dem. Rep.,pop_2002,55379852
+Africa,Congo Rep.,pop_2002,3328795
+Africa,Cote d'Ivoire,pop_2002,16252726
+Africa,Djibouti,pop_2002,447416
+Africa,Egypt,pop_2002,73312559
+Africa,Equatorial Guinea,pop_2002,495627
+Africa,Eritrea,pop_2002,4414865
+Africa,Ethiopia,pop_2002,67946797
+Africa,Gabon,pop_2002,1299304
+Africa,Gambia,pop_2002,1457766
+Africa,Ghana,pop_2002,20550751
+Africa,Guinea,pop_2002,8807818
+Africa,Guinea-Bissau,pop_2002,1332459
+Africa,Kenya,pop_2002,31386842
+Africa,Lesotho,pop_2002,2046772
+Africa,Liberia,pop_2002,2814651
+Africa,Libya,pop_2002,5368585
+Africa,Madagascar,pop_2002,16473477
+Africa,Malawi,pop_2002,11824495
+Africa,Mali,pop_2002,10580176
+Africa,Mauritania,pop_2002,2828858
+Africa,Mauritius,pop_2002,1200206
+Africa,Morocco,pop_2002,31167783
+Africa,Mozambique,pop_2002,18473780
+Africa,Namibia,pop_2002,1972153
+Africa,Niger,pop_2002,11140655
+Africa,Nigeria,pop_2002,119901274
+Africa,Reunion,pop_2002,743981
+Africa,Rwanda,pop_2002,7852401
+Africa,Sao Tome and Principe,pop_2002,170372
+Africa,Senegal,pop_2002,10870037
+Africa,Sierra Leone,pop_2002,5359092
+Africa,Somalia,pop_2002,7753310
+Africa,South Africa,pop_2002,44433622
+Africa,Sudan,pop_2002,37090298
+Africa,Swaziland,pop_2002,1130269
+Africa,Tanzania,pop_2002,34593779
+Africa,Togo,pop_2002,4977378
+Africa,Tunisia,pop_2002,9770575
+Africa,Uganda,pop_2002,24739869
+Africa,Zambia,pop_2002,10595811
+Africa,Zimbabwe,pop_2002,11926563
+Americas,Argentina,pop_2002,38331121
+Americas,Bolivia,pop_2002,8445134
+Americas,Brazil,pop_2002,179914212
+Americas,Canada,pop_2002,31902268
+Americas,Chile,pop_2002,15497046
+Americas,Colombia,pop_2002,41008227
+Americas,Costa Rica,pop_2002,3834934
+Americas,Cuba,pop_2002,11226999
+Americas,Dominican Republic,pop_2002,8650322
+Americas,Ecuador,pop_2002,12921234
+Americas,El Salvador,pop_2002,6353681
+Americas,Guatemala,pop_2002,11178650
+Americas,Haiti,pop_2002,7607651
+Americas,Honduras,pop_2002,6677328
+Americas,Jamaica,pop_2002,2664659
+Americas,Mexico,pop_2002,102479927
+Americas,Nicaragua,pop_2002,5146848
+Americas,Panama,pop_2002,2990875
+Americas,Paraguay,pop_2002,5884491
+Americas,Peru,pop_2002,26769436
+Americas,Puerto Rico,pop_2002,3859606
+Americas,Trinidad and Tobago,pop_2002,1101832
+Americas,United States,pop_2002,287675526
+Americas,Uruguay,pop_2002,3363085
+Americas,Venezuela,pop_2002,24287670
+Asia,Afghanistan,pop_2002,25268405
+Asia,Bahrain,pop_2002,656397
+Asia,Bangladesh,pop_2002,135656790
+Asia,Cambodia,pop_2002,12926707
+Asia,China,pop_2002,1280400000
+Asia,Hong Kong China,pop_2002,6762476
+Asia,India,pop_2002,1034172547
+Asia,Indonesia,pop_2002,211060000
+Asia,Iran,pop_2002,66907826
+Asia,Iraq,pop_2002,24001816
+Asia,Israel,pop_2002,6029529
+Asia,Japan,pop_2002,127065841
+Asia,Jordan,pop_2002,5307470
+Asia,Korea Dem. Rep.,pop_2002,22215365
+Asia,Korea Rep.,pop_2002,47969150
+Asia,Kuwait,pop_2002,2111561
+Asia,Lebanon,pop_2002,3677780
+Asia,Malaysia,pop_2002,22662365
+Asia,Mongolia,pop_2002,2674234
+Asia,Myanmar,pop_2002,45598081
+Asia,Nepal,pop_2002,25873917
+Asia,Oman,pop_2002,2713462
+Asia,Pakistan,pop_2002,153403524
+Asia,Philippines,pop_2002,82995088
+Asia,Saudi Arabia,pop_2002,24501530
+Asia,Singapore,pop_2002,4197776
+Asia,Sri Lanka,pop_2002,19576783
+Asia,Syria,pop_2002,17155814
+Asia,Taiwan,pop_2002,22454239
+Asia,Thailand,pop_2002,62806748
+Asia,Vietnam,pop_2002,80908147
+Asia,West Bank and Gaza,pop_2002,3389578
+Asia,Yemen Rep.,pop_2002,18701257
+Europe,Albania,pop_2002,3508512
+Europe,Austria,pop_2002,8148312
+Europe,Belgium,pop_2002,10311970
+Europe,Bosnia and Herzegovina,pop_2002,4165416
+Europe,Bulgaria,pop_2002,7661799
+Europe,Croatia,pop_2002,4481020
+Europe,Czech Republic,pop_2002,10256295
+Europe,Denmark,pop_2002,5374693
+Europe,Finland,pop_2002,5193039
+Europe,France,pop_2002,59925035
+Europe,Germany,pop_2002,82350671
+Europe,Greece,pop_2002,10603863
+Europe,Hungary,pop_2002,10083313
+Europe,Iceland,pop_2002,288030
+Europe,Ireland,pop_2002,3879155
+Europe,Italy,pop_2002,57926999
+Europe,Montenegro,pop_2002,720230
+Europe,Netherlands,pop_2002,16122830
+Europe,Norway,pop_2002,4535591
+Europe,Poland,pop_2002,38625976
+Europe,Portugal,pop_2002,10433867
+Europe,Romania,pop_2002,22404337
+Europe,Serbia,pop_2002,10111559
+Europe,Slovak Republic,pop_2002,5410052
+Europe,Slovenia,pop_2002,2011497
+Europe,Spain,pop_2002,40152517
+Europe,Sweden,pop_2002,8954175
+Europe,Switzerland,pop_2002,7361757
+Europe,Turkey,pop_2002,67308928
+Europe,United Kingdom,pop_2002,59912431
+Oceania,Australia,pop_2002,19546792
+Oceania,New Zealand,pop_2002,3908037
+Africa,Algeria,pop_2007,33333216
+Africa,Angola,pop_2007,12420476
+Africa,Benin,pop_2007,8078314
+Africa,Botswana,pop_2007,1639131
+Africa,Burkina Faso,pop_2007,14326203
+Africa,Burundi,pop_2007,8390505
+Africa,Cameroon,pop_2007,17696293
+Africa,Central African Republic,pop_2007,4369038
+Africa,Chad,pop_2007,10238807
+Africa,Comoros,pop_2007,710960
+Africa,Congo Dem. Rep.,pop_2007,64606759
+Africa,Congo Rep.,pop_2007,3800610
+Africa,Cote d'Ivoire,pop_2007,18013409
+Africa,Djibouti,pop_2007,496374
+Africa,Egypt,pop_2007,80264543
+Africa,Equatorial Guinea,pop_2007,551201
+Africa,Eritrea,pop_2007,4906585
+Africa,Ethiopia,pop_2007,76511887
+Africa,Gabon,pop_2007,1454867
+Africa,Gambia,pop_2007,1688359
+Africa,Ghana,pop_2007,22873338
+Africa,Guinea,pop_2007,9947814
+Africa,Guinea-Bissau,pop_2007,1472041
+Africa,Kenya,pop_2007,35610177
+Africa,Lesotho,pop_2007,2012649
+Africa,Liberia,pop_2007,3193942
+Africa,Libya,pop_2007,6036914
+Africa,Madagascar,pop_2007,19167654
+Africa,Malawi,pop_2007,13327079
+Africa,Mali,pop_2007,12031795
+Africa,Mauritania,pop_2007,3270065
+Africa,Mauritius,pop_2007,1250882
+Africa,Morocco,pop_2007,33757175
+Africa,Mozambique,pop_2007,19951656
+Africa,Namibia,pop_2007,2055080
+Africa,Niger,pop_2007,12894865
+Africa,Nigeria,pop_2007,135031164
+Africa,Reunion,pop_2007,798094
+Africa,Rwanda,pop_2007,8860588
+Africa,Sao Tome and Principe,pop_2007,199579
+Africa,Senegal,pop_2007,12267493
+Africa,Sierra Leone,pop_2007,6144562
+Africa,Somalia,pop_2007,9118773
+Africa,South Africa,pop_2007,43997828
+Africa,Sudan,pop_2007,42292929
+Africa,Swaziland,pop_2007,1133066
+Africa,Tanzania,pop_2007,38139640
+Africa,Togo,pop_2007,5701579
+Africa,Tunisia,pop_2007,10276158
+Africa,Uganda,pop_2007,29170398
+Africa,Zambia,pop_2007,11746035
+Africa,Zimbabwe,pop_2007,12311143
+Americas,Argentina,pop_2007,40301927
+Americas,Bolivia,pop_2007,9119152
+Americas,Brazil,pop_2007,190010647
+Americas,Canada,pop_2007,33390141
+Americas,Chile,pop_2007,16284741
+Americas,Colombia,pop_2007,44227550
+Americas,Costa Rica,pop_2007,4133884
+Americas,Cuba,pop_2007,11416987
+Americas,Dominican Republic,pop_2007,9319622
+Americas,Ecuador,pop_2007,13755680
+Americas,El Salvador,pop_2007,6939688
+Americas,Guatemala,pop_2007,12572928
+Americas,Haiti,pop_2007,8502814
+Americas,Honduras,pop_2007,7483763
+Americas,Jamaica,pop_2007,2780132
+Americas,Mexico,pop_2007,108700891
+Americas,Nicaragua,pop_2007,5675356
+Americas,Panama,pop_2007,3242173
+Americas,Paraguay,pop_2007,6667147
+Americas,Peru,pop_2007,28674757
+Americas,Puerto Rico,pop_2007,3942491
+Americas,Trinidad and Tobago,pop_2007,1056608
+Americas,United States,pop_2007,301139947
+Americas,Uruguay,pop_2007,3447496
+Americas,Venezuela,pop_2007,26084662
+Asia,Afghanistan,pop_2007,31889923
+Asia,Bahrain,pop_2007,708573
+Asia,Bangladesh,pop_2007,150448339
+Asia,Cambodia,pop_2007,14131858
+Asia,China,pop_2007,1318683096
+Asia,Hong Kong China,pop_2007,6980412
+Asia,India,pop_2007,1110396331
+Asia,Indonesia,pop_2007,223547000
+Asia,Iran,pop_2007,69453570
+Asia,Iraq,pop_2007,27499638
+Asia,Israel,pop_2007,6426679
+Asia,Japan,pop_2007,127467972
+Asia,Jordan,pop_2007,6053193
+Asia,Korea Dem. Rep.,pop_2007,23301725
+Asia,Korea Rep.,pop_2007,49044790
+Asia,Kuwait,pop_2007,2505559
+Asia,Lebanon,pop_2007,3921278
+Asia,Malaysia,pop_2007,24821286
+Asia,Mongolia,pop_2007,2874127
+Asia,Myanmar,pop_2007,47761980
+Asia,Nepal,pop_2007,28901790
+Asia,Oman,pop_2007,3204897
+Asia,Pakistan,pop_2007,169270617
+Asia,Philippines,pop_2007,91077287
+Asia,Saudi Arabia,pop_2007,27601038
+Asia,Singapore,pop_2007,4553009
+Asia,Sri Lanka,pop_2007,20378239
+Asia,Syria,pop_2007,19314747
+Asia,Taiwan,pop_2007,23174294
+Asia,Thailand,pop_2007,65068149
+Asia,Vietnam,pop_2007,85262356
+Asia,West Bank and Gaza,pop_2007,4018332
+Asia,Yemen Rep.,pop_2007,22211743
+Europe,Albania,pop_2007,3600523
+Europe,Austria,pop_2007,8199783
+Europe,Belgium,pop_2007,10392226
+Europe,Bosnia and Herzegovina,pop_2007,4552198
+Europe,Bulgaria,pop_2007,7322858
+Europe,Croatia,pop_2007,4493312
+Europe,Czech Republic,pop_2007,10228744
+Europe,Denmark,pop_2007,5468120
+Europe,Finland,pop_2007,5238460
+Europe,France,pop_2007,61083916
+Europe,Germany,pop_2007,82400996
+Europe,Greece,pop_2007,10706290
+Europe,Hungary,pop_2007,9956108
+Europe,Iceland,pop_2007,301931
+Europe,Ireland,pop_2007,4109086
+Europe,Italy,pop_2007,58147733
+Europe,Montenegro,pop_2007,684736
+Europe,Netherlands,pop_2007,16570613
+Europe,Norway,pop_2007,4627926
+Europe,Poland,pop_2007,38518241
+Europe,Portugal,pop_2007,10642836
+Europe,Romania,pop_2007,22276056
+Europe,Serbia,pop_2007,10150265
+Europe,Slovak Republic,pop_2007,5447502
+Europe,Slovenia,pop_2007,2009245
+Europe,Spain,pop_2007,40448191
+Europe,Sweden,pop_2007,9031088
+Europe,Switzerland,pop_2007,7554661
+Europe,Turkey,pop_2007,71158647
+Europe,United Kingdom,pop_2007,60776238
+Oceania,Australia,pop_2007,20434176
+Oceania,New Zealand,pop_2007,4115771
